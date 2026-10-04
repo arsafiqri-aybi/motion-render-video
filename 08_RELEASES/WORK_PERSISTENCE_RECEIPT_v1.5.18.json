@@ -1,0 +1,935 @@
+{
+  "checkpoint": "WORK-v1.5.18",
+  "status": "VERIFIED_SAVED",
+  "files": 154,
+  "hash_and_version_verified": true,
+  "creates": 129,
+  "replacements": 25,
+  "scope": "Actual guarded native-file payload, checkpoint-local persistence only; receipt/control closeout follows as a subsequent ordered delta.",
+  "records": [
+    {
+      "relative_path": "00_CONTROL/03_MANIFEST.yaml",
+      "library_file_id": "libfile_e2ac12b7381481919db2ae2fea43b98e",
+      "current_version_number": 36,
+      "sha256": "637dc0ca747bea43635877a980cb8845a2ca88b5c872bd13b11943d7c5ceea38"
+    },
+    {
+      "relative_path": "00_CONTROL/05_MODULE_STATUS.csv",
+      "library_file_id": "libfile_1395007b43b081919c72fe58ca242142",
+      "current_version_number": 32,
+      "sha256": "155c7fab288d749ae3ed5372032053b718080784abb2eb35d9bf9beb29ccd483"
+    },
+    {
+      "relative_path": "00_CONTROL/18_MASTER_EXECUTION_LEDGER.csv",
+      "library_file_id": "libfile_1742e6d76d5481919be81d5a00c9e0c8",
+      "current_version_number": 33,
+      "sha256": "8b44d0b8340f62f0f8e6085aaac2e5a9bd042a080d3224560e7841cc0a41760a"
+    },
+    {
+      "relative_path": "00_CONTROL/22_EXECUTION_MAP_CHECKSUMS.sha256",
+      "library_file_id": "libfile_b26640ee90948191a78fa2b802b53704",
+      "current_version_number": 31,
+      "sha256": "198d5aa3f872ec8ab0c2d32a946f091caaaa171b30001073937dc5692b813c9e"
+    },
+    {
+      "relative_path": "00_CONTROL/CURRENT_STATE.md",
+      "library_file_id": "libfile_6da6744a02a8819195481fd510a20a6c",
+      "current_version_number": 34,
+      "sha256": "4f2cab0e1bc2b3865d193c3ac1c8085e48ed3b1b6cdaf14095cd7ed4171babad"
+    },
+    {
+      "relative_path": "00_CONTROL/DEEPENING_BACKLOG.json",
+      "library_file_id": "libfile_0381c7fcfcd88191a710c1e8c799f2e4",
+      "current_version_number": 5,
+      "sha256": "770c8da63324ec60fa654b1eab726bfff04511f4726d5b4156b32a73858f1c92"
+    },
+    {
+      "relative_path": "00_CONTROL/DEPENDENCY_FRONTIER_LATEST.json",
+      "library_file_id": "libfile_d2b516f6be0881918aa6ff06e72df813",
+      "current_version_number": 1,
+      "sha256": "e7df81ef46410c3ea65e51dcb83be03f584f8cee6be4de51517876241e74d914"
+    },
+    {
+      "relative_path": "00_CONTROL/EXECUTION_CONTRACT.json",
+      "library_file_id": "libfile_710af378bf6081919b3ffd6233ee852e",
+      "current_version_number": 25,
+      "sha256": "79f910f7c2654a2de183cd1e3dffbcd4820dca8614321041eecdf414450393ab"
+    },
+    {
+      "relative_path": "00_CONTROL/LIBRARY_SYNC_STATUS.md",
+      "library_file_id": "libfile_fee29368be348191b4ec81e72cf5bbb0",
+      "current_version_number": 33,
+      "sha256": "56d1b091bb82c6dba603eb3cd9cc960783291a3bd8e9fe565089f5cfb8179dcd"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-206.yaml",
+      "library_file_id": "libfile_28af8f9c9adc81918b27f16d404ea485",
+      "current_version_number": 0,
+      "sha256": "4c1e98c6ac0a1a88850b5bb7f3b218f88bd0d4e3297a7831783ba41f14d918a0"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-207.yaml",
+      "library_file_id": "libfile_db7f634afd388191b279676ae2b45ff9",
+      "current_version_number": 0,
+      "sha256": "8f7ae0d84608e3e64016618d4b5d3fcc4f6048abfe58fabe06a9cea1e3da2d0e"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-208.yaml",
+      "library_file_id": "libfile_cf7c316f76088191810d8a2bbe906f87",
+      "current_version_number": 0,
+      "sha256": "8945e4b0c98aebaf8405e7e519553c1bbd2075cd621889d3e1b982a7ddb10eb0"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-209.yaml",
+      "library_file_id": "libfile_3451b4b422848191a570a91a625a367b",
+      "current_version_number": 0,
+      "sha256": "d3430de0ecf70ae689041438933b74a5db737351001ba79615206a0f9634c603"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-210.yaml",
+      "library_file_id": "libfile_9158a2247278819183fd9d812441ac9b",
+      "current_version_number": 0,
+      "sha256": "0fe81e0b867f6ba26fe6dbe6e8ac1022d9bd747f965c7247f36480049420e545"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-211.yaml",
+      "library_file_id": "libfile_8c400d89a6988191a06f8b5c2064848e",
+      "current_version_number": 0,
+      "sha256": "06cf3e8c89387171b3ffcb694eaf12b89712d62b7513032732bf463c119258ee"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-212.yaml",
+      "library_file_id": "libfile_20e8e615900c81918ff96f3851556c67",
+      "current_version_number": 0,
+      "sha256": "74541f4308b36222dea4625f532613ede431388c72a8e1326c6c6f289ecceebc"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-213.yaml",
+      "library_file_id": "libfile_0d20d438ed288191aae5c2c36afe6e2f",
+      "current_version_number": 0,
+      "sha256": "cc0871555aa93b8d4a8c66b17b33347edfe145c7e531f34aac60c5b380bce82f"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-214.yaml",
+      "library_file_id": "libfile_2c7cc556e1fc8191b04883234144cf51",
+      "current_version_number": 0,
+      "sha256": "0f7d61ba2c69bc5d4e77f948c0a38035fd0cc57f834150cbdfacb441130630f3"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-215.yaml",
+      "library_file_id": "libfile_49fe773e5f008191bb7a82b5622298c7",
+      "current_version_number": 0,
+      "sha256": "613ebdf4d62321bbfe23037e104929f6576aca202bae92a83095166316222429"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-216.yaml",
+      "library_file_id": "libfile_498a839204b4819196b95324d58a7bea",
+      "current_version_number": 0,
+      "sha256": "42b45922a7181e3255af284e8b8c8953229a6577cae11c5216207470e005d55b"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-217.yaml",
+      "library_file_id": "libfile_50a00be3989481918eb65c09541a5c29",
+      "current_version_number": 0,
+      "sha256": "de9e2a835c9c7a2b75342ddaef6c0ecc2f0e3851d2ec8fe1e7dee0875c2e5fd3"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-218.yaml",
+      "library_file_id": "libfile_b5b1797a39cc8191a867abfedfce59f4",
+      "current_version_number": 0,
+      "sha256": "ce5960dca8a771de9f250b1bacee72fb8f472e4f400f7c91ba6672f30ba8131c"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-219.yaml",
+      "library_file_id": "libfile_f07d95e76cdc8191a68e7113d42f0879",
+      "current_version_number": 0,
+      "sha256": "d0c21e091fcb265b30fd9dede12509bf1e396964543598053a2ecd72ddc136ae"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-220.yaml",
+      "library_file_id": "libfile_db780d2429248191ae46a0de0427bc89",
+      "current_version_number": 0,
+      "sha256": "ae8b8524b52b1b15854dd20cfd555259ca67870ebb10e6f9ba1d107d4358a3a3"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-221.yaml",
+      "library_file_id": "libfile_fffe81c9b9a08191b6775608aa84083e",
+      "current_version_number": 0,
+      "sha256": "1c70b19fefa18caa89cb3d1e6243276f3322e7fa361045cfe1d358ec39b7b338"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-222.yaml",
+      "library_file_id": "libfile_7cba84a938d0819189dff1d35e3b6a4c",
+      "current_version_number": 0,
+      "sha256": "89d719ee62d838e4097b6246004c2771601dd38ac839f0574ee704089939c0a4"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-223.yaml",
+      "library_file_id": "libfile_a3f41d01001481918fbba548c3f3ac93",
+      "current_version_number": 0,
+      "sha256": "49368ccdce5425e72b752790d9a37beaf983a3eac54a8cb6535f60580f3bd8d5"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-224.yaml",
+      "library_file_id": "libfile_2f4a5d0a543c8191a96fa40e9f5e57bf",
+      "current_version_number": 0,
+      "sha256": "c2e4dc90250db1c6a15d35073cab23219b324ca643d05bf42ef4d81fa09b6be3"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/HANDOFFS/HO-WP-P04-225.yaml",
+      "library_file_id": "libfile_c7b67e59e60881918ba1e7203a67c13a",
+      "current_version_number": 0,
+      "sha256": "92f6af9788fcb14b48d15c3001236aefe7128a864a13b7f3594288f7f8bd2009"
+    },
+    {
+      "relative_path": "00_CONTROL/PHASE_4_FOUNDATION_KNOWLEDGE/PHASE_4_PROGRESS.md",
+      "library_file_id": "libfile_af9f60a44e0c8191ad35e47e57597859",
+      "current_version_number": 32,
+      "sha256": "fc2e42c4aed0aba6e58819fe64a22492f5e0d64c643a24baad8a5e43f32d2186"
+    },
+    {
+      "relative_path": "00_CONTROL/SKILL_INSTALLATION.json",
+      "library_file_id": "libfile_41aab01ad7ac8191abb78b8f68b4cb75",
+      "current_version_number": 17,
+      "sha256": "5d49df5ab035730a6b5d90bba7b30fba5433b0b56c1002a1c86448abf1489f17"
+    },
+    {
+      "relative_path": "00_CONTROL/WORK_HANDOFF.yaml",
+      "library_file_id": "libfile_d31a858d326c8191861a220b84a24400",
+      "current_version_number": 18,
+      "sha256": "4a175d1f981ead55486ae715acdedef6d85587287bf32c55be5b9a32a095d3db"
+    },
+    {
+      "relative_path": "01_RESEARCH/CLAIM_LEDGER.csv",
+      "library_file_id": "libfile_d09cf9e963bc8191b4e9b0c62aa9a284",
+      "current_version_number": 33,
+      "sha256": "14554e04a0cb2c40592d096f6025376af18cfe9737121c3882754d9fc93e1d25"
+    },
+    {
+      "relative_path": "01_RESEARCH/CONTRADICTION_LEDGER.csv",
+      "library_file_id": "libfile_f6f2c861a004819185f6001d421289b9",
+      "current_version_number": 30,
+      "sha256": "fb4c3f469bb6310e3aa2b4c1c15a35f1be63b57f4267157624b2c5ff1df973f5"
+    },
+    {
+      "relative_path": "01_RESEARCH/EVIDENCE_MAP.csv",
+      "library_file_id": "libfile_11b7dce7a9d08191913b33e038874498",
+      "current_version_number": 33,
+      "sha256": "85782172c08b579c50f383df94243adc9d542d4d0e331d18c8ed5f0d042accb3"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/AUTHORED_SYNTHESIS.json",
+      "library_file_id": "libfile_f5cc73275a6081918b8777a5dffc008b",
+      "current_version_number": 0,
+      "sha256": "5f2fc0145fe8046424ba4cad1baa4d99379b70df56192f052f37f6809babbfe9"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/CLAIMS.csv",
+      "library_file_id": "libfile_60b985d8a4c48191a0c72f9f9a83b41d",
+      "current_version_number": 0,
+      "sha256": "c8a59855f78503e9a5b0d1d29962a9f3b2f170829c8d14e7866ac82e407dc8c9"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/CONTRADICTION_REVIEW.csv",
+      "library_file_id": "libfile_da450e1b562c8191a74b52bcac31e282",
+      "current_version_number": 0,
+      "sha256": "be97287b0110abb1fb57f4489fbaf4ce8e21ae2ba080221eba318a7c5cb551ac"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/DEEPENING_BACKLOG.json",
+      "library_file_id": "libfile_b40c8386275c819192a55d4037ccd6a5",
+      "current_version_number": 0,
+      "sha256": "9ec131b5cf794db6905dae456510934b2ac35b87817eb692ec53c8b53ff6c118"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/EVIDENCE_MAP.csv",
+      "library_file_id": "libfile_09e9a2215c808191b7a4691c146cf4d8",
+      "current_version_number": 0,
+      "sha256": "0a1c6a0146fc81024d3cfc1efe2da4f96cc3b5089d76d72ef3a5b2dd12dea6e5"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/FLOOR_REVIEW.json",
+      "library_file_id": "libfile_540b55582e988191bb8e1f9d4ce3d5c8",
+      "current_version_number": 0,
+      "sha256": "6dff2960983d19e8f2ab835c74078ec97466d6396b7906901cefea5d961e5461"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/L07.02_CONTRADICTION_REVIEW.md",
+      "library_file_id": "libfile_1d69e71a85888191aa6b0ac2787ac222",
+      "current_version_number": 0,
+      "sha256": "5ac5364fde80016ece20faf216bd37e1a7b634b6e2031f53385f0952df402914"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/L07.02_EVIDENCE_NOTES.md",
+      "library_file_id": "libfile_dd5fa32a68e48191aced86272f72e216",
+      "current_version_number": 0,
+      "sha256": "b4a36724d34cec3c10ba10cd7a6144e7f8a3c0837029c75f247aaf1c16b51259"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/L07.02_PRIMARY_ACCESS_REVIEW.md",
+      "library_file_id": "libfile_005c6dcdc0848191854a9ff0bbcf00db",
+      "current_version_number": 0,
+      "sha256": "0b28f9a7f5f6642488da8a205921965c75a4ca02805e298979151481966d6512"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/L07.02_SCOPE_AND_QUESTIONS.yaml",
+      "library_file_id": "libfile_204ed2e639cc819182a35286c948b8aa",
+      "current_version_number": 0,
+      "sha256": "a370d4ec3b30a039921545a05cd59d4e9e7845de80700787f53128b7d5a6e8a0"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/RESEARCH_SUMMARY.md",
+      "library_file_id": "libfile_d88ee072b7a081918f82d782befc1df9",
+      "current_version_number": 0,
+      "sha256": "9610724600072ad2684d2e623e0cf7f3d890e1ce9363999481bbdbcbd1d1be90"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/SCENE_PLANNING_FIXTURE_RESULTS.json",
+      "library_file_id": "libfile_b09512a1da5c8191aea2e371d7441432",
+      "current_version_number": 0,
+      "sha256": "475cbf27342e3a8ec174610183f2aeee46e126da3e1e87f848fa060b444b3b49"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/SOURCE_SET.csv",
+      "library_file_id": "libfile_b49f7497ed34819183c5c4c644dcce35",
+      "current_version_number": 0,
+      "sha256": "00210111863988466e244f5c674e6c756a51156c289fa189c08de8236047aa99"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/scene_graph_model.py",
+      "library_file_id": "libfile_9f1954173e9881918e55d4a5c3c4e109",
+      "current_version_number": 0,
+      "sha256": "7bf5c1e569ee843f97281507f8773bb8d5c08a59910e1a945ef65b2924383530"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/scene_planning_fixture.py",
+      "library_file_id": "libfile_74b39c4c7f44819187673a425097d49e",
+      "current_version_number": 0,
+      "sha256": "e1bd5d342b0bfc4ecc66eb4503edd840f2c2d73038f64c05ca1bf808703e35eb"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.02/scene_planning_floor.py",
+      "library_file_id": "libfile_625ba632f28c8191a955c1516e7bd91a",
+      "current_version_number": 0,
+      "sha256": "6f7c51b4457917d730aa39b68ed00adbfc836565b87887d50424b11008e50324"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/AUTHORED_SYNTHESIS.json",
+      "library_file_id": "libfile_052192d6a9708191960249f24f9c702b",
+      "current_version_number": 0,
+      "sha256": "8077b76a3c55ca6a40557c05f137e2c5a802ef4f71e7e23376bec6b1218ac5e5"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/CLAIMS.csv",
+      "library_file_id": "libfile_8637d296545c8191b27927da51efb6ae",
+      "current_version_number": 0,
+      "sha256": "543d99d417229113b8783c0991146746218d69f476802fb11420f308a4f8574f"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/CONTRADICTION_REVIEW.csv",
+      "library_file_id": "libfile_5e104a3c416081919e35dd7df7f684ff",
+      "current_version_number": 0,
+      "sha256": "7940d796d354c9116f5031a05fd1edbf3087aabc070f2d4946538aae1b014833"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/DEEPENING_BACKLOG.json",
+      "library_file_id": "libfile_416dc326461c81919d3e06a4c97925b0",
+      "current_version_number": 0,
+      "sha256": "1d1a6c9666ef620a73c08b82be788f62d2fc9449db19e9033b44954a22bb4ae7"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/EVIDENCE_MAP.csv",
+      "library_file_id": "libfile_f9d9f2f3a32c8191aaf233cc40d0a5b1",
+      "current_version_number": 0,
+      "sha256": "b76a3ff95de7cfee9dc81fc5a247d38cc1be2d8139974910e003e3709883070b"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/FLOOR_REVIEW.json",
+      "library_file_id": "libfile_c0887b6d930881918fbe3d2220cf0171",
+      "current_version_number": 0,
+      "sha256": "6e5090f4b9351ae8ee44783a5b470251b1e829324e9e638094da9a7f7ab4861d"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/L07.03_CONTRADICTION_REVIEW.md",
+      "library_file_id": "libfile_2e84459133788191a8eba5d71c86b77a",
+      "current_version_number": 0,
+      "sha256": "5ac5364fde80016ece20faf216bd37e1a7b634b6e2031f53385f0952df402914"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/L07.03_EVIDENCE_NOTES.md",
+      "library_file_id": "libfile_b2821cf204b4819189b14d5943212544",
+      "current_version_number": 0,
+      "sha256": "b4a36724d34cec3c10ba10cd7a6144e7f8a3c0837029c75f247aaf1c16b51259"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/L07.03_PRIMARY_ACCESS_REVIEW.md",
+      "library_file_id": "libfile_b57cf0bf4e088191bac2a3d57a40b33b",
+      "current_version_number": 0,
+      "sha256": "5991f714bb49e72c99d825a751613ace374a126a9a8aab6c8aac08190ea64b3a"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/L07.03_SCOPE_AND_QUESTIONS.yaml",
+      "library_file_id": "libfile_67e76ef717b88191bd8e0747596dd6c8",
+      "current_version_number": 0,
+      "sha256": "be18356ba50b19c5aa7a3f72c1accb252d33305e3372db4d3600f0d46dd070ae"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/RESEARCH_SUMMARY.md",
+      "library_file_id": "libfile_e5a3ad6178d08191bddea1d4dd2e4c7a",
+      "current_version_number": 0,
+      "sha256": "a3d9cefe4ed8ca260fb23456d00a13bc303e9c53a5890c9f11976af2fee89d43"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/SCENE_PLANNING_FIXTURE_RESULTS.json",
+      "library_file_id": "libfile_7e7fa8a53640819185cd9cef4d1741fe",
+      "current_version_number": 0,
+      "sha256": "475cbf27342e3a8ec174610183f2aeee46e126da3e1e87f848fa060b444b3b49"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/SOURCE_SET.csv",
+      "library_file_id": "libfile_c7d9309c6d0c819185ac3daa2f9ffc36",
+      "current_version_number": 0,
+      "sha256": "69c0c1d068d15c4069bda3e4759922488975a6380bd58fc875ce1c60eea7ea20"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/scene_graph_model.py",
+      "library_file_id": "libfile_29f55cc436108191a90f4239c34713b3",
+      "current_version_number": 0,
+      "sha256": "7bf5c1e569ee843f97281507f8773bb8d5c08a59910e1a945ef65b2924383530"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/scene_planning_fixture.py",
+      "library_file_id": "libfile_43dbc9653f7481919f3c8c361d468bdc",
+      "current_version_number": 0,
+      "sha256": "e1bd5d342b0bfc4ecc66eb4503edd840f2c2d73038f64c05ca1bf808703e35eb"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.03/scene_planning_floor.py",
+      "library_file_id": "libfile_c391e3d2b49c8191a56d38f64600a55a",
+      "current_version_number": 0,
+      "sha256": "6f7c51b4457917d730aa39b68ed00adbfc836565b87887d50424b11008e50324"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/AUTHORED_SYNTHESIS.json",
+      "library_file_id": "libfile_7d63e9c330e48191aaf7a41c6176fbd5",
+      "current_version_number": 0,
+      "sha256": "39b038c1fdbd86ff0001324cfa41a370af5c97d138beb610df77b982dad759f7"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/CLAIMS.csv",
+      "library_file_id": "libfile_a6e5384e47c88191b78421a3107d58aa",
+      "current_version_number": 0,
+      "sha256": "5f374c1d4d596da33b32d25d77583c8d2854a2e2f9d3e88d37bfc9d63aa3e806"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/CONTRADICTION_REVIEW.csv",
+      "library_file_id": "libfile_8bd42ce58aac8191a255d532dc48a0b8",
+      "current_version_number": 0,
+      "sha256": "c04bdb470de7afdc1c4fd7cfc2f1faeedd372084bfb2dd2bd382a95b99dafc50"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/DEEPENING_BACKLOG.json",
+      "library_file_id": "libfile_7a5892683530819185951947fe294562",
+      "current_version_number": 0,
+      "sha256": "c33f91045a190320a07d06fc8f21338655ee24aac4ebb73efedb8b6ffda9f830"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/EVIDENCE_MAP.csv",
+      "library_file_id": "libfile_b96fda727c848191b4e782e5b22c6a9b",
+      "current_version_number": 0,
+      "sha256": "25ca0717a1bc11006094b608fcee7b7a74550b5667b3174a6b224d203c49beb2"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/FLOOR_REVIEW.json",
+      "library_file_id": "libfile_a30f270b0b448191b9590bed295e4421",
+      "current_version_number": 0,
+      "sha256": "6959ad85f87ea88e61c203d287e40a9bd6168a06e55a755a28c71424396b5b89"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/L07.04_CONTRADICTION_REVIEW.md",
+      "library_file_id": "libfile_9bbba9da5dec8191bd6a68d070a9003e",
+      "current_version_number": 0,
+      "sha256": "5ac5364fde80016ece20faf216bd37e1a7b634b6e2031f53385f0952df402914"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/L07.04_EVIDENCE_NOTES.md",
+      "library_file_id": "libfile_ef19664f86508191bf46a232ccfaeb80",
+      "current_version_number": 0,
+      "sha256": "b4a36724d34cec3c10ba10cd7a6144e7f8a3c0837029c75f247aaf1c16b51259"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/L07.04_PRIMARY_ACCESS_REVIEW.md",
+      "library_file_id": "libfile_966c999272b881918aa4835e762883d2",
+      "current_version_number": 0,
+      "sha256": "0c58a7bda2a35b9643c6e5ffb6b7e93bca876bdedf8fda73ab5abbc0298bd7c2"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/L07.04_SCOPE_AND_QUESTIONS.yaml",
+      "library_file_id": "libfile_8669bb2366b481918679c05f20d4de64",
+      "current_version_number": 0,
+      "sha256": "99ff9b90263ad0fe622a50527407e401b776099509d6e165a72ec3d06167b422"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/RESEARCH_SUMMARY.md",
+      "library_file_id": "libfile_2803be22441c819181440e518d6aef8d",
+      "current_version_number": 0,
+      "sha256": "37e9466f5796718e69649373a6c56f4790ab21dab4e631474b577222f9210a1d"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/SCENE_PLANNING_FIXTURE_RESULTS.json",
+      "library_file_id": "libfile_26527630435481918355bb04560aa476",
+      "current_version_number": 0,
+      "sha256": "475cbf27342e3a8ec174610183f2aeee46e126da3e1e87f848fa060b444b3b49"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/SOURCE_SET.csv",
+      "library_file_id": "libfile_9c0d30453c7081918dbf055a1daf2170",
+      "current_version_number": 0,
+      "sha256": "af4e887fbd2be95121a7862a3493403f301be9abb5ae5571ae0a297619d82888"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/scene_graph_model.py",
+      "library_file_id": "libfile_ae99df0426388191874020a505332e16",
+      "current_version_number": 0,
+      "sha256": "7bf5c1e569ee843f97281507f8773bb8d5c08a59910e1a945ef65b2924383530"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/scene_planning_fixture.py",
+      "library_file_id": "libfile_7b1b89e2e1c0819187ee838445ca012a",
+      "current_version_number": 0,
+      "sha256": "e1bd5d342b0bfc4ecc66eb4503edd840f2c2d73038f64c05ca1bf808703e35eb"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.04/scene_planning_floor.py",
+      "library_file_id": "libfile_896e9c1430048191af3812c6371fd35f",
+      "current_version_number": 0,
+      "sha256": "6f7c51b4457917d730aa39b68ed00adbfc836565b87887d50424b11008e50324"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/AUTHORED_SYNTHESIS.json",
+      "library_file_id": "libfile_43f93a6c91888191b8729528011f1a86",
+      "current_version_number": 0,
+      "sha256": "3eb02c74ab64ca0d659010393031a27e3fe97635d0a6f96fd2395757201e24e0"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/CLAIMS.csv",
+      "library_file_id": "libfile_34106841c640819199b7de29645a41a3",
+      "current_version_number": 0,
+      "sha256": "5573d8ee67150f21706d222c2e54fc1b51bcc90daa9b2c059dc1cccd0f961b29"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/CONTRADICTION_REVIEW.csv",
+      "library_file_id": "libfile_9326547e67748191ba0b20e1c3545c07",
+      "current_version_number": 0,
+      "sha256": "b06d747dc2d91ca7ce593c4102c4d7e4d61da6a171eddab9e2b84575c7b5868a"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/DEEPENING_BACKLOG.json",
+      "library_file_id": "libfile_b7d33feae67881918d76b81064ce1e9f",
+      "current_version_number": 0,
+      "sha256": "e9e4cfb153fb231fd1b6664ec1ac2ac531c286397083b4164ad9e9f4e36da962"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/EVIDENCE_MAP.csv",
+      "library_file_id": "libfile_311fb1682c848191913593254b933aaf",
+      "current_version_number": 0,
+      "sha256": "f908d568c5906d2ac174099f1d5dfb3947f87f4d5ee91df95d4ac11f29a6f54f"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/FLOOR_REVIEW.json",
+      "library_file_id": "libfile_f9feb86a79908191ad55ac04018bfaa0",
+      "current_version_number": 0,
+      "sha256": "5b2b1df97e6e690732cbe2bdf62e896d5375477b40a5de6c9a600ab26da09d7c"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/L07.05_CONTRADICTION_REVIEW.md",
+      "library_file_id": "libfile_553f84cfdac081919f1cad30f8c9cdae",
+      "current_version_number": 0,
+      "sha256": "5ac5364fde80016ece20faf216bd37e1a7b634b6e2031f53385f0952df402914"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/L07.05_EVIDENCE_NOTES.md",
+      "library_file_id": "libfile_0ae8bac259708191a6b0cd60e9054594",
+      "current_version_number": 0,
+      "sha256": "b4a36724d34cec3c10ba10cd7a6144e7f8a3c0837029c75f247aaf1c16b51259"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/L07.05_PRIMARY_ACCESS_REVIEW.md",
+      "library_file_id": "libfile_566d29c4cef48191929efa432142c407",
+      "current_version_number": 0,
+      "sha256": "ca43596463cbcf5912c5b56c78266fff5e6ec1368ec96e9735d3e989e71501b8"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/L07.05_SCOPE_AND_QUESTIONS.yaml",
+      "library_file_id": "libfile_24c412b6fe74819195bd40b85037fbdd",
+      "current_version_number": 0,
+      "sha256": "5ff41c09690e86d863790cfbd034b00fc0aa3e4235ab437dc22628655a380860"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/RESEARCH_SUMMARY.md",
+      "library_file_id": "libfile_be355bde2d548191b77090ed5da6c843",
+      "current_version_number": 0,
+      "sha256": "8dbb5833c7d8b9827f6471875dfabd866fbbf572d878ccf775be79dc504c5fe9"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/SCENE_PLANNING_FIXTURE_RESULTS.json",
+      "library_file_id": "libfile_f02439b947848191a6e378f6d6679001",
+      "current_version_number": 0,
+      "sha256": "475cbf27342e3a8ec174610183f2aeee46e126da3e1e87f848fa060b444b3b49"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/SOURCE_SET.csv",
+      "library_file_id": "libfile_5320a24beae88191ab519088c1faf779",
+      "current_version_number": 0,
+      "sha256": "7621447c44b3357e5837e3255f17e28414141fe17338eb20709a29bc4c6de9ef"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/scene_graph_model.py",
+      "library_file_id": "libfile_2683c39d66448191bb79fed0fd0b16a0",
+      "current_version_number": 0,
+      "sha256": "7bf5c1e569ee843f97281507f8773bb8d5c08a59910e1a945ef65b2924383530"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/scene_planning_fixture.py",
+      "library_file_id": "libfile_1a7667f3baac8191bf5015e1b21e10c3",
+      "current_version_number": 0,
+      "sha256": "e1bd5d342b0bfc4ecc66eb4503edd840f2c2d73038f64c05ca1bf808703e35eb"
+    },
+    {
+      "relative_path": "01_RESEARCH/MODULES/L07.05/scene_planning_floor.py",
+      "library_file_id": "libfile_a6933aa9c8cc8191b429b92bad92e958",
+      "current_version_number": 0,
+      "sha256": "6f7c51b4457917d730aa39b68ed00adbfc836565b87887d50424b11008e50324"
+    },
+    {
+      "relative_path": "01_RESEARCH/SOURCE_REGISTRY.csv",
+      "library_file_id": "libfile_1dca5365f4b08191b6488caf0c2a5ff2",
+      "current_version_number": 33,
+      "sha256": "1f603f3b5a7f83893ca994b9a9d757a6fdfbdcac64ed7996a745b1af05f1b0e0"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.02/L07.02_CANONICAL.md",
+      "library_file_id": "libfile_4dd3a2c3a2188191b6836fc543f10c96",
+      "current_version_number": 0,
+      "sha256": "43a36d72865515e5a41cd09c0fa3c643357fb7b0b3300b73133025f9768e944f"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.02/L07.02_NEURON_CANDIDATES.md",
+      "library_file_id": "libfile_89bb4bbab2388191b4434101c22e5c85",
+      "current_version_number": 0,
+      "sha256": "9691e88bdafba1d16f2abf0b4cd92c722f33438dc1e9c8515b6b11be786bcc28"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.02/L07.02_OPERATIONAL.md",
+      "library_file_id": "libfile_e2310e6712088191849bf90fab0c2412",
+      "current_version_number": 0,
+      "sha256": "51f9c4676ab3b5e4750fd2cd8aa5a6dbb3f86cd7b8ab7df35d38e78c679f8c61"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.02/L07.02_QA.md",
+      "library_file_id": "libfile_b60672acb1c88191a39102b948eb5ef2",
+      "current_version_number": 0,
+      "sha256": "0d63e9a1450a0e1a9ec3c74cfa8540a963df1f8172a0c3a6106bdb83901b4532"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.02/PROVISIONAL_EDGE_CANDIDATES.csv",
+      "library_file_id": "libfile_4497ff967c3c8191a7e75065a4301966",
+      "current_version_number": 0,
+      "sha256": "5c565ba2189e2e4a35b79ff7683020c6f9268ac546aa5d120b114b61ba6c98d5"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.03/L07.03_CANONICAL.md",
+      "library_file_id": "libfile_6123400b6e4c8191978fabe9190399a0",
+      "current_version_number": 0,
+      "sha256": "2b6128feb365d7375fbd88579759fbc0a09a3165df8e119c010a79da4470f3d5"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.03/L07.03_NEURON_CANDIDATES.md",
+      "library_file_id": "libfile_db716aa8b4bc8191b267cc6484b5a635",
+      "current_version_number": 0,
+      "sha256": "981a3ef39f50cdbaedf2977fa1ab20877f4fd690d99a70aa95b12ab7603d5485"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.03/L07.03_OPERATIONAL.md",
+      "library_file_id": "libfile_e2fb652e50d08191ba8713fe1278ab9f",
+      "current_version_number": 0,
+      "sha256": "595a5fb1130b25fc68f8f75ebb25903e895f219d0aa292b0b530a0b22c468e14"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.03/L07.03_QA.md",
+      "library_file_id": "libfile_8f9cefba01048191856b11f33ac9a280",
+      "current_version_number": 0,
+      "sha256": "c0f90d5bf8c800a037716d8300abaafb954046eb3d5d3b51af143fa1a379f7ed"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.03/PROVISIONAL_EDGE_CANDIDATES.csv",
+      "library_file_id": "libfile_f7a955669eb08191a732bc6f0fea66b7",
+      "current_version_number": 0,
+      "sha256": "5c565ba2189e2e4a35b79ff7683020c6f9268ac546aa5d120b114b61ba6c98d5"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.04/L07.04_CANONICAL.md",
+      "library_file_id": "libfile_f4514b94427c81919a4ecdbcc7f70dd1",
+      "current_version_number": 0,
+      "sha256": "a978fdcae55d2b7e67e66e88fb7ef691d4fd4bead0631479d2f371efea7ab2bd"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.04/L07.04_NEURON_CANDIDATES.md",
+      "library_file_id": "libfile_163db19f13c481918e491e5e43793eaa",
+      "current_version_number": 0,
+      "sha256": "9d194c38618bfb35d306688e41f2879eafd1a83fdfe0bd049d7aebd229a5de15"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.04/L07.04_OPERATIONAL.md",
+      "library_file_id": "libfile_b078ef13a7d08191acf6ded26dc83110",
+      "current_version_number": 0,
+      "sha256": "545e8ffb8ac53eeef84d704c36f698e6f5c1b4be632f1bc5e6b90b6e42c8fd7a"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.04/L07.04_QA.md",
+      "library_file_id": "libfile_abde4cdba560819192c007e11d0a4fea",
+      "current_version_number": 0,
+      "sha256": "f3bf9f624217c5e0dbf413610af9ba87108652faf5ff8a37360889f0c31dbd27"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.04/PROVISIONAL_EDGE_CANDIDATES.csv",
+      "library_file_id": "libfile_31d09f28d6108191a16b8fe6b7f04885",
+      "current_version_number": 0,
+      "sha256": "5c565ba2189e2e4a35b79ff7683020c6f9268ac546aa5d120b114b61ba6c98d5"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.05/L07.05_CANONICAL.md",
+      "library_file_id": "libfile_176117578f3081919a3f7e6765e7a669",
+      "current_version_number": 0,
+      "sha256": "d3fb5e25cf0c8e4419763e9a19e386c44b9e16e8105e73a70c10144ea5ca190c"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.05/L07.05_NEURON_CANDIDATES.md",
+      "library_file_id": "libfile_a8800214ccb88191b34d11da1ff65c7f",
+      "current_version_number": 0,
+      "sha256": "5ac040d47b41a512fbe98409e853aa6149bfeb2b572d25b53dc11e709d01a8fb"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.05/L07.05_OPERATIONAL.md",
+      "library_file_id": "libfile_bf3cc4904c7481919ac28c013da3491f",
+      "current_version_number": 0,
+      "sha256": "1fe5e53abe5dd379390c62d3dfbfe13201c6b2e19a3b7b10dfee5585955a5f5d"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.05/L07.05_QA.md",
+      "library_file_id": "libfile_bd77392414208191bbd2254441719182",
+      "current_version_number": 0,
+      "sha256": "fc4c6f3ddf9744cbbba5c27d81f6dadfce10c2583b5e1aa981ee046ef3cf1cbf"
+    },
+    {
+      "relative_path": "02_KNOWLEDGE/L07/L07.05/PROVISIONAL_EDGE_CANDIDATES.csv",
+      "library_file_id": "libfile_30c33a8a37a081918431c796660b632c",
+      "current_version_number": 0,
+      "sha256": "5c565ba2189e2e4a35b79ff7683020c6f9268ac546aa5d120b114b61ba6c98d5"
+    },
+    {
+      "relative_path": "05_TOOLS/checkpoint_progress.py",
+      "library_file_id": "libfile_1e6ce9357cc081919d193241bc503dc8",
+      "current_version_number": 6,
+      "sha256": "ec3379b5353ec8134a2f83457f3f607c9539de7c6f2ccb9478ab0991a387a348"
+    },
+    {
+      "relative_path": "05_TOOLS/project_runtime.py",
+      "library_file_id": "libfile_034c0d9cef88819181fd73e6dcb407ca",
+      "current_version_number": 12,
+      "sha256": "738ec8202a9c22b188ab35a787535d2573d80a1fb1b0a3da22861020ad915ef8"
+    },
+    {
+      "relative_path": "05_TOOLS/refresh_dependency_frontier.py",
+      "library_file_id": "libfile_7be710fedb20819198f561693ac4c41c",
+      "current_version_number": 0,
+      "sha256": "765702627eed10599d40e13e22785e5b260291124bf6b9f1a6dce27476f9a300"
+    },
+    {
+      "relative_path": "05_TOOLS/test_perception_module.py",
+      "library_file_id": "libfile_1735b37450fc8191a9a3366716854bfe",
+      "current_version_number": 5,
+      "sha256": "5cff0802e5d477010ef75be235cec71cf4b5a1eb539d19bf5066e3dc4fb7fe29"
+    },
+    {
+      "relative_path": "06_EVALUATION/ACCELERATED_SCENE_BATCH_2026_10_04.json",
+      "library_file_id": "libfile_71dd58d9bcc08191a9d7f77f5859a787",
+      "current_version_number": 0,
+      "sha256": "18239a797c41e381f7f837b85fba87e1df33fec333c2f47cf1916159559b5837"
+    },
+    {
+      "relative_path": "06_EVALUATION/ACCELERATED_SCENE_FRONTIER_QA.json",
+      "library_file_id": "libfile_cc01113b76208191bd338a4348314b2c",
+      "current_version_number": 0,
+      "sha256": "f97fbdb8e99a089facf1d9416934c8a2b856c2e8deb61fb7cda4f126f2cab74d"
+    },
+    {
+      "relative_path": "06_EVALUATION/ACCELERATED_SCENE_PROTECTED_CONTRACT.json",
+      "library_file_id": "libfile_9fd74f10aab081918f87934d9bdc972e",
+      "current_version_number": 0,
+      "sha256": "e9f6337d49f57824d02325551f1f45cf5d2f678fbed0504dbd182ae76c321c51"
+    },
+    {
+      "relative_path": "06_EVALUATION/accelerated_scene_integrity_regression.json",
+      "library_file_id": "libfile_01877ec0af088191a3a2639dca9a18c4",
+      "current_version_number": 0,
+      "sha256": "aadf8bd0c5a83dd1b0cef716cc4d6d15d91912eeb3649fc507d2a8e2ade5b703"
+    },
+    {
+      "relative_path": "06_EVALUATION/accelerated_scene_retrieval_regression.json",
+      "library_file_id": "libfile_067db5ef12148191a50ba88338c2d48e",
+      "current_version_number": 0,
+      "sha256": "4dc8dccd3a8635996bfff24f9f797f35479568cef83ac600f67dbe548fa608bf"
+    },
+    {
+      "relative_path": "06_EVALUATION/accelerated_scene_route_sweep.json",
+      "library_file_id": "libfile_c5496c9da4a081918d439050d57a2a96",
+      "current_version_number": 0,
+      "sha256": "9c143625ebd44f4df91ec8d974282846cc07887089e3d88e35b2c062e3e857ca"
+    },
+    {
+      "relative_path": "06_EVALUATION/accelerated_scene_source_fit_regression.json",
+      "library_file_id": "libfile_9f423877d73881918a77fe0de95aea26",
+      "current_version_number": 0,
+      "sha256": "6c6cb183304dfc06a1d34b569ce09bd781fc45b2eb3ce8782dbd0b235b694414"
+    },
+    {
+      "relative_path": "06_EVALUATION/environment_design_candidate_validation.json",
+      "library_file_id": "libfile_73f91f9dac5c819182a99c902c1d0976",
+      "current_version_number": 0,
+      "sha256": "da9a89d6b9004ced0df50170984dbd9127616ef157359c9c92abdaf525408fde"
+    },
+    {
+      "relative_path": "06_EVALUATION/environment_design_module_candidate_qa.json",
+      "library_file_id": "libfile_84b1822097c4819198f7641ab58eaad9",
+      "current_version_number": 0,
+      "sha256": "a371c5dfb56777b5dc6193a28d74184a5e92293277d7f186ea2eeefd43ac35bc"
+    },
+    {
+      "relative_path": "06_EVALUATION/environment_design_module_local_qa.json",
+      "library_file_id": "libfile_3ee71dd55f5c8191a81474f4da1f8788",
+      "current_version_number": 0,
+      "sha256": "a371c5dfb56777b5dc6193a28d74184a5e92293277d7f186ea2eeefd43ac35bc"
+    },
+    {
+      "relative_path": "06_EVALUATION/environment_design_primary_review.json",
+      "library_file_id": "libfile_127afd4053f88191a3d439b9c921c625",
+      "current_version_number": 0,
+      "sha256": "6b69162d89b6631908a73ee9099114b8cdab7437004c0df20ceef3482f6d1547"
+    },
+    {
+      "relative_path": "06_EVALUATION/prop_design_candidate_validation.json",
+      "library_file_id": "libfile_07d477638c388191bdd8546973aedeb3",
+      "current_version_number": 0,
+      "sha256": "6019837b0e2bac7d73c42ce6306059097c257a86eadcd17af6c73ea7715684d1"
+    },
+    {
+      "relative_path": "06_EVALUATION/prop_design_module_candidate_qa.json",
+      "library_file_id": "libfile_a346e3c105cc819189a658f8f565f800",
+      "current_version_number": 0,
+      "sha256": "2e9b0f4a6a381c53b94aa09a24a241d4f6f09d4b26ed15274dff1638d8bd3495"
+    },
+    {
+      "relative_path": "06_EVALUATION/prop_design_module_local_qa.json",
+      "library_file_id": "libfile_e583354c1034819199f87ec58cbfbce0",
+      "current_version_number": 0,
+      "sha256": "2e9b0f4a6a381c53b94aa09a24a241d4f6f09d4b26ed15274dff1638d8bd3495"
+    },
+    {
+      "relative_path": "06_EVALUATION/prop_design_primary_review.json",
+      "library_file_id": "libfile_6cf436f18ad0819194538a8b97a3cca0",
+      "current_version_number": 0,
+      "sha256": "d00784e1fd952da6cfc14007278b832839dde92f0be55f87dd25b8d90b0ee046"
+    },
+    {
+      "relative_path": "06_EVALUATION/repair_validation.json",
+      "library_file_id": "libfile_13f40b086fdc8191b5064cfdf37c4e14",
+      "current_version_number": 16,
+      "sha256": "cdb18c025318bf4a10b6208fee40fcc2a819516d0e7779af88e3413693953c6b"
+    },
+    {
+      "relative_path": "06_EVALUATION/source_fit_audit.json",
+      "library_file_id": "libfile_2bb21c604d248191946da09c50f68aff",
+      "current_version_number": 13,
+      "sha256": "1c385251a381ba9469b81b52a33f7b2057e6961dc1ee0b829a77289d46d171e6"
+    },
+    {
+      "relative_path": "06_EVALUATION/spatial_continuity_candidate_validation.json",
+      "library_file_id": "libfile_77211ddd26288191b06086a358765b8c",
+      "current_version_number": 0,
+      "sha256": "cdb18c025318bf4a10b6208fee40fcc2a819516d0e7779af88e3413693953c6b"
+    },
+    {
+      "relative_path": "06_EVALUATION/spatial_continuity_module_candidate_qa.json",
+      "library_file_id": "libfile_1143c79487288191b51a6b4ea932af4c",
+      "current_version_number": 0,
+      "sha256": "ee65052488422eb94fec9ad9b3851b086f3819d0629aea04ff2d73541e75814d"
+    },
+    {
+      "relative_path": "06_EVALUATION/spatial_continuity_module_local_qa.json",
+      "library_file_id": "libfile_3cd211f1c2c88191930764394ff2e813",
+      "current_version_number": 0,
+      "sha256": "ee65052488422eb94fec9ad9b3851b086f3819d0629aea04ff2d73541e75814d"
+    },
+    {
+      "relative_path": "06_EVALUATION/spatial_continuity_primary_review.json",
+      "library_file_id": "libfile_f359a9077f3c8191b3247e4c37c53304",
+      "current_version_number": 0,
+      "sha256": "4b072cbb5cec94545520cc583213e8d0e38e903d52f72075c1c0cc571f0536d4"
+    },
+    {
+      "relative_path": "06_EVALUATION/spatial_layout_candidate_validation.json",
+      "library_file_id": "libfile_664a48c567408191bd9382e38a958e66",
+      "current_version_number": 0,
+      "sha256": "1c37ac83dd2a588a144cb8051b3e7c7f1f5b9396a2bf84e208ec9d2c240c7acf"
+    },
+    {
+      "relative_path": "06_EVALUATION/spatial_layout_module_candidate_qa.json",
+      "library_file_id": "libfile_bcb25ed0fc588191ba14f64d483462b8",
+      "current_version_number": 0,
+      "sha256": "c47ea4daaaa5a39c9125da07d2017fe1b95d6b75d4fc24d04c7f26049e7cc41e"
+    },
+    {
+      "relative_path": "06_EVALUATION/spatial_layout_module_local_qa.json",
+      "library_file_id": "libfile_9c3c75c01fb88191af7c91146637c23a",
+      "current_version_number": 0,
+      "sha256": "c47ea4daaaa5a39c9125da07d2017fe1b95d6b75d4fc24d04c7f26049e7cc41e"
+    },
+    {
+      "relative_path": "06_EVALUATION/spatial_layout_primary_review.json",
+      "library_file_id": "libfile_c3f1279b0a2081919e2983a6594e7f15",
+      "current_version_number": 0,
+      "sha256": "b98da33c315772e58c94dd1d1b58f7358d688fe99761dcbab603dd3ac4fdb3c2"
+    },
+    {
+      "relative_path": "07_RUNTIME_SKILL/RUNTIME_GUIDE.md",
+      "library_file_id": "libfile_b3f3591392c881919cec93830bfefc14",
+      "current_version_number": 9,
+      "sha256": "0c639aa934a41bf053249a46a1b40660eb65ca7f0fda0e86e3441c9ef6089d59"
+    },
+    {
+      "relative_path": "08_RELEASES/ACCELERATED_RECOVERY_README.md",
+      "library_file_id": "libfile_c6f378ffb80481918e8ed3debbd03ea4",
+      "current_version_number": 1,
+      "sha256": "cb67dc3c034ddbe3b893fb0b4777b0a93fed95d74184a5684780e01ab35f32a4"
+    },
+    {
+      "relative_path": "08_RELEASES/WORK_CHECKPOINT_v1.5.18.json",
+      "library_file_id": "libfile_0218353340d08191bbef8474719a57cf",
+      "current_version_number": 0,
+      "sha256": "c6835c2066303b36def9de308017868185bf25f7ef56fb47706f0cf833852df1"
+    },
+    {
+      "relative_path": "PROJECT_REPORT_ID.md",
+      "library_file_id": "libfile_f67d546549dc819195bf187ff44487a9",
+      "current_version_number": 13,
+      "sha256": "1c035f775a3da784814369b63c067d7209de3532e2fb6b150b7d9557506270c0"
+    },
+    {
+      "relative_path": "README.md",
+      "library_file_id": "libfile_51dc365fb7488191a6c99875554b9d50",
+      "current_version_number": 13,
+      "sha256": "532cd2b5f34f3fe08abe68afc4ea669ec780df2bd21c303c4db33567b68f4607"
+    }
+  ]
+}

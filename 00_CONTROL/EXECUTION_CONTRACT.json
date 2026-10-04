@@ -1,0 +1,361 @@
+{
+  "schema_version": "1.0",
+  "contract_id": "motion-render-video-completion",
+  "revision": 21,
+  "goal": "Preserve full27-lobe/174-module/1740-neuron system and original scope. First achieve FAST_RELEASE_COMPLETE with minimum sufficient sourced/operational/verified functional coverage and usable end-to-end release; then execute preserved deepening scope.",
+  "deliverable": "Proyek konsisten dan persisten, pengetahuan yang mempunyai bukti, runtime teruji, hasil render nyata dan laporan jujur atas cakupan serta batasnya.",
+  "status": "RUNNING",
+  "protected_constraints": [
+    {
+      "id": "architecture",
+      "value": "Pertahankan 27 lobe, 174 module dan 1740 neuron serta semua ID struktural; perubahan identitas memerlukan migrasi tercatat.",
+      "source": "Arsitektur v3.0.0 dan permintaan pengguna."
+    },
+    {
+      "id": "evidence",
+      "value": "Jangan membuat sumber, pengujian, status COMPLETE atau skor mutu yang tidak dibuktikan.",
+      "source": "Konstitusi proyek dan instruksi pengguna untuk mutu semaksimal mungkin."
+    },
+    {
+      "id": "knowledge_depth",
+      "value": "Jangan mengganti canonical dengan ringkasan; draft atau route untuk module kosong tidak setara penyelesaian A–E.",
+      "source": "Execution Master Plan sections 6, 8, 10, 20."
+    },
+    {
+      "id": "full_original_scope",
+      "value": "Semua 1271 core packets dan mandatory phase/cross-lobe/runtime/release requirements dipertahankan; checkpoint usable bukan completion.",
+      "source": "Instruksi pengguna EXECUTE NOW dan Completion Standard."
+    },
+    {
+      "id": "resume_and_provenance",
+      "value": "Reuse valid work; targeted repair/reverification only with evidence; preserve uncertainty, source/copy provenance, recovery, identity and dependency integrity.",
+      "source": "Instruksi pengguna Resume, Protected Intent dan Verification."
+    }
+  ],
+  "gates": [
+    {
+      "id": "integrity",
+      "property": "Registry, graph, referensi, modul dan ledger konsisten.",
+      "verifier": "validate_project.py serta corruption regression.",
+      "required": true,
+      "status": "PASS",
+      "evidence": "06_EVALUATION/repair_validation.json; actual current schema/graph/registries/local-global/ledger/checksum verifier. Corruption regression remains separately scoped."
+    },
+    {
+      "id": "canonical_coverage",
+      "property": "Semua 174 module memenuhi A–E dan gate wajib sesuai batasan ilmu.",
+      "verifier": "Cocokkan module status dengan evidence, canonical, operational, QA dan handoff.",
+      "required": true,
+      "status": "FAIL",
+      "evidence": "00_CONTROL/05_MODULE_STATUS.csv;67/174 locally reviewed,107 not locally reviewed; global source-fit/integration still pending"
+    },
+    {
+      "id": "tested_runtime_subset",
+      "property": "Retrieval mengembalikan pengetahuan yang relevan, adapter berjalan, dan gate tidak mempromosikan klaim palsu.",
+      "verifier": "Forward test skill dan regression runtime serta media.",
+      "required": false,
+      "status": "PASS",
+      "evidence": "06_EVALUATION/skill_forward_validation.json;06_EVALUATION/media_regression.json;06_EVALUATION/audio_regression.json;06_EVALUATION/retrieval_regression.json;tested local capabilities only;06_EVALUATION/asset_regression.json;06_EVALUATION/source_fit_regression.json;06_EVALUATION/environment_regression.json;06_EVALUATION/environment_module_local_qa.json; no new-agent/browser/human verification of environment is claimed;06_EVALUATION/spatial_regression.json;06_EVALUATION/spatial_module_local_qa.json; normalized manufactured subset only;06_EVALUATION/attention_regression.json;06_EVALUATION/attention_module_local_qa.json;06_EVALUATION/attention_demo_integration.json; no saliency/gaze/human test;06_EVALUATION/motion_diagnostics_regression.json;06_EVALUATION/motion_module_local_qa.json; supplied screen-coordinate/ideal-model calculations and sampled-media fixture only"
+    },
+    {
+      "id": "persistence",
+      "property": "Checkpoint aktif tersedia dengan identitas dan versi yang konsisten; kelengkapan rilis penuh dinilai terpisah.",
+      "verifier": "Receipt penyimpanan, checksums dan manifest release.",
+      "required": true,
+      "status": "PASS",
+      "evidence": "08_RELEASES/WORK_PERSISTENCE_RECEIPT_v1.5.18.json;154 confirmed guarded operations; checkpoint persistence only, not global completion"
+    },
+    {
+      "id": "all_mandatory_work",
+      "property": "All1271 mandatory packets and all applicable phase deliverables complete.",
+      "verifier": "Execution ledger, phase manifest and phase-specific acceptance.",
+      "required": true,
+      "status": "FAIL",
+      "evidence": "462/1271 completed; Phase4 250/275"
+    },
+    {
+      "id": "claim_evidence_integrity",
+      "property": "All material source-fit requirements resolved with claim-to-passage fit, provenance and retained legitimate uncertainty.",
+      "verifier": "Primary-content/source-fit review, claim/evidence registries and affected regressions.",
+      "required": true,
+      "status": "FAIL",
+      "evidence": "06_EVALUATION/source_fit_audit.json;60 explicit flags:4 original-access and56 passage-fit reviews. SRC-L00-0062 access resolved;2 broad propositions remain pending, not erased."
+    },
+    {
+      "id": "cross_lobe_integration",
+      "property": "Required integration, dependency integrity, retrieval/compression and failure intelligence verified.",
+      "verifier": "Mandatory integration packets, graph checks and affected executable evaluation.",
+      "required": true,
+      "status": "NOT_RUN",
+      "evidence": "Local structure/retrieval PASS is not global integration acceptance"
+    },
+    {
+      "id": "complete_runtime_adapters",
+      "property": "All required runtime/tool adapters and supported capability floors verified.",
+      "verifier": "Actual executable adapter/edge-case/regression tests and capability boundary records.",
+      "required": true,
+      "status": "NOT_RUN",
+      "evidence": "Experimental tested subset only; physical3D/generative execution remains unverified"
+    },
+    {
+      "id": "actual_media_acceptance",
+      "property": "Actual render/video/audio acceptance for all required production paths.",
+      "verifier": "Real render/decode/media inspection and signal analysis; human evidence only where subjective properties require it.",
+      "required": true,
+      "status": "NOT_RUN",
+      "evidence": "Real2D and selected signal fixtures exist; no global production acceptance"
+    },
+    {
+      "id": "stable_release",
+      "property": "Documentation, stable packaging, persistence/retrieval and final release acceptance complete.",
+      "verifier": "Release manifest, package hash/identity checks, mandatory final regression and Execution Contract closeout.",
+      "required": true,
+      "status": "NOT_RUN",
+      "evidence": "Experimental checkpoint; final release NOT_COMPLETE"
+    }
+  ],
+  "required_outputs": [
+    {
+      "id": "repaired_project",
+      "status": "PRESENT",
+      "evidence": "Motion_Render_Video_Work/"
+    },
+    {
+      "id": "canonical_174",
+      "status": "MISSING",
+      "evidence": null
+    },
+    {
+      "id": "runtime_skill",
+      "status": "PRESENT",
+      "evidence": "00_CONTROL/SKILL_INSTALLATION.json; experimental installed runtime, not complete Phase 13"
+    },
+    {
+      "id": "release_report",
+      "status": "PRESENT",
+      "evidence": "PROJECT_REPORT_ID.md; honest experimental checkpoint report, not full final release"
+    }
+  ],
+  "dependencies": [],
+  "effects": [],
+  "route": {
+    "surface": "current-session",
+    "requested_model": null,
+    "observed_model": null,
+    "identity_source": "UNKNOWN_NOT_EXPOSED",
+    "effort": "high",
+    "allowed_efforts": [
+      "medium",
+      "high",
+      "xhigh",
+      "max"
+    ],
+    "actuation": "CURRENT_UNCHANGED"
+  },
+  "budget": {
+    "limits": {},
+    "exhausted": false,
+    "evidence": null,
+    "actor_boundaries": [
+      {
+        "actor": "/root/forward_render",
+        "category": "RESOURCE",
+        "observed_result": "Agent turn failed with actual usage-limit error during L04.03 research.",
+        "action": "Contain failed actor, preserve isolated valid delta, no unchanged retry; continue available independent root work and active actors.",
+        "project_completion_implied": false
+      }
+    ]
+  },
+  "adaptation_envelope": [
+    "context selection",
+    "effort within allowed_efforts",
+    "Dependency-aware module/source-bundle batches",
+    "Batch-level persistence/checksum/control/handoff/reporting when safe",
+    "Targeted local verification; broader affected regression per batch",
+    "Defer noncritical depth/refinement with provenance and priority"
+  ],
+  "state_ref": "00_CONTROL/WORK_HANDOFF.yaml",
+  "next_action": "Execute dependency-ready WP-P04-251/L07.06 using accepted L07.04 object and L07.01 scene contracts; preserve source/runtime provenance and mandatory topic-specific local gates. L08.01 remains blocked by original WP-P04-275; independent READY later work may overlap.",
+  "terminal_semantics": {
+    "PROJECT_COMPLETE": "Only after every mandatory acceptance property is actually verified PASS and all174 modules/all1271 packets and phases complete. A scoped local PASS cannot substitute a global gate.",
+    "PROJECT_RUNNING": "Critical mandatory FAIL/UNKNOWN/NOT_RUN/material unresolved remains, or real external/session/resource boundary. Before stopping, preserve atomic valid delta, mandatory verification, receipts and exact next action.",
+    "current": "PROJECT_RUNNING",
+    "boundary_observed": false,
+    "FAST_RELEASE_COMPLETE": "All required fast-release floor criteria actuallyPASS including174 functionalmodules, runtime/criticaladapters/integration/mainregression/persistence/end-to-endusablepackage. Scientific depth maximum is not implied.",
+    "DEEPENING_IN_PROGRESS": "Only after verified FAST_RELEASE_COMPLETE, execute preserved structured depth/refinement backlog. OriginalfullPROJECT_COMPLETE requires finalfullscopecloseout."
+  },
+  "workflow": "read current state → select valid dependency → execute → verify → persist → update authority → continue",
+  "bottleneck_diagnosis_categories": [
+    "INFORMATION",
+    "CONTEXT",
+    "REASONING",
+    "MODEL/CAPABILITY",
+    "TOOL",
+    "ENVIRONMENT",
+    "STATE",
+    "WORKFLOW",
+    "VERIFICATION",
+    "RESOURCE"
+  ],
+  "execution_priority": "BREADTH_FIRST_FUNCTIONAL_COMPLETION",
+  "active_stage": "FAST_RELEASE_BUILD_RUNNING",
+  "stage_goal": "FAST_RELEASE_COMPLETE",
+  "subsequent_stage": "DEEPENING_IN_PROGRESS",
+  "priority_order": [
+    "coverage",
+    "functional_completeness",
+    "integration",
+    "critical_verification",
+    "usable_release",
+    "deepening"
+  ],
+  "breadth_first_constraints": [
+    "Architecture frozen unless a demonstrated correctness/blocker repair is required",
+    "No new scope/deep-dive/neuron expansion/research branch/refinement except correctness or blocker",
+    "Reuse all valid prior work and adequately fitting source bundles",
+    "Minimum sufficient source review and uncertainty/failure awareness still mandatory",
+    "No generic empty module, false source/evidence/capability/test/completion claim",
+    "Noncritical improvement goes to structured DEEPENING_BACKLOG; original scope is not deleted"
+  ],
+  "fast_release_acceptance": [
+    {
+      "id": "architecture_preserved",
+      "required": true,
+      "status": "PASS",
+      "evidence": "Actual current validator27:27lobes/174modules/1740neurons/1941nodes/2344edges preserved."
+    },
+    {
+      "id": "functional_174_coverage",
+      "required": true,
+      "status": "FAIL",
+      "evidence": "67/174 locally reviewed canonical modules available; critical used-source/integration floor still needs acceptance; no coverage assumed for107UNSTARTED modules"
+    },
+    {
+      "id": "main_dependency_paths",
+      "required": true,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "runtime_uses_required_coverage",
+      "required": true,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "minimum_cross_lobe_integration",
+      "required": true,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "critical_adapters",
+      "required": true,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "mandatory_main_regression",
+      "required": true,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "no_critical_blockers",
+      "required": true,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "consistent_state_persistence",
+      "required": true,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "retrieval",
+      "required": true,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "usable_package",
+      "required": true,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "end_to_end",
+      "required": true,
+      "status": "NOT_RUN"
+    }
+  ],
+  "quality_floor": {
+    "module": [
+      "topic-specific canonical coverage for all10existing neuron identities",
+      "appropriately scoped sufficientsource fit/provenance",
+      "operational decisions and outputs",
+      "failure/uncertainty awareness",
+      "declared dependency integrity",
+      "actual retrieval/structure verification",
+      "integration-ready interfaces without unrun capability claims"
+    ],
+    "critical": [
+      "Source/claim correctness",
+      "Hard dependency/state integrity",
+      "Required executable/media/numeric verifier",
+      "Critical adapter/end-to-end behavior",
+      "Actual persistence and release package identity"
+    ],
+    "deferred_only_if_noncritical": [
+      "Additional sources/deeperpassage breadth",
+      "Exhaustive contradictions/rareedges",
+      "R2/R3expansion",
+      "Parameter/modeldepth",
+      "Broaderscientificreverification/benchmarks",
+      "Advancedfailureintelligence/cross-loberefinement",
+      "Tooloptimization/additionalhumanevaluation/docenrichment/polish"
+    ]
+  },
+  "original_full_completion_gates_preserved": true,
+  "original_work_packet_scope_preserved": 1271,
+  "execution_policy_revision": "ACCELERATED_FAST_RELEASE_2026-10-04",
+  "final_target": "PROJECT_COMPLETE_MAX",
+  "stage_contract": {
+    "A": {
+      "name": "FAST_RELEASE_BUILD",
+      "target": "FAST_RELEASE_COMPLETE",
+      "stop_deepening_on_local_floor": true
+    },
+    "B": {
+      "name": "DEEPENING_IN_PROGRESS",
+      "automatic_start_after": "all required FAST_RELEASE gates PASS with appropriate evidence",
+      "target": "PROJECT_COMPLETE_MAX"
+    },
+    "protected_program": {
+      "architecture": "v3.0.0",
+      "lobes": 27,
+      "modules": 174,
+      "neurons": 1740,
+      "core_packets": 1271,
+      "original_ids_and_dependencies_preserved": true
+    },
+    "completion_distinction": "FAST_RELEASE_COMPLETE is never PROJECT_COMPLETE_MAX"
+  },
+  "accelerated_policy": {
+    "objective": "accepted functional progress per available allowance",
+    "batch_size": "adaptive; start8–12 homogeneous ready tasks, upsize only after acceptance, shrink for topic-specific contradictions/converging dependencies",
+    "current_batch": {
+      "modules_accepted": 4,
+      "core_packets_accepted": 20,
+      "module_ids": [
+        "L07.02",
+        "L07.03",
+        "L07.04",
+        "L07.05"
+      ],
+      "cumulative_request_gains": {
+        "modules": 12,
+        "core_packets": 60
+      }
+    },
+    "research_reuse": "claim-specific source-fit and exact lineage/version preserved; no repeated valid evidence acquisition",
+    "verification": "targeted property proof locally; affected batch regression; global checks only on specified triggers",
+    "zero_waste": "retry only with changed evidence/arguments/strategy/state/capability/tool/environment/verifier",
+    "resource_measurements": "actual allowance consumption is not exposed; do not infer it from token counts, effort labels or elapsed time",
+    "resource_exhaustion": "stop new work on actual limit and persist zero-loss checkpoint; keep BUDGET_EXHAUSTED/PROJECT_RUNNING when required work remains",
+    "reporting": "material events only",
+    "writers": "one Main writer; no concurrent artifact ownership"
+  }
+}

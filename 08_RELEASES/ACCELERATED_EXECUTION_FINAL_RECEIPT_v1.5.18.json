@@ -1,0 +1,72 @@
+{
+  "status": "VERIFIED_CHECKPOINT_PROJECT_RUNNING",
+  "control": "1.5.18",
+  "knowledge": "0.67.0",
+  "runtime": "0.7.2",
+  "accepted_request_gains": {
+    "modules": 12,
+    "core_packets": 60
+  },
+  "current": {
+    "modules": 67,
+    "core_packets": 462,
+    "phase4_packets": 250
+  },
+  "preserved": {
+    "lobes": 27,
+    "modules": 174,
+    "neurons": 1740,
+    "original_core_packets": 1271,
+    "prior_module_files_byte_identical": 1098,
+    "backlog_entries": 129
+  },
+  "scene_batch_persistence": {
+    "primary_payload": 154,
+    "ordered_closeout": 6,
+    "package_artifacts": 3,
+    "guard_rejections": 0,
+    "retries": 0
+  },
+  "package_records": [
+    {
+      "library_file_id": "libfile_6e681905d27c8191a98b7cd166aed3fa",
+      "version": 0,
+      "file_name": "Motion-Render-Video-Checkpoint-v1.5.18-67-Modules.zip",
+      "sha256": "603f02a4aa8af00914225cc18af2771597b17047a349796ccc4a05fca8178e26"
+    },
+    {
+      "library_file_id": "libfile_3555137d624c8191969a348037e2021d",
+      "version": 0,
+      "file_name": "checkpoint_package_validation_v1.5.18.json",
+      "sha256": "d782d06d69aac7373cf3f0a82b7c7ce986cf34e0f83ebc79114c7b060903023e"
+    },
+    {
+      "library_file_id": "libfile_2896e23fc54081919baab60456f9fead",
+      "version": 0,
+      "file_name": "checkpoint_persistence_validation_v1.5.18.json",
+      "sha256": "1fe712f31c0183c5feee2c5f5ef77fffa08b6bf2f8f6c6f59d55b0e6e090050f"
+    }
+  ],
+  "measured_package_transfer": {
+    "exit_code": 0,
+    "measured_elapsed_seconds": 5.495,
+    "scope": "Only final67module package transfer/finalization CLI wall time; not allowance or total active execution"
+  },
+  "actual_allowance_consumed": null,
+  "allowance_reason": "Not exposed",
+  "fast_release_complete": false,
+  "project_complete_max": false,
+  "next_action": "WP-P04-251/L07.06;consume accepted L07.04/L07.01,exact current frontier and mandatory topic-specific local gates",
+  "frontier": {
+    "ready": 30,
+    "blocked": 77
+  },
+  "unfinished_batch": "NONE",
+  "blockers": [
+    "107unaccepted required modules",
+    "legacy source-fit obligations",
+    "required native3D/generative/runtime integrations",
+    "required actual human/target evaluations",
+    "global regression/end-to-end/final release gates"
+  ]
+}
