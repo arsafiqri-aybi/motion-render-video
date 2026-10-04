@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-10-05",
+  "source": "/Motion Render Video",
+  "total_files": 2621,
+  "groups": {
+    "00_CONTROL": {
+      "count": 659,
+      "text_like": 657,
+      "binary_or_nontext": 2
+    },
+    "01_RESEARCH": {
+      "count": 1002,
+      "text_like": 993,
+      "binary_or_nontext": 9
+    },
+    "05_TOOLS": {
+      "count": 55,
+      "text_like": 55,
+      "binary_or_nontext": 0
+    },
+    "06_EVALUATION": {
+      "count": 456,
+      "text_like": 333,
+      "binary_or_nontext": 123
+    },
+    "08_RELEASES": {
+      "count": 83,
+      "text_like": 44,
+      "binary_or_nontext": 39
+    },
+    "07_RUNTIME_SKILL": {
+      "count": 7,
+      "text_like": 6,
+      "binary_or_nontext": 1
+    },
+    "03_GRAPH": {
+      "count": 17,
+      "text_like": 17,
+      "binary_or_nontext": 0
+    },
+    "05_TOOL_ADAPTERS": {
+      "count": 4,
+      "text_like": 4,
+      "binary_or_nontext": 0
+    },
+    "02_KNOWLEDGE": {
+      "count": 335,
+      "text_like": 335,
+      "binary_or_nontext": 0
+    },
+    "ROOT": {
+      "count": 2,
+      "text_like": 2,
+      "binary_or_nontext": 0
+    },
+    "04_FAILURES_AND_DIAGNOSTICS": {
+      "count": 1,
+      "text_like": 1,
+      "binary_or_nontext": 0
+    }
+  }
+}

@@ -1,0 +1,5 @@
+path,mime_type,size_bytes,modified_at,library_file_id,file_id,mirror_class
+"05_TOOL_ADAPTERS/BLENDER_EXAMPLES/dark_scene.json","application/json","2182","2026-10-03T10:54:41.684936+00:00","libfile_608f67e614d08191925d8d402133c4dd","file_00000000321881f6905cefb602e10968","text-source"
+"05_TOOL_ADAPTERS/BLENDER_EXAMPLES/known_scene.json","application/json","2052","2026-10-03T10:54:41.718131+00:00","libfile_7034f587b34c8191a7b847ff6c5e6c4c","file_00000000689481f6b8039eed48094b64","text-source"
+"05_TOOL_ADAPTERS/BLENDER_EXAMPLES/lit_scene.json","application/json","2187","2026-10-03T10:54:41.695222+00:00","libfile_de518802d57081919f3ebda59e94265c","file_00000000647481f69d270fe49665c7f8","text-source"
+"05_TOOL_ADAPTERS/WORK_ADAPTER_REGISTRY.yaml","application/yaml","5414","2026-10-03T10:54:45.917913+00:00","libfile_2b6ccd5442d08191ad28e06cf67a5c2f","file_000000008bd481f6902dac914234e758","text-source"
