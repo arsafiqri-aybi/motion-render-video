@@ -20,3 +20,7 @@ Supersampling/filtering mengaproksimasi coverage. Pillow menggambar primitive/an
 ## Reproduction
 
 Lihat command di [README](../README.md). Output lokal dapat memiliki binary encoder differences across environments; verify scene/frame properties serta hashes dari run sendiri. Tidak mengklaim bitwise reproducibility lintas setiap library/hardware version.
+
+## Contoh kedua:3D CPU
+
+[Spatial demo](spatial.md) memakai geometry 3D, camera, clipping, depth buffer dan opaque flat shading. Scope/outputcontract/report terpisah dari demo 2Dberaudio di halaman ini.

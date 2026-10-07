@@ -162,3 +162,7 @@ Spectral flux onset detection, phase vocoders, time stretch, resampling, sidecha
 [R24](../../evidence/sources.md#r24), [R33](../../evidence/sources.md#r33), [R34](../../evidence/sources.md#r34).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Feature windows dan audio-reactive timing](../deep-dives/19-features-time-windows-and-audio-reactivity.md) — decision/model/counterexample yang melengkapi chapter ini.

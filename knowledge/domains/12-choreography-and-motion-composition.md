@@ -155,3 +155,7 @@ Nonlinear animation, blend trees, pose graphs, hierarchical timelines, additive 
 [R02](../../evidence/sources.md#r02), [R21](../../evidence/sources.md#r21), [R25](../../evidence/sources.md#r25).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Channel ownership, sequence dan konflik](../deep-dives/12-channel-ownership-and-sequencing.md) — decision/model/counterexample yang melengkapi chapter ini.

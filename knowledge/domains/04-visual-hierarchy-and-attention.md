@@ -155,3 +155,7 @@ Eye movement research; task-driven attention; visual search; saliency models wit
 [R03](../../evidence/sources.md#r03), [R09](../../evidence/sources.md#r09), [R10](../../evidence/sources.md#r10).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Rencana perhatian dengan handoff yang jelas](../deep-dives/04-attention-as-directed-handoffs.md) — decision/model/counterexample yang melengkapi chapter ini.

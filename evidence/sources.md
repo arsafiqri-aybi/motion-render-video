@@ -297,3 +297,27 @@ Discovery/index bukan audit seluruh sumber. Kandidat belum menjadi evidence untu
 [WebGPU Shading Language](https://www.w3.org/TR/WGSL/)
 
 **Status:** PASSAGE_INSPECTED. **Scope:** Document and type/resource index; implementation needs normative section inspection.
+
+<a id="r38"></a>
+
+## R38 — PBRT Transformations
+
+[PBRT Transformations](https://www.pbr-book.org/4ed/Geometry_and_Transformations/Transformations)
+
+**Status:** PASSAGE_INSPECTED. **Scope:** Intro, homogeneous coordinates, translation/scale and frame interpretation; no whole-textbook audit.
+
+<a id="r39"></a>
+
+## R39 — Microsoft Rasterizer Stage
+
+[Microsoft Rasterizer Stage](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-rasterizer-stage)
+
+**Status:** PASSAGE_INSPECTED. **Scope:** Rasterization overview including clipping/projection/viewport; CPU subset is not Direct3D conformance.
+
+<a id="r40"></a>
+
+## R40 — HarfBuzz working with clusters
+
+[HarfBuzz working with clusters](https://harfbuzz.github.io/working-with-harfbuzz-clusters.html)
+
+**Status:** PASSAGE_INSPECTED. **Scope:** Input/output cluster role and shaping changes; no complex-script execution in demos.

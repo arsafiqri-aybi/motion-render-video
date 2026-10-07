@@ -162,3 +162,7 @@ Lens distortion, anamorphic projection, panoramic/fisheye, rack focus, handheld 
 [R11](../../evidence/sources.md#r11), [R20](../../evidence/sources.md#r20), [R27](../../evidence/sources.md#r27).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Framing constraints dan coupled camera](../deep-dives/14-framing-constraints-and-camera-coupling.md) — decision/model/counterexample yang melengkapi chapter ini.

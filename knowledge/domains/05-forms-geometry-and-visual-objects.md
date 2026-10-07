@@ -155,3 +155,7 @@ SDFs, implicit surfaces, subdivision, NURBS, tessellation, mesh repair, topology
 [R06](../../evidence/sources.md#r06), [R07](../../evidence/sources.md#r07), [R11](../../evidence/sources.md#r11).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Triangle coverage dan representasi bentuk](../deep-dives/05-triangles-coverage-and-topology.md) — decision/model/counterexample yang melengkapi chapter ini.

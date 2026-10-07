@@ -11,6 +11,8 @@ Titik masuknya adalah apa yang ditampilkan dan dialami penonton. Matematika, kod
 - [198 konsep terstruktur](architecture/concepts.json)
 - [Fondasi lintas domain](knowledge/foundations.md)
 - [Penurunan dan algoritma](knowledge/algorithms/README.md)
+- [22 pendalaman produksi](knowledge/deep-dives/README.md)
+- [Graph hubungan 198 konsep](architecture/concept-graph.md)
 - [Delapan cabang spesialis](knowledge/specialists/README.md)
 - [Playbooks produksi](playbooks/README.md)
 - [Diagnosis kegagalan](diagnostics/README.md)
@@ -36,12 +38,14 @@ python3 tools/verify_media.py .local-output
 python3 tools/validate_knowledge.py
 ```
 
-Render contoh menghasilkan 640×360, 30 fps, 180 frame, enam detik dan audio mono 48 kHz. Kode melakukan sampling temporal, transform color yang dinyatakan dan encoding nyata. [Laporan run yang disertakan](evidence/render-report.json) dan [pemeriksaan media](evidence/media-report.json) mengacu pada binary demo yang disertakan.
+Render contoh menghasilkan 640×360, 30 fps, 180 frame, enam detik dan audio mono 48 kHz. Kode melakukan sampling temporal, transform color yang dinyatakan dan encoding nyata.
+
+[Contoh 3D CPU](examples/spatial.md) menambah 96 frame/24 fps/4s dengan geometry, camera, clipping, depth buffer dan sampling actual. Jalankan `python3 runtime/render_spatial.py --out .local-output/spatial` lalu `python3 tools/verify_spatial.py .local-output/spatial`. Suite numeric sekarang 24 tests; scope 2D/3D disimpan terpisah. [Laporan run yang disertakan](evidence/render-report.json) dan [pemeriksaan media](evidence/media-report.json) mengacu pada binary demo yang disertakan.
 
 ## Kedalaman dan status
 
 Seluruh 22 induk memiliki materi yang tertulis; ini bukan folder kosong atau daftar link saja. Keberadaan cabang spesialis tidak berarti seluruh literaturnya sudah dijabarkan atau diaudit. Klaim universal “seluruh ilmu motion sudah selesai 100%” tidak dipakai.
 
-**AUTHORED** berarti penjelasan tersedia. **PASS untuk demo** hanya berarti pemeriksaan yang disebut dalam laporan sudah dijalankan. Sumber yang baru menjadi jalur riset diberi **CANDIDATE**; passage yang dibaca diberi scope tersendiri. [Batas cakupan](architecture/scope.md) menjaga perbedaan ini.
+**AUTHORED** berarti penjelasan tersedia. **PASS untuk masing-masing demo** hanya berarti pemeriksaan yang disebut dalam laporan sudah dijalankan. Sumber yang baru menjadi jalur riset diberi **CANDIDATE**; passage yang dibaca diberi scope tersendiri. [Batas cakupan](architecture/scope.md) menjaga perbedaan ini.
 
 Struktur ini adalah isi baru repository. Materi lama tidak disalin sebagai backup, archive atau release mirror.

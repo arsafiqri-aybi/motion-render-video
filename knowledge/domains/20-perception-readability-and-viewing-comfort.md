@@ -162,3 +162,7 @@ Eye tracking, psychophysics, motion sensitivity, visual crowding, apparent motio
 [R03](../../evidence/sources.md#r03), [R09](../../evidence/sources.md#r09), [R10](../../evidence/sources.md#r10), [R35](../../evidence/sources.md#r35).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Viewing contract dan kelas bukti](../deep-dives/20-viewing-contract-and-evidence-class.md) — decision/model/counterexample yang melengkapi chapter ini.

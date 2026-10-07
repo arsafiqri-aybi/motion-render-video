@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "id": "SP01",
+      "concepts": [
+        "M09.03",
+        "M14.02"
+      ],
+      "method_scope": "Pinhole offset scales with inverse depth",
+      "method_ids": [
+        "test_projection_depth_halves_offset"
+      ],
+      "status": "EXECUTED_SCOPED",
+      "report": "evidence/spatial-numeric-report.json"
+    },
+    {
+      "id": "SP02",
+      "concepts": [
+        "M09.01",
+        "M14.03"
+      ],
+      "method_scope": "Camera target/basis; near-up fallback",
+      "method_ids": [
+        "test_camera_target_centered",
+        "test_camera_up_singularity_fallback"
+      ],
+      "status": "EXECUTED_SCOPED",
+      "report": "evidence/spatial-numeric-report.json"
+    },
+    {
+      "id": "SP03",
+      "concepts": [
+        "M09.09",
+        "M21.01"
+      ],
+      "method_scope": "Near/far/six-plane clipping subset",
+      "method_ids": [
+        "test_near_clip_preserves_halfspace",
+        "test_fully_clipped_and_far_rejection",
+        "test_frustum_bounds_after_clipping"
+      ],
+      "status": "EXECUTED_SCOPED",
+      "report": "evidence/spatial-numeric-report.json"
+    },
+    {
+      "id": "SP04",
+      "concepts": [
+        "M18.07",
+        "M21.01"
+      ],
+      "method_scope": "Opaque reciprocal-Z depth with independent ray-plane oracle",
+      "method_ids": [
+        "test_depth_matches_ray_plane_oracle",
+        "test_opaque_occlusion_order_independent"
+      ],
+      "status": "EXECUTED_SCOPED",
+      "report": "evidence/spatial-numeric-report.json"
+    },
+    {
+      "id": "SP05",
+      "concepts": [
+        "M05.08",
+        "M21.02"
+      ],
+      "method_scope": "Degenerate triangle and shared-edge coverage subset",
+      "method_ids": [
+        "test_degenerate_triangle_no_write",
+        "test_shared_edge_no_holes"
+      ],
+      "status": "EXECUTED_SCOPED",
+      "report": "evidence/spatial-numeric-report.json"
+    },
+    {
+      "id": "SP06",
+      "concepts": [
+        "M08.01",
+        "M09.07"
+      ],
+      "method_scope": "Inverse-transpose normal/tangent orthogonality for nonuniform scale",
+      "method_ids": [
+        "test_normal_inverse_transpose_orthogonal"
+      ],
+      "status": "EXECUTED_SCOPED",
+      "report": "evidence/spatial-numeric-report.json"
+    },
+    {
+      "id": "SP07",
+      "concepts": [
+        "M14.08",
+        "M09.03"
+      ],
+      "method_scope": "Dolly-zoom subject-plane scale invariant",
+      "method_ids": [
+        "test_dolly_zoom_subject_scale_invariant"
+      ],
+      "status": "EXECUTED_SCOPED",
+      "report": "evidence/spatial-numeric-report.json"
+    },
+    {
+      "id": "SP08",
+      "concepts": [
+        "M11.03",
+        "M21.04",
+        "M22.04",
+        "M22.05",
+        "M22.06"
+      ],
+      "method_scope": "96frame24fps4s silent SDR actual media",
+      "method_ids": [
+        "tools/verify_spatial.py"
+      ],
+      "status": "EXECUTED_SCOPED",
+      "report": "evidence/spatial-media-report.json"
+    }
+  ],
+  "unclaimed": [
+    "All198concepts execution",
+    "PBR/GI/shadows",
+    "GPU/shaders",
+    "Cloth/fluid simulation",
+    "Complex-script rendering",
+    "Human comfort/accessibility certification"
+  ]
+}

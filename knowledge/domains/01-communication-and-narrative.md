@@ -155,3 +155,7 @@ Visual rhetoric; documentary logic; argumentation; nonverbal storytelling; scien
 [R01](../../evidence/sources.md#r01), [R02](../../evidence/sources.md#r02), [R03](../../evidence/sources.md#r03).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Mengubah pesan menjadi fungsi shot](../deep-dives/01-message-to-shot.md) — decision/model/counterexample yang melengkapi chapter ini.

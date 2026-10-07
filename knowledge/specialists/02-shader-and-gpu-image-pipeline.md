@@ -20,4 +20,4 @@ Mulai known gradient, checkerboard, transformed triangle dan circle yang tetap b
 
 ## Batas
 
-Tidak ada shader/GPU execution claim pada build ini. Implementasi demo CPU flat2D adalah satu technology layer. Domain M05/M08/M17/M18/M21/M22.
+Tidak ada shader/GPU execution claim pada build ini. Implementasi demo CPU flat2D dan opaque3D adalah technology layers yang benar-benar dijalankan; belum ada GPU execution. Domain M05/M08/M17/M18/M21/M22.

@@ -155,3 +155,7 @@ Quaternions, Lie groups, camera calibration, projective geometry, stereo, SDF sc
 [R06](../../evidence/sources.md#r06), [R11](../../evidence/sources.md#r11), [R20](../../evidence/sources.md#r20).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Camera space, frustum dan clipping](../deep-dives/09-camera-space-frustum-and-clipping.md) — decision/model/counterexample yang melengkapi chapter ini.

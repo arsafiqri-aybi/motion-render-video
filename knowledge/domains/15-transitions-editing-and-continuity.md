@@ -162,3 +162,7 @@ J/L cuts, montage, parallel action, split screen, match dissolves, motion vector
 [R23](../../evidence/sources.md#r23), [R28](../../evidence/sources.md#r28), [R29](../../evidence/sources.md#r29).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Batas edit, meaning dan match continuity](../deep-dives/15-edit-boundaries-meaning-and-matching.md) — decision/model/counterexample yang melengkapi chapter ini.

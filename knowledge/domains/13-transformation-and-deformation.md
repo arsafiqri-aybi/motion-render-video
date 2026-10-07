@@ -162,3 +162,7 @@ Dual quaternion skinning, blend shapes, pose-space deformation, free-form deform
 [R06](../../evidence/sources.md#r06), [R07](../../evidence/sources.md#r07), [R11](../../evidence/sources.md#r11), [R26](../../evidence/sources.md#r26).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Deformation, correspondence dan local distortion](../deep-dives/13-deformation-correspondence-and-jacobian.md) — decision/model/counterexample yang melengkapi chapter ini.

@@ -1,0 +1,26 @@
+# Pendalaman produksi:22 induk
+
+Setiap tulisan mengurai keputusan atau mechanism yang sering gagal ketika menjadi video. Example derivations tidak otomatis mengklaim full implementation; [coverage record](../../evidence/execution-coverage.json) menyatakan scope actual.
+
+- [M01 — Mengubah pesan menjadi fungsi shot](01-message-to-shot.md)
+- [M02 — Visual grammar dan motion grammar](02-visual-and-motion-grammar.md)
+- [M03 — Layout constraints sepanjang waktu](03-layout-constraints-over-time.md)
+- [M04 — Rencana perhatian dengan handoff yang jelas](04-attention-as-directed-handoffs.md)
+- [M05 — Triangle coverage dan representasi bentuk](05-triangles-coverage-and-topology.md)
+- [M06 — Shaped text dan unit animasi](06-shaped-text-and-animation-units.md)
+- [M07 — Color sebagai data sepanjang pipeline](07-color-as-data-through-pipeline.md)
+- [M08 — Normals, shading dan material contract](08-normals-shading-and-material-contract.md)
+- [M09 — Camera space, frustum dan clipping](09-camera-space-frustum-and-clipping.md)
+- [M10 — Retargeting kontinu dengan Hermite connector](10-continuous-retargeting-with-hermite.md)
+- [M11 — Contract clock, cadence dan exposure](11-clock-cadence-exposure-contract.md)
+- [M12 — Channel ownership, sequence dan konflik](12-channel-ownership-and-sequencing.md)
+- [M13 — Deformation, correspondence dan local distortion](13-deformation-correspondence-and-jacobian.md)
+- [M14 — Framing constraints dan coupled camera](14-framing-constraints-and-camera-coupling.md)
+- [M15 — Batas edit, meaning dan match continuity](15-edit-boundaries-meaning-and-matching.md)
+- [M16 — State history, integrator dan cache](16-history-state-and-simulation-caches.md)
+- [M17 — Fields, effects dan frequency control](17-fields-effects-and-frequency-control.md)
+- [M18 — Depth, alpha dan auxiliary pass conventions](18-depth-alpha-and-pass-conventions.md)
+- [M19 — Feature windows dan audio-reactive timing](19-features-time-windows-and-audio-reactivity.md)
+- [M20 — Viewing contract dan kelas bukti](20-viewing-contract-and-evidence-class.md)
+- [M21 — Pipeline 3D CPU dari geometry ke frame](21-opaque-cpu-3d-pipeline.md)
+- [M22 — Mengikat inputs, outputs dan laporan](22-current-inputs-to-valid-reports.md)

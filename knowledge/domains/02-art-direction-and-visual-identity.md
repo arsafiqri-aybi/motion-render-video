@@ -155,3 +155,7 @@ Visual semiotics; brand motion systems; motion language grammars; procedural sty
 [R02](../../evidence/sources.md#r02), [R04](../../evidence/sources.md#r04), [R05](../../evidence/sources.md#r05).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Visual grammar dan motion grammar](../deep-dives/02-visual-and-motion-grammar.md) — decision/model/counterexample yang melengkapi chapter ini.

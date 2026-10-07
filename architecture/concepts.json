@@ -5,7 +5,8 @@
     "title": "Purpose dan audience",
     "path": "knowledge/domains/01-communication-and-narrative.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/01-message-to-shot.md"
   },
   {
     "id": "M01.02",
@@ -13,7 +14,8 @@
     "title": "Message hierarchy",
     "path": "knowledge/domains/01-communication-and-narrative.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/01-message-to-shot.md"
   },
   {
     "id": "M01.03",
@@ -21,7 +23,8 @@
     "title": "Narrative progression",
     "path": "knowledge/domains/01-communication-and-narrative.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/01-message-to-shot.md"
   },
   {
     "id": "M01.04",
@@ -29,7 +32,8 @@
     "title": "Causality dan explanation",
     "path": "knowledge/domains/01-communication-and-narrative.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/01-message-to-shot.md"
   },
   {
     "id": "M01.05",
@@ -37,7 +41,8 @@
     "title": "Story beats dan pacing",
     "path": "knowledge/domains/01-communication-and-narrative.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/01-message-to-shot.md"
   },
   {
     "id": "M01.06",
@@ -45,7 +50,8 @@
     "title": "Voiceover dan script",
     "path": "knowledge/domains/01-communication-and-narrative.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/01-message-to-shot.md"
   },
   {
     "id": "M01.07",
@@ -53,7 +59,8 @@
     "title": "Evidence dan examples",
     "path": "knowledge/domains/01-communication-and-narrative.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/01-message-to-shot.md"
   },
   {
     "id": "M01.08",
@@ -61,7 +68,8 @@
     "title": "Semantic continuity",
     "path": "knowledge/domains/01-communication-and-narrative.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/01-message-to-shot.md"
   },
   {
     "id": "M01.09",
@@ -69,7 +77,8 @@
     "title": "Narrative evaluation",
     "path": "knowledge/domains/01-communication-and-narrative.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/01-message-to-shot.md"
   },
   {
     "id": "M02.01",
@@ -77,7 +86,8 @@
     "title": "Concept dan organizing idea",
     "path": "knowledge/domains/02-art-direction-and-visual-identity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/02-visual-and-motion-grammar.md"
   },
   {
     "id": "M02.02",
@@ -85,7 +95,8 @@
     "title": "Reference analysis",
     "path": "knowledge/domains/02-art-direction-and-visual-identity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/02-visual-and-motion-grammar.md"
   },
   {
     "id": "M02.03",
@@ -93,7 +104,8 @@
     "title": "Visual vocabulary",
     "path": "knowledge/domains/02-art-direction-and-visual-identity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/02-visual-and-motion-grammar.md"
   },
   {
     "id": "M02.04",
@@ -101,7 +113,8 @@
     "title": "Motion vocabulary",
     "path": "knowledge/domains/02-art-direction-and-visual-identity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/02-visual-and-motion-grammar.md"
   },
   {
     "id": "M02.05",
@@ -109,7 +122,8 @@
     "title": "Color material typography system",
     "path": "knowledge/domains/02-art-direction-and-visual-identity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/02-visual-and-motion-grammar.md"
   },
   {
     "id": "M02.06",
@@ -117,7 +131,8 @@
     "title": "Constraints dan variation",
     "path": "knowledge/domains/02-art-direction-and-visual-identity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/02-visual-and-motion-grammar.md"
   },
   {
     "id": "M02.07",
@@ -125,7 +140,8 @@
     "title": "Tone dan emotional intent",
     "path": "knowledge/domains/02-art-direction-and-visual-identity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/02-visual-and-motion-grammar.md"
   },
   {
     "id": "M02.08",
@@ -133,7 +149,8 @@
     "title": "Identity across formats",
     "path": "knowledge/domains/02-art-direction-and-visual-identity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/02-visual-and-motion-grammar.md"
   },
   {
     "id": "M02.09",
@@ -141,7 +158,8 @@
     "title": "Direction review dan iteration",
     "path": "knowledge/domains/02-art-direction-and-visual-identity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/02-visual-and-motion-grammar.md"
   },
   {
     "id": "M03.01",
@@ -149,7 +167,8 @@
     "title": "Frame coordinates dan safe regions",
     "path": "knowledge/domains/03-composition-and-layout.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/03-layout-constraints-over-time.md"
   },
   {
     "id": "M03.02",
@@ -157,7 +176,8 @@
     "title": "Alignment grids dan rhythm",
     "path": "knowledge/domains/03-composition-and-layout.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/03-layout-constraints-over-time.md"
   },
   {
     "id": "M03.03",
@@ -165,7 +185,8 @@
     "title": "Balance weight dan negative space",
     "path": "knowledge/domains/03-composition-and-layout.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/03-layout-constraints-over-time.md"
   },
   {
     "id": "M03.04",
@@ -173,7 +194,8 @@
     "title": "Scale proportion dan relationships",
     "path": "knowledge/domains/03-composition-and-layout.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/03-layout-constraints-over-time.md"
   },
   {
     "id": "M03.05",
@@ -181,7 +203,8 @@
     "title": "Anchors pivots dan transforms",
     "path": "knowledge/domains/03-composition-and-layout.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/03-layout-constraints-over-time.md"
   },
   {
     "id": "M03.06",
@@ -189,7 +212,8 @@
     "title": "Moving bounds dan occupancy",
     "path": "knowledge/domains/03-composition-and-layout.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/03-layout-constraints-over-time.md"
   },
   {
     "id": "M03.07",
@@ -197,7 +221,8 @@
     "title": "Recomposition across aspect ratios",
     "path": "knowledge/domains/03-composition-and-layout.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/03-layout-constraints-over-time.md"
   },
   {
     "id": "M03.08",
@@ -205,7 +230,8 @@
     "title": "Depth layering dan occlusion",
     "path": "knowledge/domains/03-composition-and-layout.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/03-layout-constraints-over-time.md"
   },
   {
     "id": "M03.09",
@@ -213,7 +239,8 @@
     "title": "Layout transitions",
     "path": "knowledge/domains/03-composition-and-layout.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/03-layout-constraints-over-time.md"
   },
   {
     "id": "M04.01",
@@ -221,7 +248,8 @@
     "title": "Priority roles",
     "path": "knowledge/domains/04-visual-hierarchy-and-attention.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md"
   },
   {
     "id": "M04.02",
@@ -229,7 +257,8 @@
     "title": "Contrast cues",
     "path": "knowledge/domains/04-visual-hierarchy-and-attention.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md"
   },
   {
     "id": "M04.03",
@@ -237,7 +266,8 @@
     "title": "Grouping dan separation",
     "path": "knowledge/domains/04-visual-hierarchy-and-attention.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md"
   },
   {
     "id": "M04.04",
@@ -245,7 +275,8 @@
     "title": "Motion onset dan competition",
     "path": "knowledge/domains/04-visual-hierarchy-and-attention.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md"
   },
   {
     "id": "M04.05",
@@ -253,7 +284,8 @@
     "title": "Attention handoff",
     "path": "knowledge/domains/04-visual-hierarchy-and-attention.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md"
   },
   {
     "id": "M04.06",
@@ -261,7 +293,8 @@
     "title": "Reveal dan information availability",
     "path": "knowledge/domains/04-visual-hierarchy-and-attention.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md"
   },
   {
     "id": "M04.07",
@@ -269,7 +302,8 @@
     "title": "Clutter dan competing channels",
     "path": "knowledge/domains/04-visual-hierarchy-and-attention.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md"
   },
   {
     "id": "M04.08",
@@ -277,7 +311,8 @@
     "title": "Camera dan viewpoint emphasis",
     "path": "knowledge/domains/04-visual-hierarchy-and-attention.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md"
   },
   {
     "id": "M04.09",
@@ -285,7 +320,8 @@
     "title": "Measurement dan interpretation",
     "path": "knowledge/domains/04-visual-hierarchy-and-attention.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md"
   },
   {
     "id": "M05.01",
@@ -293,7 +329,8 @@
     "title": "Primitives dan visual vocabulary",
     "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md"
   },
   {
     "id": "M05.02",
@@ -301,7 +338,8 @@
     "title": "Paths dan curves",
     "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md"
   },
   {
     "id": "M05.03",
@@ -309,7 +347,8 @@
     "title": "Strokes fills outlines",
     "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md"
   },
   {
     "id": "M05.04",
@@ -317,7 +356,8 @@
     "title": "Topology connectivity",
     "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md"
   },
   {
     "id": "M05.05",
@@ -325,7 +365,8 @@
     "title": "Parametric objects",
     "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md"
   },
   {
     "id": "M05.06",
@@ -333,7 +374,8 @@
     "title": "Representation choice",
     "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md"
   },
   {
     "id": "M05.07",
@@ -341,7 +383,8 @@
     "title": "Silhouette projection",
     "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md"
   },
   {
     "id": "M05.08",
@@ -349,7 +392,8 @@
     "title": "Geometric queries",
     "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md"
   },
   {
     "id": "M05.09",
@@ -357,7 +401,8 @@
     "title": "Persistence correspondence",
     "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md"
   },
   {
     "id": "M06.01",
@@ -365,7 +410,8 @@
     "title": "Characters clusters glyphs",
     "path": "knowledge/domains/06-typography-and-text-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md"
   },
   {
     "id": "M06.02",
@@ -373,7 +419,8 @@
     "title": "Fonts metrics fallback",
     "path": "knowledge/domains/06-typography-and-text-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md"
   },
   {
     "id": "M06.03",
@@ -381,7 +428,8 @@
     "title": "Hierarchy readability",
     "path": "knowledge/domains/06-typography-and-text-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md"
   },
   {
     "id": "M06.04",
@@ -389,7 +437,8 @@
     "title": "Wrapping alignment",
     "path": "knowledge/domains/06-typography-and-text-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md"
   },
   {
     "id": "M06.05",
@@ -397,7 +446,8 @@
     "title": "Reveal granularity",
     "path": "knowledge/domains/06-typography-and-text-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md"
   },
   {
     "id": "M06.06",
@@ -405,7 +455,8 @@
     "title": "Kinetic transforms",
     "path": "knowledge/domains/06-typography-and-text-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md"
   },
   {
     "id": "M06.07",
@@ -413,7 +464,8 @@
     "title": "Counters and numerical text",
     "path": "knowledge/domains/06-typography-and-text-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md"
   },
   {
     "id": "M06.08",
@@ -421,7 +473,8 @@
     "title": "Captions and spoken cues",
     "path": "knowledge/domains/06-typography-and-text-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md"
   },
   {
     "id": "M06.09",
@@ -429,7 +482,8 @@
     "title": "Sampling and encoding",
     "path": "knowledge/domains/06-typography-and-text-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md"
   },
   {
     "id": "M07.01",
@@ -437,7 +491,8 @@
     "title": "Representations",
     "path": "knowledge/domains/07-color-and-color-relationships.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md"
   },
   {
     "id": "M07.02",
@@ -445,7 +500,8 @@
     "title": "Linear versus encoded",
     "path": "knowledge/domains/07-color-and-color-relationships.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md"
   },
   {
     "id": "M07.03",
@@ -453,7 +509,8 @@
     "title": "Palette roles",
     "path": "knowledge/domains/07-color-and-color-relationships.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md"
   },
   {
     "id": "M07.04",
@@ -461,7 +518,8 @@
     "title": "Contrast legibility",
     "path": "knowledge/domains/07-color-and-color-relationships.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md"
   },
   {
     "id": "M07.05",
@@ -469,7 +527,8 @@
     "title": "Gradients",
     "path": "knowledge/domains/07-color-and-color-relationships.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md"
   },
   {
     "id": "M07.06",
@@ -477,7 +536,8 @@
     "title": "Temporal interpolation",
     "path": "knowledge/domains/07-color-and-color-relationships.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md"
   },
   {
     "id": "M07.07",
@@ -485,7 +545,8 @@
     "title": "Gamut mapping",
     "path": "knowledge/domains/07-color-and-color-relationships.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md"
   },
   {
     "id": "M07.08",
@@ -493,7 +554,8 @@
     "title": "Grading",
     "path": "knowledge/domains/07-color-and-color-relationships.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md"
   },
   {
     "id": "M07.09",
@@ -501,7 +563,8 @@
     "title": "Delivery perception",
     "path": "knowledge/domains/07-color-and-color-relationships.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md"
   },
   {
     "id": "M08.01",
@@ -509,7 +572,8 @@
     "title": "Normals orientation",
     "path": "knowledge/domains/08-light-materials-and-surface-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md"
   },
   {
     "id": "M08.02",
@@ -517,7 +581,8 @@
     "title": "Diffuse specular roughness",
     "path": "knowledge/domains/08-light-materials-and-surface-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md"
   },
   {
     "id": "M08.03",
@@ -525,7 +590,8 @@
     "title": "Metal dielectric transmission",
     "path": "knowledge/domains/08-light-materials-and-surface-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md"
   },
   {
     "id": "M08.04",
@@ -533,7 +599,8 @@
     "title": "Textures UVs",
     "path": "knowledge/domains/08-light-materials-and-surface-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md"
   },
   {
     "id": "M08.05",
@@ -541,7 +608,8 @@
     "title": "Lighting placement",
     "path": "knowledge/domains/08-light-materials-and-surface-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md"
   },
   {
     "id": "M08.06",
@@ -549,7 +617,8 @@
     "title": "Shadows contact",
     "path": "knowledge/domains/08-light-materials-and-surface-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md"
   },
   {
     "id": "M08.07",
@@ -557,7 +626,8 @@
     "title": "Exposure tone mapping",
     "path": "knowledge/domains/08-light-materials-and-surface-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md"
   },
   {
     "id": "M08.08",
@@ -565,7 +635,8 @@
     "title": "Material animation",
     "path": "knowledge/domains/08-light-materials-and-surface-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md"
   },
   {
     "id": "M08.09",
@@ -573,7 +644,8 @@
     "title": "Volumes atmosphere",
     "path": "knowledge/domains/08-light-materials-and-surface-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md"
   },
   {
     "id": "M09.01",
@@ -581,7 +653,8 @@
     "title": "Reference frames",
     "path": "knowledge/domains/09-space-depth-and-perspective.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md"
   },
   {
     "id": "M09.02",
@@ -589,7 +662,8 @@
     "title": "Transform order",
     "path": "knowledge/domains/09-space-depth-and-perspective.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md"
   },
   {
     "id": "M09.03",
@@ -597,7 +671,8 @@
     "title": "Projection",
     "path": "knowledge/domains/09-space-depth-and-perspective.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md"
   },
   {
     "id": "M09.04",
@@ -605,7 +680,8 @@
     "title": "Depth cues",
     "path": "knowledge/domains/09-space-depth-and-perspective.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md"
   },
   {
     "id": "M09.05",
@@ -613,7 +689,8 @@
     "title": "Parallax",
     "path": "knowledge/domains/09-space-depth-and-perspective.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md"
   },
   {
     "id": "M09.06",
@@ -621,7 +698,8 @@
     "title": "Scale perception",
     "path": "knowledge/domains/09-space-depth-and-perspective.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md"
   },
   {
     "id": "M09.07",
@@ -629,7 +707,8 @@
     "title": "Normals and directions",
     "path": "knowledge/domains/09-space-depth-and-perspective.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md"
   },
   {
     "id": "M09.08",
@@ -637,7 +716,8 @@
     "title": "Spatial continuity",
     "path": "knowledge/domains/09-space-depth-and-perspective.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md"
   },
   {
     "id": "M09.09",
@@ -645,7 +725,8 @@
     "title": "Spatial constraints",
     "path": "knowledge/domains/09-space-depth-and-perspective.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md"
   },
   {
     "id": "M10.01",
@@ -653,7 +734,8 @@
     "title": "Kinematic quantities",
     "path": "knowledge/domains/10-motion-behavior-and-movement-models.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md"
   },
   {
     "id": "M10.02",
@@ -661,7 +743,8 @@
     "title": "Interpolation",
     "path": "knowledge/domains/10-motion-behavior-and-movement-models.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md"
   },
   {
     "id": "M10.03",
@@ -669,7 +752,8 @@
     "title": "Easing models",
     "path": "knowledge/domains/10-motion-behavior-and-movement-models.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md"
   },
   {
     "id": "M10.04",
@@ -677,7 +761,8 @@
     "title": "Spring dynamics",
     "path": "knowledge/domains/10-motion-behavior-and-movement-models.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md"
   },
   {
     "id": "M10.05",
@@ -685,7 +770,8 @@
     "title": "Trajectory geometry",
     "path": "knowledge/domains/10-motion-behavior-and-movement-models.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md"
   },
   {
     "id": "M10.06",
@@ -693,7 +779,8 @@
     "title": "Angular motion",
     "path": "knowledge/domains/10-motion-behavior-and-movement-models.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md"
   },
   {
     "id": "M10.07",
@@ -701,7 +788,8 @@
     "title": "Constraints and bounds",
     "path": "knowledge/domains/10-motion-behavior-and-movement-models.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md"
   },
   {
     "id": "M10.08",
@@ -709,7 +797,8 @@
     "title": "Retargeting continuity",
     "path": "knowledge/domains/10-motion-behavior-and-movement-models.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md"
   },
   {
     "id": "M10.09",
@@ -717,7 +806,8 @@
     "title": "Organic procedural variation",
     "path": "knowledge/domains/10-motion-behavior-and-movement-models.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md"
   },
   {
     "id": "M11.01",
@@ -725,7 +815,8 @@
     "title": "Clock and origin",
     "path": "knowledge/domains/11-time-timing-and-rhythm.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md"
   },
   {
     "id": "M11.02",
@@ -733,7 +824,8 @@
     "title": "Duration phase iteration",
     "path": "knowledge/domains/11-time-timing-and-rhythm.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md"
   },
   {
     "id": "M11.03",
@@ -741,7 +833,8 @@
     "title": "Cadence rational sampling",
     "path": "knowledge/domains/11-time-timing-and-rhythm.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md"
   },
   {
     "id": "M11.04",
@@ -749,7 +842,8 @@
     "title": "Spacing and rhythm",
     "path": "knowledge/domains/11-time-timing-and-rhythm.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md"
   },
   {
     "id": "M11.05",
@@ -757,7 +851,8 @@
     "title": "Readable holds",
     "path": "knowledge/domains/11-time-timing-and-rhythm.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md"
   },
   {
     "id": "M11.06",
@@ -765,7 +860,8 @@
     "title": "Time remapping",
     "path": "knowledge/domains/11-time-timing-and-rhythm.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md"
   },
   {
     "id": "M11.07",
@@ -773,7 +869,8 @@
     "title": "Seeking stateful simulations",
     "path": "knowledge/domains/11-time-timing-and-rhythm.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md"
   },
   {
     "id": "M11.08",
@@ -781,7 +878,8 @@
     "title": "Synchronization cues",
     "path": "knowledge/domains/11-time-timing-and-rhythm.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md"
   },
   {
     "id": "M11.09",
@@ -789,7 +887,8 @@
     "title": "Cadence versus exposure",
     "path": "knowledge/domains/11-time-timing-and-rhythm.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md"
   },
   {
     "id": "M12.01",
@@ -797,7 +896,8 @@
     "title": "Tracks clips channels",
     "path": "knowledge/domains/12-choreography-and-motion-composition.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md"
   },
   {
     "id": "M12.02",
@@ -805,7 +905,8 @@
     "title": "Sequencing dependencies",
     "path": "knowledge/domains/12-choreography-and-motion-composition.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md"
   },
   {
     "id": "M12.03",
@@ -813,7 +914,8 @@
     "title": "Staggering",
     "path": "knowledge/domains/12-choreography-and-motion-composition.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md"
   },
   {
     "id": "M12.04",
@@ -821,7 +923,8 @@
     "title": "Layering masks",
     "path": "knowledge/domains/12-choreography-and-motion-composition.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md"
   },
   {
     "id": "M12.05",
@@ -829,7 +932,8 @@
     "title": "Blending spaces",
     "path": "knowledge/domains/12-choreography-and-motion-composition.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md"
   },
   {
     "id": "M12.06",
@@ -837,7 +941,8 @@
     "title": "Anticipation follow-through",
     "path": "knowledge/domains/12-choreography-and-motion-composition.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md"
   },
   {
     "id": "M12.07",
@@ -845,7 +950,8 @@
     "title": "Attention handoff",
     "path": "knowledge/domains/12-choreography-and-motion-composition.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md"
   },
   {
     "id": "M12.08",
@@ -853,7 +959,8 @@
     "title": "Interruption and final state",
     "path": "knowledge/domains/12-choreography-and-motion-composition.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md"
   },
   {
     "id": "M12.09",
@@ -861,7 +968,8 @@
     "title": "Orchestration and readability",
     "path": "knowledge/domains/12-choreography-and-motion-composition.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md"
   },
   {
     "id": "M13.01",
@@ -869,7 +977,8 @@
     "title": "Pivot and affine transformation",
     "path": "knowledge/domains/13-transformation-and-deformation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md"
   },
   {
     "id": "M13.02",
@@ -877,7 +986,8 @@
     "title": "Shape correspondence",
     "path": "knowledge/domains/13-transformation-and-deformation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md"
   },
   {
     "id": "M13.03",
@@ -885,7 +995,8 @@
     "title": "Path morphing",
     "path": "knowledge/domains/13-transformation-and-deformation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md"
   },
   {
     "id": "M13.04",
@@ -893,7 +1004,8 @@
     "title": "Squash and stretch",
     "path": "knowledge/domains/13-transformation-and-deformation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md"
   },
   {
     "id": "M13.05",
@@ -901,7 +1013,8 @@
     "title": "Mesh and lattice deformation",
     "path": "knowledge/domains/13-transformation-and-deformation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md"
   },
   {
     "id": "M13.06",
@@ -909,7 +1022,8 @@
     "title": "Rigging and skinning",
     "path": "knowledge/domains/13-transformation-and-deformation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md"
   },
   {
     "id": "M13.07",
@@ -917,7 +1031,8 @@
     "title": "Rotation interpolation",
     "path": "knowledge/domains/13-transformation-and-deformation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md"
   },
   {
     "id": "M13.08",
@@ -925,7 +1040,8 @@
     "title": "Warp and displacement",
     "path": "knowledge/domains/13-transformation-and-deformation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md"
   },
   {
     "id": "M13.09",
@@ -933,7 +1049,8 @@
     "title": "Topology change and staged morph",
     "path": "knowledge/domains/13-transformation-and-deformation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md"
   },
   {
     "id": "M14.01",
@@ -941,7 +1058,8 @@
     "title": "Framing and subject scale",
     "path": "knowledge/domains/14-camera-framing-and-shot-design.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md"
   },
   {
     "id": "M14.02",
@@ -949,7 +1067,8 @@
     "title": "Perspective and lens choice",
     "path": "knowledge/domains/14-camera-framing-and-shot-design.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md"
   },
   {
     "id": "M14.03",
@@ -957,7 +1076,8 @@
     "title": "Pan tilt roll and orbit",
     "path": "knowledge/domains/14-camera-framing-and-shot-design.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md"
   },
   {
     "id": "M14.04",
@@ -965,7 +1085,8 @@
     "title": "Dolly truck pedestal",
     "path": "knowledge/domains/14-camera-framing-and-shot-design.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md"
   },
   {
     "id": "M14.05",
@@ -973,7 +1094,8 @@
     "title": "Focus and depth of field",
     "path": "knowledge/domains/14-camera-framing-and-shot-design.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md"
   },
   {
     "id": "M14.06",
@@ -981,7 +1103,8 @@
     "title": "Camera easing and stabilization",
     "path": "knowledge/domains/14-camera-framing-and-shot-design.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md"
   },
   {
     "id": "M14.07",
@@ -989,7 +1112,8 @@
     "title": "Shot coverage and scale progression",
     "path": "knowledge/domains/14-camera-framing-and-shot-design.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md"
   },
   {
     "id": "M14.08",
@@ -997,7 +1121,8 @@
     "title": "Dolly zoom and coupled parameters",
     "path": "knowledge/domains/14-camera-framing-and-shot-design.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md"
   },
   {
     "id": "M14.09",
@@ -1005,7 +1130,8 @@
     "title": "Screen direction and axis",
     "path": "knowledge/domains/14-camera-framing-and-shot-design.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md"
   },
   {
     "id": "M15.01",
@@ -1013,7 +1139,8 @@
     "title": "Cut and information change",
     "path": "knowledge/domains/15-transitions-editing-and-continuity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md"
   },
   {
     "id": "M15.02",
@@ -1021,7 +1148,8 @@
     "title": "Match action and motion continuity",
     "path": "knowledge/domains/15-transitions-editing-and-continuity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md"
   },
   {
     "id": "M15.03",
@@ -1029,7 +1157,8 @@
     "title": "Graphic and shape matching",
     "path": "knowledge/domains/15-transitions-editing-and-continuity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md"
   },
   {
     "id": "M15.04",
@@ -1037,7 +1166,8 @@
     "title": "Dissolve and alpha blending",
     "path": "knowledge/domains/15-transitions-editing-and-continuity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md"
   },
   {
     "id": "M15.05",
@@ -1045,7 +1175,8 @@
     "title": "Wipe mask and occlusion",
     "path": "knowledge/domains/15-transitions-editing-and-continuity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md"
   },
   {
     "id": "M15.06",
@@ -1053,7 +1184,8 @@
     "title": "Object-mediated transitions",
     "path": "knowledge/domains/15-transitions-editing-and-continuity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md"
   },
   {
     "id": "M15.07",
@@ -1061,7 +1193,8 @@
     "title": "Retiming speed ramps and freeze",
     "path": "knowledge/domains/15-transitions-editing-and-continuity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md"
   },
   {
     "id": "M15.08",
@@ -1069,7 +1202,8 @@
     "title": "Editorial pacing and holds",
     "path": "knowledge/domains/15-transitions-editing-and-continuity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md"
   },
   {
     "id": "M15.09",
@@ -1077,7 +1211,8 @@
     "title": "Loop closure and temporal seams",
     "path": "knowledge/domains/15-transitions-editing-and-continuity.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md"
   },
   {
     "id": "M16.01",
@@ -1085,7 +1220,8 @@
     "title": "Springs and damped response",
     "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md"
   },
   {
     "id": "M16.02",
@@ -1093,7 +1229,8 @@
     "title": "Rigid bodies and contact",
     "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md"
   },
   {
     "id": "M16.03",
@@ -1101,7 +1238,8 @@
     "title": "Cloth and flexible surfaces",
     "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md"
   },
   {
     "id": "M16.04",
@@ -1109,7 +1247,8 @@
     "title": "Fluids smoke and volume motion",
     "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md"
   },
   {
     "id": "M16.05",
@@ -1117,7 +1256,8 @@
     "title": "Particles emitters and lifetime",
     "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md"
   },
   {
     "id": "M16.06",
@@ -1125,7 +1265,8 @@
     "title": "Noise fields and procedural oscillation",
     "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md"
   },
   {
     "id": "M16.07",
@@ -1133,7 +1274,8 @@
     "title": "Secondary follow-through",
     "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md"
   },
   {
     "id": "M16.08",
@@ -1141,7 +1283,8 @@
     "title": "Constraint and timestep management",
     "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md"
   },
   {
     "id": "M16.09",
@@ -1149,7 +1292,8 @@
     "title": "Art direction caching and reproducibility",
     "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md"
   },
   {
     "id": "M17.01",
@@ -1157,7 +1301,8 @@
     "title": "Signed distance shapes",
     "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md"
   },
   {
     "id": "M17.02",
@@ -1165,7 +1310,8 @@
     "title": "Noise textures and flow",
     "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md"
   },
   {
     "id": "M17.03",
@@ -1173,7 +1319,8 @@
     "title": "Glow bloom and halos",
     "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md"
   },
   {
     "id": "M17.04",
@@ -1181,7 +1328,8 @@
     "title": "Trails echoes and motion marks",
     "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md"
   },
   {
     "id": "M17.05",
@@ -1189,7 +1337,8 @@
     "title": "Displacement distortion and refraction",
     "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md"
   },
   {
     "id": "M17.06",
@@ -1197,7 +1346,8 @@
     "title": "Glitch and digital stylization",
     "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md"
   },
   {
     "id": "M17.07",
@@ -1205,7 +1355,8 @@
     "title": "Particle appearance and sprite shading",
     "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md"
   },
   {
     "id": "M17.08",
@@ -1213,7 +1364,8 @@
     "title": "Volumetric effects and atmospheric depth",
     "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md"
   },
   {
     "id": "M17.09",
@@ -1221,7 +1373,8 @@
     "title": "Effect stacks and parameter exposure",
     "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md"
   },
   {
     "id": "M18.01",
@@ -1229,7 +1382,8 @@
     "title": "Straight and premultiplied alpha",
     "path": "knowledge/domains/18-compositing-and-image-processing.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md"
   },
   {
     "id": "M18.02",
@@ -1237,7 +1391,8 @@
     "title": "Source over and layer order",
     "path": "knowledge/domains/18-compositing-and-image-processing.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md"
   },
   {
     "id": "M18.03",
@@ -1245,7 +1400,8 @@
     "title": "Masks mattes and keying",
     "path": "knowledge/domains/18-compositing-and-image-processing.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md"
   },
   {
     "id": "M18.04",
@@ -1253,7 +1409,8 @@
     "title": "Blend modes and operation space",
     "path": "knowledge/domains/18-compositing-and-image-processing.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md"
   },
   {
     "id": "M18.05",
@@ -1261,7 +1418,8 @@
     "title": "Convolution blur and sharpening",
     "path": "knowledge/domains/18-compositing-and-image-processing.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md"
   },
   {
     "id": "M18.06",
@@ -1269,7 +1427,8 @@
     "title": "Color correction and grading",
     "path": "knowledge/domains/18-compositing-and-image-processing.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md"
   },
   {
     "id": "M18.07",
@@ -1277,7 +1436,8 @@
     "title": "Depth motion and auxiliary passes",
     "path": "knowledge/domains/18-compositing-and-image-processing.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md"
   },
   {
     "id": "M18.08",
@@ -1285,7 +1445,8 @@
     "title": "Resolution resampling and crop",
     "path": "knowledge/domains/18-compositing-and-image-processing.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md"
   },
   {
     "id": "M18.09",
@@ -1293,7 +1454,8 @@
     "title": "Precision ranges and pipeline checkpoints",
     "path": "knowledge/domains/18-compositing-and-image-processing.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md"
   },
   {
     "id": "M19.01",
@@ -1301,7 +1463,8 @@
     "title": "Audio timebase and event alignment",
     "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md"
   },
   {
     "id": "M19.02",
@@ -1309,7 +1472,8 @@
     "title": "Transient and envelope design",
     "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md"
   },
   {
     "id": "M19.03",
@@ -1317,7 +1481,8 @@
     "title": "Whoosh impact and texture",
     "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md"
   },
   {
     "id": "M19.04",
@@ -1325,7 +1490,8 @@
     "title": "Music pulse meter and phrasing",
     "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md"
   },
   {
     "id": "M19.05",
@@ -1333,7 +1499,8 @@
     "title": "Voiceover and information space",
     "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md"
   },
   {
     "id": "M19.06",
@@ -1341,7 +1508,8 @@
     "title": "Mixing gain and headroom",
     "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md"
   },
   {
     "id": "M19.07",
@@ -1349,7 +1517,8 @@
     "title": "Stereo spatial placement and mono",
     "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md"
   },
   {
     "id": "M19.08",
@@ -1357,7 +1526,8 @@
     "title": "Audio reactive visuals",
     "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md"
   },
   {
     "id": "M19.09",
@@ -1365,7 +1535,8 @@
     "title": "Silence accessibility and licensed assets",
     "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md"
   },
   {
     "id": "M20.01",
@@ -1373,7 +1544,8 @@
     "title": "Text legibility during motion",
     "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md"
   },
   {
     "id": "M20.02",
@@ -1381,7 +1553,8 @@
     "title": "Attention load and competing motion",
     "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md"
   },
   {
     "id": "M20.03",
@@ -1389,7 +1562,8 @@
     "title": "Contrast and background variation",
     "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md"
   },
   {
     "id": "M20.04",
@@ -1397,7 +1571,8 @@
     "title": "Motion amplitude and visual field",
     "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md"
   },
   {
     "id": "M20.05",
@@ -1405,7 +1580,8 @@
     "title": "Flashes repetitive patterns and thresholds",
     "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md"
   },
   {
     "id": "M20.06",
@@ -1413,7 +1589,8 @@
     "title": "Occlusion continuity and object identity",
     "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md"
   },
   {
     "id": "M20.07",
@@ -1421,7 +1598,8 @@
     "title": "Viewing size compression and environment",
     "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md"
   },
   {
     "id": "M20.08",
@@ -1429,7 +1607,8 @@
     "title": "Multimodal access and comprehension",
     "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md"
   },
   {
     "id": "M20.09",
@@ -1437,7 +1616,8 @@
     "title": "Evaluation uncertainty and audience testing",
     "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md"
   },
   {
     "id": "M21.01",
@@ -1445,7 +1625,8 @@
     "title": "Raster vector and ray-based rendering",
     "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md"
   },
   {
     "id": "M21.02",
@@ -1453,7 +1634,8 @@
     "title": "Spatial sampling and antialiasing",
     "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md"
   },
   {
     "id": "M21.03",
@@ -1461,7 +1643,8 @@
     "title": "Temporal sampling and shutter",
     "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md"
   },
   {
     "id": "M21.04",
@@ -1469,7 +1652,8 @@
     "title": "Frame rate cadence and time evaluation",
     "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md"
   },
   {
     "id": "M21.05",
@@ -1477,7 +1661,8 @@
     "title": "Motion vectors and temporal reprojection",
     "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md"
   },
   {
     "id": "M21.06",
@@ -1485,7 +1670,8 @@
     "title": "Noise convergence and denoising",
     "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md"
   },
   {
     "id": "M21.07",
@@ -1493,7 +1679,8 @@
     "title": "Render passes and dependency scheduling",
     "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md"
   },
   {
     "id": "M21.08",
@@ -1501,7 +1688,8 @@
     "title": "Precision color and accumulation",
     "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md"
   },
   {
     "id": "M21.09",
@@ -1509,7 +1697,8 @@
     "title": "CPU GPU resource and deterministic execution",
     "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md"
   },
   {
     "id": "M22.01",
@@ -1517,7 +1706,8 @@
     "title": "Brief output contract and acceptance",
     "path": "knowledge/domains/22-production-verification-and-delivery.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md"
   },
   {
     "id": "M22.02",
@@ -1525,7 +1715,8 @@
     "title": "Asset font and rights inventory",
     "path": "knowledge/domains/22-production-verification-and-delivery.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md"
   },
   {
     "id": "M22.03",
@@ -1533,7 +1724,8 @@
     "title": "Determinism versions and provenance",
     "path": "knowledge/domains/22-production-verification-and-delivery.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md"
   },
   {
     "id": "M22.04",
@@ -1541,7 +1733,8 @@
     "title": "Sequence completeness and timestamps",
     "path": "knowledge/domains/22-production-verification-and-delivery.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md"
   },
   {
     "id": "M22.05",
@@ -1549,7 +1742,8 @@
     "title": "Codec container and pixel format",
     "path": "knowledge/domains/22-production-verification-and-delivery.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md"
   },
   {
     "id": "M22.06",
@@ -1557,7 +1751,8 @@
     "title": "Color audio and metadata integrity",
     "path": "knowledge/domains/22-production-verification-and-delivery.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md"
   },
   {
     "id": "M22.07",
@@ -1565,7 +1760,8 @@
     "title": "Visual audio and semantic quality gates",
     "path": "knowledge/domains/22-production-verification-and-delivery.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md"
   },
   {
     "id": "M22.08",
@@ -1573,7 +1769,8 @@
     "title": "Variants adaptation and accessibility",
     "path": "knowledge/domains/22-production-verification-and-delivery.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md"
   },
   {
     "id": "M22.09",
@@ -1581,6 +1778,7 @@
     "title": "Packaging indexing and maintenance",
     "path": "knowledge/domains/22-production-verification-and-delivery.md",
     "status": "AUTHORED",
-    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED"
+    "verification": "METHOD_DEFINED_NOT_ALL_EXECUTED",
+    "domain_deepening_path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md"
   }
 ]

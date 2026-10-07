@@ -294,5 +294,29 @@
     "status": "PASSAGE_INSPECTED",
     "scope": "Document and type/resource index; implementation needs normative section inspection.",
     "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R38",
+    "title": "PBRT Transformations",
+    "url": "https://www.pbr-book.org/4ed/Geometry_and_Transformations/Transformations",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Intro, homogeneous coordinates, translation/scale and frame interpretation; no whole-textbook audit.",
+    "inspected_on": "2026-10-08"
+  },
+  {
+    "id": "R39",
+    "title": "Microsoft Rasterizer Stage",
+    "url": "https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-rasterizer-stage",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Rasterization overview including clipping/projection/viewport; CPU subset is not Direct3D conformance.",
+    "inspected_on": "2026-10-08"
+  },
+  {
+    "id": "R40",
+    "title": "HarfBuzz working with clusters",
+    "url": "https://harfbuzz.github.io/working-with-harfbuzz-clusters.html",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Input/output cluster role and shaping changes; no complex-script execution in demos.",
+    "inspected_on": "2026-10-08"
   }
 ]

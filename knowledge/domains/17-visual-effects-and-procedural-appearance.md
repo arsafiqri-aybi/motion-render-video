@@ -162,3 +162,7 @@ Reaction-diffusion, curl noise, domain warping, fractals, ray marching, particip
 [R11](../../evidence/sources.md#r11), [R18](../../evidence/sources.md#r18), [R31](../../evidence/sources.md#r31).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Fields, effects dan frequency control](../deep-dives/17-fields-effects-and-frequency-control.md) — decision/model/counterexample yang melengkapi chapter ini.

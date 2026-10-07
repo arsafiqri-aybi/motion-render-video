@@ -155,3 +155,7 @@ Constraint solvers; responsive scene layout; geometric packing; optical alignmen
 [R06](../../evidence/sources.md#r06), [R07](../../evidence/sources.md#r07), [R08](../../evidence/sources.md#r08).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Layout constraints sepanjang waktu](../deep-dives/03-layout-constraints-over-time.md) — decision/model/counterexample yang melengkapi chapter ini.

@@ -1,0 +1,39 @@
+{
+  "status": "RENDER_EXECUTED",
+  "config": {
+    "width": 640,
+    "height": 360,
+    "fps_num": 24,
+    "fps_den": 1,
+    "frames": 96,
+    "duration_seconds": 4,
+    "spatial_samples_per_axis": 2,
+    "temporal_samples": 2,
+    "shutter_angle": 180,
+    "shutter_alignment": "forward",
+    "near": 0.1,
+    "far": 100,
+    "focal_pixels": 410,
+    "audio_required": false,
+    "font_family": "DejaVu Sans",
+    "source_space": "linear-sRGB opaque primitive samples, then encoded sRGB",
+    "delivery_space": "BT.709 primaries/transfer/matrix, limited YUV 4:2:0",
+    "lighting": "authored flat diffuse response plus constant ambient; no shadows/GI/PBR",
+    "message": "Ruang dibentuk oleh proyeksi, kedalaman, dan kamera."
+  },
+  "config_sha256": "56ad91ebb1e42627336e6a294d58c8561d1cb6fba2eefb6f7be289f1dab8ffef",
+  "code_sha256": {
+    "motion.py": "cb63d07e58ea456ba87887a770d7fb8d145578db481cab3b347a6e7da3bbaee9",
+    "raster3d.py": "0898d80996a392310f6c6a261c5a67c3b9132ddc21be311f55206d80bdda2c8a",
+    "render_spatial.py": "bc76b0d54cc663a09463dd6aa5248140d1a49f5ac5c845dab5403814cac1bed7"
+  },
+  "video_sha256": "e8f8cfee2b730a45cffc18c078eeb4900f32ada1f46fd1aa44555276d0e1b065",
+  "font_sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pillow": "12.3.0",
+    "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers"
+  },
+  "scope": "3D opaque geometry; camera transform; six-plane clipping; reciprocal-Z depth; flat authored shading; spatial/temporal sampling; SDR encoding. No Blender, GPU, shadows, GI, PBR, texture interpolation, alpha geometry or audio."
+}

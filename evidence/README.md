@@ -16,3 +16,7 @@ Repo tidak menyebut semua 198 konsep telah dieksekusi. Demo flat graphic membukt
 ## Pembaruan bukti
 
 Jika code/config/output berubah, rerun checks lalu update report hashes. Catatan source passage perlu membatasi klaim yang didukungnya. Human finding perlu metode, kondisi, population dan limitations; jangan memperlakukan design preference sebagai hukum psikologi.
+
+## Pendalaman 3D yang dieksekusi
+
+[Render 3D](spatial-render-report.json), [numeric](spatial-numeric-report.json), [media](spatial-media-report.json) dan [sample review](spatial-visual-review.md) menambah actual subset geometry/camera/clipping/opaque visibility. [Coverage](execution-coverage.json) menghubungkan checks ke concepts dengan scope explicit. Tidak mempromosikan seluruh domain menjadiPASS.

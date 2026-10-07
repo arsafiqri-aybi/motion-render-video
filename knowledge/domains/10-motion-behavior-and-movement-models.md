@@ -155,3 +155,7 @@ Geometric integration, constrained motion, coupled oscillators, inertial respons
 [R06](../../evidence/sources.md#r06), [R21](../../evidence/sources.md#r21), [R22](../../evidence/sources.md#r22).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Retargeting kontinu dengan Hermite connector](../deep-dives/10-continuous-retargeting-with-hermite.md) — decision/model/counterexample yang melengkapi chapter ini.

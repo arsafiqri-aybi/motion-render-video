@@ -155,3 +155,7 @@ Spectral color, chromatic adaptation, gamut mapping, perceptual spaces, HDR tone
 [R15](../../evidence/sources.md#r15), [R16](../../evidence/sources.md#r16), [R17](../../evidence/sources.md#r17).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Color sebagai data sepanjang pipeline](../deep-dives/07-color-as-data-through-pipeline.md) — decision/model/counterexample yang melengkapi chapter ini.

@@ -164,3 +164,7 @@ Path tracing, MIS, bidirectional transport, spectral rendering, differentiable r
 [R11](../../evidence/sources.md#r11), [R19](../../evidence/sources.md#r19), [R20](../../evidence/sources.md#r20), [R23](../../evidence/sources.md#r23), [R31](../../evidence/sources.md#r31).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Pipeline3D CPU dari geometry ke frame](../deep-dives/21-opaque-cpu-3d-pipeline.md) — decision/model/counterexample yang melengkapi chapter ini.

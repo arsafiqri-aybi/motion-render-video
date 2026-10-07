@@ -162,3 +162,7 @@ HDR masters, IMF/DCP/broadcast workflows, loudness specifications, codec benchma
 [R23](../../evidence/sources.md#r23), [R16](../../evidence/sources.md#r16), [R34](../../evidence/sources.md#r34), [R35](../../evidence/sources.md#r35), [R36](../../evidence/sources.md#r36).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Mengikat inputs, outputs dan laporan](../deep-dives/22-current-inputs-to-valid-reports.md) — decision/model/counterexample yang melengkapi chapter ini.

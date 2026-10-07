@@ -1,0 +1,10 @@
+{
+  "width": 640, "height": 360, "fps_num": 24, "fps_den": 1, "frames": 96,
+  "duration_seconds": 4, "spatial_samples_per_axis": 2, "temporal_samples": 2,
+  "shutter_angle": 180, "shutter_alignment": "forward", "near": 0.1, "far": 100,
+  "focal_pixels": 410, "audio_required": false, "font_family": "DejaVu Sans",
+  "source_space": "linear-sRGB opaque primitive samples, then encoded sRGB",
+  "delivery_space": "BT.709 primaries/transfer/matrix, limited YUV 4:2:0",
+  "lighting": "authored flat diffuse response plus constant ambient; no shadows/GI/PBR",
+  "message": "Ruang dibentuk oleh proyeksi, kedalaman, dan kamera."
+}

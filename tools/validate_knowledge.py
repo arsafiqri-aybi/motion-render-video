@@ -59,9 +59,33 @@ def validate():
     check(mr['status']=='PASS' and mr['frames']==180 and mr['duration_seconds']==6,'executedMediaChecks')
     check(nr['status']=='PASS' and nr['tests_run']==12,'executedNumericChecks')
     check(digest(ROOT/'tests/test_motion.py')==nr['test_code_sha256'],'numericTestHashCurrent')
+    deep=read('architecture/deepening.json')
+    check({d['domain'] for d in deep}==ids and len(deep)==22,'deepeningAll22Domains')
+    for d in deep:
+        check((ROOT/d['path']).is_file(),f"deepeningPath:{d['domain']}")
+        check(set(d['concepts'])<={c['id'] for c in concepts},f"deepeningConcepts:{d['domain']}")
+    for c in concepts:
+        check((ROOT/c['domain_deepening_path']).is_file(),f"conceptDeepening:{c['id']}")
+    cg=read('architecture/concept-graph.json');node_ids={n['id'] for n in cg['nodes']}
+    check(len(node_ids)==len(cg['nodes'])==220,'typedGraphUnique220Nodes')
+    check(all(e['source'] in node_ids and e['target'] in node_ids and e['reason'] for e in cg['edges']),'typedGraphValidEdgesAndReasons')
+    check({(e['source'],e['target']) for e in cg['edges'] if e['relation']=='IN_DOMAIN'}=={(c['id'],c['domain']) for c in concepts},'typedGraphExactMembership')
+    sr=read('evidence/spatial-render-report.json');sm=read('evidence/spatial-media-report.json');sn=read('evidence/spatial-numeric-report.json')
+    check(digest(ROOT/'examples/rendered/spatial.mp4')==sr['video_sha256']==sm['video_sha256'],'spatialVideoHashMatchesReports')
+    check(digest(ROOT/'examples/spatial.json')==sr['config_sha256'],'spatialConfigHashCurrent')
+    for name,h in sr['code_sha256'].items():check(digest(ROOT/'runtime'/name)==h,f'spatialCodeHash:{name}')
+    for name,h in sn['code_sha256'].items():check(digest(ROOT/'tests'/name)==h,f'spatialTestHash:{name}')
+    check(sm['status']=='PASS' and sm['frames']==96 and sm['duration_seconds']==4 and sm['audio_streams']==0,'spatialDeclaredMediaContract')
+    check(sn['status']=='PASS' and sn['tests_run']==24 and len(set(sn['tests']))==24,'current24NamedTests')
+    available_tests={name.split('.')[-1] for name in sn['tests']}
+    coverage=read('evidence/execution-coverage.json')
+    for record in coverage['records']:
+        check(set(record['concepts'])<={c['id'] for c in concepts},f"coverageConceptIDs:{record['id']}")
+        check((ROOT/record['report']).is_file(),f"coverageReport:{record['id']}")
+        check(all(m in available_tests or (ROOT/m).is_file() for m in record['method_ids']),f"coverageNamedMethods:{record['id']}")
     check(not any((ROOT/name).exists() for name in ['00_CONTROL','07_RUNTIME_SKILL','08_RELEASES','mirror-manifest','GITHUB_MIRROR_STATUS.md','PROJECT_REPORT_ID.md']),'noLegacyActivePaths')
     files=[p for p in ROOT.rglob('*') if p.is_file() and '__pycache__' not in p.parts]
-    report={'status':'PASS' if not errors else 'FAIL','domains':len(domains),'concepts':len(concepts),'source_records':len(sources),'relationship_edges':len(graph['edges']),'local_links_checked':link_count,'checks':len(checks),'markdown_files':len(list(ROOT.rglob('*.md'))),'markdown_words':sum(len(p.read_text().split()) for p in ROOT.rglob('*.md')),'tracked_candidate_files':len(files),'errors':errors,'scope':'Architecture/content sections, indexes, internal paths/anchors, connected domain relationships, JSON, demo/input/report hashes and absence of legacy active paths. Not scientific peer review of every sentence.'}
+    report={'status':'PASS' if not errors else 'FAIL','domains':len(domains),'concepts':len(concepts),'deepening_guides':len(deep),'typed_concept_edges':len(cg['edges']),'executed_examples':2,'numeric_tests_current':sn['tests_run'],'source_records':len(sources),'relationship_edges':len(graph['edges']),'local_links_checked':link_count,'checks':len(checks),'markdown_files':len(list(ROOT.rglob('*.md'))),'markdown_words':sum(len(p.read_text().split()) for p in ROOT.rglob('*.md')),'tracked_candidate_files':len(files),'errors':errors,'scope':'Architecture/content sections, indexes, typed graph membership/reasons, internal links, JSON, two demo/input/report hashes, named tests, scoped concept-method mapping and absence of legacy active paths. Not scientific peer review of every sentence.'}
     return report
 
 if __name__=='__main__':

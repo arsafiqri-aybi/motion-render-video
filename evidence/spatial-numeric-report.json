@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "tests_run": 24,
+  "tests": [
+    "test_motion.MotionChecks.test_arc_inversion_equal_distances",
+    "test_motion.MotionChecks.test_arc_length_exact_reference",
+    "test_motion.MotionChecks.test_exact_clock",
+    "test_motion.MotionChecks.test_forward_shutter_footprint",
+    "test_motion.MotionChecks.test_invalid_degenerate_path",
+    "test_motion.MotionChecks.test_linear_light_midpoint",
+    "test_motion.MotionChecks.test_phase_boundaries",
+    "test_motion.MotionChecks.test_pivot_invariant",
+    "test_motion.MotionChecks.test_source_over_oracle_and_noncommutativity",
+    "test_motion.MotionChecks.test_spring_independent_ode_residual",
+    "test_motion.MotionChecks.test_spring_initial_conditions",
+    "test_motion.MotionChecks.test_spring_known_value",
+    "test_raster3d.RasterChecks.test_camera_target_centered",
+    "test_raster3d.RasterChecks.test_camera_up_singularity_fallback",
+    "test_raster3d.RasterChecks.test_degenerate_triangle_no_write",
+    "test_raster3d.RasterChecks.test_depth_matches_ray_plane_oracle",
+    "test_raster3d.RasterChecks.test_dolly_zoom_subject_scale_invariant",
+    "test_raster3d.RasterChecks.test_frustum_bounds_after_clipping",
+    "test_raster3d.RasterChecks.test_fully_clipped_and_far_rejection",
+    "test_raster3d.RasterChecks.test_near_clip_preserves_halfspace",
+    "test_raster3d.RasterChecks.test_normal_inverse_transpose_orthogonal",
+    "test_raster3d.RasterChecks.test_opaque_occlusion_order_independent",
+    "test_raster3d.RasterChecks.test_projection_depth_halves_offset",
+    "test_raster3d.RasterChecks.test_shared_edge_no_holes"
+  ],
+  "failures": 0,
+  "errors": 0,
+  "executed_at": "2026-10-07T22:55:18.650508+00:00",
+  "code_sha256": {
+    "test_raster3d.py": "f6d63468d461a2e8be1baaf6e9b6efc82308d4a3629af14c21c67a72ce385172",
+    "test_motion.py": "721dafa5fa81a39ac6e045923aafe86f10641c4b12a97bf3cef5f24bb8d9e08e"
+  },
+  "scope": "Full24test suite:12 prior motion/color/clock checks plus12 camera/projection/clipping/opaque-depth/coverage/normal/dollyzoom checks. Does not certify all198concepts.",
+  "output": "test_arc_inversion_equal_distances (test_motion.MotionChecks.test_arc_inversion_equal_distances) ... ok\ntest_arc_length_exact_reference (test_motion.MotionChecks.test_arc_length_exact_reference) ... ok\ntest_exact_clock (test_motion.MotionChecks.test_exact_clock) ... ok\ntest_forward_shutter_footprint (test_motion.MotionChecks.test_forward_shutter_footprint) ... ok\ntest_invalid_degenerate_path (test_motion.MotionChecks.test_invalid_degenerate_path) ... ok\ntest_linear_light_midpoint (test_motion.MotionChecks.test_linear_light_midpoint) ... ok\ntest_phase_boundaries (test_motion.MotionChecks.test_phase_boundaries) ... ok\ntest_pivot_invariant (test_motion.MotionChecks.test_pivot_invariant) ... ok\ntest_source_over_oracle_and_noncommutativity (test_motion.MotionChecks.test_source_over_oracle_and_noncommutativity) ... ok\ntest_spring_independent_ode_residual (test_motion.MotionChecks.test_spring_independent_ode_residual) ... ok\ntest_spring_initial_conditions (test_motion.MotionChecks.test_spring_initial_conditions) ... ok\ntest_spring_known_value (test_motion.MotionChecks.test_spring_known_value) ... ok\ntest_camera_target_centered (test_raster3d.RasterChecks.test_camera_target_centered) ... ok\ntest_camera_up_singularity_fallback (test_raster3d.RasterChecks.test_camera_up_singularity_fallback) ... ok\ntest_degenerate_triangle_no_write (test_raster3d.RasterChecks.test_degenerate_triangle_no_write) ... ok\ntest_depth_matches_ray_plane_oracle (test_raster3d.RasterChecks.test_depth_matches_ray_plane_oracle) ... ok\ntest_dolly_zoom_subject_scale_invariant (test_raster3d.RasterChecks.test_dolly_zoom_subject_scale_invariant) ... ok\ntest_frustum_bounds_after_clipping (test_raster3d.RasterChecks.test_frustum_bounds_after_clipping) ... ok\ntest_fully_clipped_and_far_rejection (test_raster3d.RasterChecks.test_fully_clipped_and_far_rejection) ... ok\ntest_near_clip_preserves_halfspace (test_raster3d.RasterChecks.test_near_clip_preserves_halfspace) ... ok\ntest_normal_inverse_transpose_orthogonal (test_raster3d.RasterChecks.test_normal_inverse_transpose_orthogonal) ... ok\ntest_opaque_occlusion_order_independent (test_raster3d.RasterChecks.test_opaque_occlusion_order_independent) ... ok\ntest_projection_depth_halves_offset (test_raster3d.RasterChecks.test_projection_depth_halves_offset) ... ok\ntest_shared_edge_no_holes (test_raster3d.RasterChecks.test_shared_edge_no_holes) ... ok\n\n----------------------------------------------------------------------\nRan 24 tests in 0.108s\n\nOK\n"
+}

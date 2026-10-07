@@ -1,0 +1,266 @@
+[
+  {
+    "domain": "M01",
+    "path": "knowledge/deep-dives/01-message-to-shot.md",
+    "title": "Mengubah pesan menjadi fungsi shot",
+    "concepts": [
+      "M01.02",
+      "M01.04",
+      "M01.08",
+      "M01.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M02",
+    "path": "knowledge/deep-dives/02-visual-and-motion-grammar.md",
+    "title": "Visual grammar dan motion grammar",
+    "concepts": [
+      "M02.03",
+      "M02.04",
+      "M02.06",
+      "M02.08"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M03",
+    "path": "knowledge/deep-dives/03-layout-constraints-over-time.md",
+    "title": "Layout constraints sepanjang waktu",
+    "concepts": [
+      "M03.01",
+      "M03.06",
+      "M03.07",
+      "M03.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M04",
+    "path": "knowledge/deep-dives/04-attention-as-directed-handoffs.md",
+    "title": "Rencana perhatian dengan handoff yang jelas",
+    "concepts": [
+      "M04.01",
+      "M04.04",
+      "M04.05",
+      "M04.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M05",
+    "path": "knowledge/deep-dives/05-triangles-coverage-and-topology.md",
+    "title": "Triangle coverage dan representasi bentuk",
+    "concepts": [
+      "M05.04",
+      "M05.06",
+      "M05.07",
+      "M05.08"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M06",
+    "path": "knowledge/deep-dives/06-shaped-text-and-animation-units.md",
+    "title": "Shaped text dan unit animasi",
+    "concepts": [
+      "M06.01",
+      "M06.02",
+      "M06.05",
+      "M06.08"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M07",
+    "path": "knowledge/deep-dives/07-color-as-data-through-pipeline.md",
+    "title": "Color sebagai data sepanjang pipeline",
+    "concepts": [
+      "M07.01",
+      "M07.02",
+      "M07.06",
+      "M07.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M08",
+    "path": "knowledge/deep-dives/08-normals-shading-and-material-contract.md",
+    "title": "Normals, shading dan material contract",
+    "concepts": [
+      "M08.01",
+      "M08.02",
+      "M08.05",
+      "M08.06"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M09",
+    "path": "knowledge/deep-dives/09-camera-space-frustum-and-clipping.md",
+    "title": "Camera space, frustum dan clipping",
+    "concepts": [
+      "M09.01",
+      "M09.03",
+      "M09.07",
+      "M09.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M10",
+    "path": "knowledge/deep-dives/10-continuous-retargeting-with-hermite.md",
+    "title": "Retargeting kontinu dengan Hermite connector",
+    "concepts": [
+      "M10.01",
+      "M10.02",
+      "M10.08"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M11",
+    "path": "knowledge/deep-dives/11-clock-cadence-exposure-contract.md",
+    "title": "Contract clock, cadence dan exposure",
+    "concepts": [
+      "M11.01",
+      "M11.03",
+      "M11.07",
+      "M11.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M12",
+    "path": "knowledge/deep-dives/12-channel-ownership-and-sequencing.md",
+    "title": "Channel ownership, sequence dan konflik",
+    "concepts": [
+      "M12.01",
+      "M12.02",
+      "M12.05",
+      "M12.08"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M13",
+    "path": "knowledge/deep-dives/13-deformation-correspondence-and-jacobian.md",
+    "title": "Deformation, correspondence dan local distortion",
+    "concepts": [
+      "M13.02",
+      "M13.04",
+      "M13.05",
+      "M13.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M14",
+    "path": "knowledge/deep-dives/14-framing-constraints-and-camera-coupling.md",
+    "title": "Framing constraints dan coupled camera",
+    "concepts": [
+      "M14.01",
+      "M14.02",
+      "M14.04",
+      "M14.08"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M15",
+    "path": "knowledge/deep-dives/15-edit-boundaries-meaning-and-matching.md",
+    "title": "Batas edit, meaning dan match continuity",
+    "concepts": [
+      "M15.01",
+      "M15.02",
+      "M15.03",
+      "M15.07"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M16",
+    "path": "knowledge/deep-dives/16-history-state-and-simulation-caches.md",
+    "title": "State history, integrator dan cache",
+    "concepts": [
+      "M16.01",
+      "M16.05",
+      "M16.08",
+      "M16.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M17",
+    "path": "knowledge/deep-dives/17-fields-effects-and-frequency-control.md",
+    "title": "Fields, effects dan frequency control",
+    "concepts": [
+      "M17.01",
+      "M17.02",
+      "M17.04",
+      "M17.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M18",
+    "path": "knowledge/deep-dives/18-depth-alpha-and-pass-conventions.md",
+    "title": "Depth, alpha dan auxiliary pass conventions",
+    "concepts": [
+      "M18.01",
+      "M18.02",
+      "M18.07",
+      "M18.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M19",
+    "path": "knowledge/deep-dives/19-features-time-windows-and-audio-reactivity.md",
+    "title": "Feature windows dan audio-reactive timing",
+    "concepts": [
+      "M19.01",
+      "M19.02",
+      "M19.08"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M20",
+    "path": "knowledge/deep-dives/20-viewing-contract-and-evidence-class.md",
+    "title": "Viewing contract dan kelas bukti",
+    "concepts": [
+      "M20.01",
+      "M20.04",
+      "M20.07",
+      "M20.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M21",
+    "path": "knowledge/deep-dives/21-opaque-cpu-3d-pipeline.md",
+    "title": "Pipeline3D CPU dari geometry ke frame",
+    "concepts": [
+      "M21.01",
+      "M21.02",
+      "M21.03",
+      "M21.08",
+      "M21.09"
+    ],
+    "status": "AUTHORED"
+  },
+  {
+    "domain": "M22",
+    "path": "knowledge/deep-dives/22-current-inputs-to-valid-reports.md",
+    "title": "Mengikat inputs, outputs dan laporan",
+    "concepts": [
+      "M22.01",
+      "M22.03",
+      "M22.04",
+      "M22.07",
+      "M22.09"
+    ],
+    "status": "AUTHORED"
+  }
+]

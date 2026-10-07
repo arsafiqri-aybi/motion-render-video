@@ -162,3 +162,7 @@ Deep compositing, spectral workflows, cryptomatte, rotoscoping, despill, optical
 [R15](../../evidence/sources.md#r15), [R16](../../evidence/sources.md#r16), [R32](../../evidence/sources.md#r32).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Depth, alpha dan auxiliary pass conventions](../deep-dives/18-depth-alpha-and-pass-conventions.md) — decision/model/counterexample yang melengkapi chapter ini.

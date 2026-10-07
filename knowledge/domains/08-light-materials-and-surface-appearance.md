@@ -155,3 +155,7 @@ BSDFs, subsurface scattering, thin films, participating media, spectral renderin
 [R11](../../evidence/sources.md#r11), [R18](../../evidence/sources.md#r18), [R19](../../evidence/sources.md#r19).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Normals, shading dan material contract](../deep-dives/08-normals-shading-and-material-contract.md) — decision/model/counterexample yang melengkapi chapter ini.

@@ -162,3 +162,7 @@ XPBD, position-based dynamics, finite elements, material point methods, PIC/FLIP
 [R22](../../evidence/sources.md#r22), [R26](../../evidence/sources.md#r26), [R30](../../evidence/sources.md#r30).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[State history, integrator dan cache](../deep-dives/16-history-state-and-simulation-caches.md) — decision/model/counterexample yang melengkapi chapter ini.

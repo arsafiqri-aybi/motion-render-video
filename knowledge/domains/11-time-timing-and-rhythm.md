@@ -155,3 +155,7 @@ Timecode/drop-frame notation, multirate systems, phase synchronization, continuo
 [R21](../../evidence/sources.md#r21), [R23](../../evidence/sources.md#r23), [R24](../../evidence/sources.md#r24).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Contract clock, cadence dan exposure](../deep-dives/11-clock-cadence-exposure-contract.md) — decision/model/counterexample yang melengkapi chapter ini.

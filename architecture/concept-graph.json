@@ -1,0 +1,2609 @@
+{
+  "nodes": [
+    {
+      "id": "M01",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M02",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M03",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M04",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M05",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M06",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M07",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M08",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M09",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M10",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M11",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M12",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M13",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M14",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M15",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M16",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M17",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M18",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M19",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M20",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M21",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M22",
+      "kind": "DOMAIN"
+    },
+    {
+      "id": "M01.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/01-communication-and-narrative.md"
+    },
+    {
+      "id": "M01.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/01-communication-and-narrative.md"
+    },
+    {
+      "id": "M01.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/01-communication-and-narrative.md"
+    },
+    {
+      "id": "M01.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/01-communication-and-narrative.md"
+    },
+    {
+      "id": "M01.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/01-communication-and-narrative.md"
+    },
+    {
+      "id": "M01.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/01-communication-and-narrative.md"
+    },
+    {
+      "id": "M01.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/01-communication-and-narrative.md"
+    },
+    {
+      "id": "M01.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/01-communication-and-narrative.md"
+    },
+    {
+      "id": "M01.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/01-communication-and-narrative.md"
+    },
+    {
+      "id": "M02.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/02-art-direction-and-visual-identity.md"
+    },
+    {
+      "id": "M02.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/02-art-direction-and-visual-identity.md"
+    },
+    {
+      "id": "M02.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/02-art-direction-and-visual-identity.md"
+    },
+    {
+      "id": "M02.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/02-art-direction-and-visual-identity.md"
+    },
+    {
+      "id": "M02.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/02-art-direction-and-visual-identity.md"
+    },
+    {
+      "id": "M02.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/02-art-direction-and-visual-identity.md"
+    },
+    {
+      "id": "M02.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/02-art-direction-and-visual-identity.md"
+    },
+    {
+      "id": "M02.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/02-art-direction-and-visual-identity.md"
+    },
+    {
+      "id": "M02.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/02-art-direction-and-visual-identity.md"
+    },
+    {
+      "id": "M03.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/03-composition-and-layout.md"
+    },
+    {
+      "id": "M03.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/03-composition-and-layout.md"
+    },
+    {
+      "id": "M03.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/03-composition-and-layout.md"
+    },
+    {
+      "id": "M03.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/03-composition-and-layout.md"
+    },
+    {
+      "id": "M03.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/03-composition-and-layout.md"
+    },
+    {
+      "id": "M03.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/03-composition-and-layout.md"
+    },
+    {
+      "id": "M03.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/03-composition-and-layout.md"
+    },
+    {
+      "id": "M03.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/03-composition-and-layout.md"
+    },
+    {
+      "id": "M03.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/03-composition-and-layout.md"
+    },
+    {
+      "id": "M04.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/04-visual-hierarchy-and-attention.md"
+    },
+    {
+      "id": "M04.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/04-visual-hierarchy-and-attention.md"
+    },
+    {
+      "id": "M04.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/04-visual-hierarchy-and-attention.md"
+    },
+    {
+      "id": "M04.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/04-visual-hierarchy-and-attention.md"
+    },
+    {
+      "id": "M04.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/04-visual-hierarchy-and-attention.md"
+    },
+    {
+      "id": "M04.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/04-visual-hierarchy-and-attention.md"
+    },
+    {
+      "id": "M04.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/04-visual-hierarchy-and-attention.md"
+    },
+    {
+      "id": "M04.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/04-visual-hierarchy-and-attention.md"
+    },
+    {
+      "id": "M04.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/04-visual-hierarchy-and-attention.md"
+    },
+    {
+      "id": "M05.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md"
+    },
+    {
+      "id": "M05.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md"
+    },
+    {
+      "id": "M05.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md"
+    },
+    {
+      "id": "M05.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md"
+    },
+    {
+      "id": "M05.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md"
+    },
+    {
+      "id": "M05.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md"
+    },
+    {
+      "id": "M05.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md"
+    },
+    {
+      "id": "M05.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md"
+    },
+    {
+      "id": "M05.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/05-forms-geometry-and-visual-objects.md"
+    },
+    {
+      "id": "M06.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/06-typography-and-text-motion.md"
+    },
+    {
+      "id": "M06.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/06-typography-and-text-motion.md"
+    },
+    {
+      "id": "M06.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/06-typography-and-text-motion.md"
+    },
+    {
+      "id": "M06.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/06-typography-and-text-motion.md"
+    },
+    {
+      "id": "M06.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/06-typography-and-text-motion.md"
+    },
+    {
+      "id": "M06.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/06-typography-and-text-motion.md"
+    },
+    {
+      "id": "M06.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/06-typography-and-text-motion.md"
+    },
+    {
+      "id": "M06.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/06-typography-and-text-motion.md"
+    },
+    {
+      "id": "M06.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/06-typography-and-text-motion.md"
+    },
+    {
+      "id": "M07.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/07-color-and-color-relationships.md"
+    },
+    {
+      "id": "M07.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/07-color-and-color-relationships.md"
+    },
+    {
+      "id": "M07.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/07-color-and-color-relationships.md"
+    },
+    {
+      "id": "M07.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/07-color-and-color-relationships.md"
+    },
+    {
+      "id": "M07.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/07-color-and-color-relationships.md"
+    },
+    {
+      "id": "M07.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/07-color-and-color-relationships.md"
+    },
+    {
+      "id": "M07.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/07-color-and-color-relationships.md"
+    },
+    {
+      "id": "M07.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/07-color-and-color-relationships.md"
+    },
+    {
+      "id": "M07.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/07-color-and-color-relationships.md"
+    },
+    {
+      "id": "M08.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/08-light-materials-and-surface-appearance.md"
+    },
+    {
+      "id": "M08.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/08-light-materials-and-surface-appearance.md"
+    },
+    {
+      "id": "M08.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/08-light-materials-and-surface-appearance.md"
+    },
+    {
+      "id": "M08.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/08-light-materials-and-surface-appearance.md"
+    },
+    {
+      "id": "M08.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/08-light-materials-and-surface-appearance.md"
+    },
+    {
+      "id": "M08.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/08-light-materials-and-surface-appearance.md"
+    },
+    {
+      "id": "M08.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/08-light-materials-and-surface-appearance.md"
+    },
+    {
+      "id": "M08.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/08-light-materials-and-surface-appearance.md"
+    },
+    {
+      "id": "M08.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/08-light-materials-and-surface-appearance.md"
+    },
+    {
+      "id": "M09.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/09-space-depth-and-perspective.md"
+    },
+    {
+      "id": "M09.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/09-space-depth-and-perspective.md"
+    },
+    {
+      "id": "M09.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/09-space-depth-and-perspective.md"
+    },
+    {
+      "id": "M09.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/09-space-depth-and-perspective.md"
+    },
+    {
+      "id": "M09.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/09-space-depth-and-perspective.md"
+    },
+    {
+      "id": "M09.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/09-space-depth-and-perspective.md"
+    },
+    {
+      "id": "M09.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/09-space-depth-and-perspective.md"
+    },
+    {
+      "id": "M09.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/09-space-depth-and-perspective.md"
+    },
+    {
+      "id": "M09.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/09-space-depth-and-perspective.md"
+    },
+    {
+      "id": "M10.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/10-motion-behavior-and-movement-models.md"
+    },
+    {
+      "id": "M10.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/10-motion-behavior-and-movement-models.md"
+    },
+    {
+      "id": "M10.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/10-motion-behavior-and-movement-models.md"
+    },
+    {
+      "id": "M10.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/10-motion-behavior-and-movement-models.md"
+    },
+    {
+      "id": "M10.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/10-motion-behavior-and-movement-models.md"
+    },
+    {
+      "id": "M10.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/10-motion-behavior-and-movement-models.md"
+    },
+    {
+      "id": "M10.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/10-motion-behavior-and-movement-models.md"
+    },
+    {
+      "id": "M10.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/10-motion-behavior-and-movement-models.md"
+    },
+    {
+      "id": "M10.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/10-motion-behavior-and-movement-models.md"
+    },
+    {
+      "id": "M11.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/11-time-timing-and-rhythm.md"
+    },
+    {
+      "id": "M11.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/11-time-timing-and-rhythm.md"
+    },
+    {
+      "id": "M11.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/11-time-timing-and-rhythm.md"
+    },
+    {
+      "id": "M11.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/11-time-timing-and-rhythm.md"
+    },
+    {
+      "id": "M11.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/11-time-timing-and-rhythm.md"
+    },
+    {
+      "id": "M11.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/11-time-timing-and-rhythm.md"
+    },
+    {
+      "id": "M11.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/11-time-timing-and-rhythm.md"
+    },
+    {
+      "id": "M11.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/11-time-timing-and-rhythm.md"
+    },
+    {
+      "id": "M11.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/11-time-timing-and-rhythm.md"
+    },
+    {
+      "id": "M12.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/12-choreography-and-motion-composition.md"
+    },
+    {
+      "id": "M12.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/12-choreography-and-motion-composition.md"
+    },
+    {
+      "id": "M12.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/12-choreography-and-motion-composition.md"
+    },
+    {
+      "id": "M12.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/12-choreography-and-motion-composition.md"
+    },
+    {
+      "id": "M12.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/12-choreography-and-motion-composition.md"
+    },
+    {
+      "id": "M12.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/12-choreography-and-motion-composition.md"
+    },
+    {
+      "id": "M12.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/12-choreography-and-motion-composition.md"
+    },
+    {
+      "id": "M12.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/12-choreography-and-motion-composition.md"
+    },
+    {
+      "id": "M12.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/12-choreography-and-motion-composition.md"
+    },
+    {
+      "id": "M13.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/13-transformation-and-deformation.md"
+    },
+    {
+      "id": "M13.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/13-transformation-and-deformation.md"
+    },
+    {
+      "id": "M13.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/13-transformation-and-deformation.md"
+    },
+    {
+      "id": "M13.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/13-transformation-and-deformation.md"
+    },
+    {
+      "id": "M13.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/13-transformation-and-deformation.md"
+    },
+    {
+      "id": "M13.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/13-transformation-and-deformation.md"
+    },
+    {
+      "id": "M13.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/13-transformation-and-deformation.md"
+    },
+    {
+      "id": "M13.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/13-transformation-and-deformation.md"
+    },
+    {
+      "id": "M13.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/13-transformation-and-deformation.md"
+    },
+    {
+      "id": "M14.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/14-camera-framing-and-shot-design.md"
+    },
+    {
+      "id": "M14.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/14-camera-framing-and-shot-design.md"
+    },
+    {
+      "id": "M14.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/14-camera-framing-and-shot-design.md"
+    },
+    {
+      "id": "M14.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/14-camera-framing-and-shot-design.md"
+    },
+    {
+      "id": "M14.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/14-camera-framing-and-shot-design.md"
+    },
+    {
+      "id": "M14.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/14-camera-framing-and-shot-design.md"
+    },
+    {
+      "id": "M14.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/14-camera-framing-and-shot-design.md"
+    },
+    {
+      "id": "M14.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/14-camera-framing-and-shot-design.md"
+    },
+    {
+      "id": "M14.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/14-camera-framing-and-shot-design.md"
+    },
+    {
+      "id": "M15.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/15-transitions-editing-and-continuity.md"
+    },
+    {
+      "id": "M15.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/15-transitions-editing-and-continuity.md"
+    },
+    {
+      "id": "M15.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/15-transitions-editing-and-continuity.md"
+    },
+    {
+      "id": "M15.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/15-transitions-editing-and-continuity.md"
+    },
+    {
+      "id": "M15.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/15-transitions-editing-and-continuity.md"
+    },
+    {
+      "id": "M15.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/15-transitions-editing-and-continuity.md"
+    },
+    {
+      "id": "M15.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/15-transitions-editing-and-continuity.md"
+    },
+    {
+      "id": "M15.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/15-transitions-editing-and-continuity.md"
+    },
+    {
+      "id": "M15.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/15-transitions-editing-and-continuity.md"
+    },
+    {
+      "id": "M16.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md"
+    },
+    {
+      "id": "M16.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md"
+    },
+    {
+      "id": "M16.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md"
+    },
+    {
+      "id": "M16.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md"
+    },
+    {
+      "id": "M16.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md"
+    },
+    {
+      "id": "M16.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md"
+    },
+    {
+      "id": "M16.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md"
+    },
+    {
+      "id": "M16.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md"
+    },
+    {
+      "id": "M16.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/16-physical-procedural-and-secondary-motion.md"
+    },
+    {
+      "id": "M17.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md"
+    },
+    {
+      "id": "M17.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md"
+    },
+    {
+      "id": "M17.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md"
+    },
+    {
+      "id": "M17.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md"
+    },
+    {
+      "id": "M17.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md"
+    },
+    {
+      "id": "M17.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md"
+    },
+    {
+      "id": "M17.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md"
+    },
+    {
+      "id": "M17.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md"
+    },
+    {
+      "id": "M17.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/17-visual-effects-and-procedural-appearance.md"
+    },
+    {
+      "id": "M18.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/18-compositing-and-image-processing.md"
+    },
+    {
+      "id": "M18.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/18-compositing-and-image-processing.md"
+    },
+    {
+      "id": "M18.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/18-compositing-and-image-processing.md"
+    },
+    {
+      "id": "M18.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/18-compositing-and-image-processing.md"
+    },
+    {
+      "id": "M18.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/18-compositing-and-image-processing.md"
+    },
+    {
+      "id": "M18.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/18-compositing-and-image-processing.md"
+    },
+    {
+      "id": "M18.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/18-compositing-and-image-processing.md"
+    },
+    {
+      "id": "M18.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/18-compositing-and-image-processing.md"
+    },
+    {
+      "id": "M18.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/18-compositing-and-image-processing.md"
+    },
+    {
+      "id": "M19.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md"
+    },
+    {
+      "id": "M19.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md"
+    },
+    {
+      "id": "M19.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md"
+    },
+    {
+      "id": "M19.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md"
+    },
+    {
+      "id": "M19.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md"
+    },
+    {
+      "id": "M19.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md"
+    },
+    {
+      "id": "M19.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md"
+    },
+    {
+      "id": "M19.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md"
+    },
+    {
+      "id": "M19.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/19-sound-design-music-and-audiovisual-synchronization.md"
+    },
+    {
+      "id": "M20.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md"
+    },
+    {
+      "id": "M20.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md"
+    },
+    {
+      "id": "M20.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md"
+    },
+    {
+      "id": "M20.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md"
+    },
+    {
+      "id": "M20.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md"
+    },
+    {
+      "id": "M20.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md"
+    },
+    {
+      "id": "M20.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md"
+    },
+    {
+      "id": "M20.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md"
+    },
+    {
+      "id": "M20.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/20-perception-readability-and-viewing-comfort.md"
+    },
+    {
+      "id": "M21.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md"
+    },
+    {
+      "id": "M21.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md"
+    },
+    {
+      "id": "M21.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md"
+    },
+    {
+      "id": "M21.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md"
+    },
+    {
+      "id": "M21.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md"
+    },
+    {
+      "id": "M21.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md"
+    },
+    {
+      "id": "M21.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md"
+    },
+    {
+      "id": "M21.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md"
+    },
+    {
+      "id": "M21.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/21-rendering-and-temporal-image-formation.md"
+    },
+    {
+      "id": "M22.01",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/22-production-verification-and-delivery.md"
+    },
+    {
+      "id": "M22.02",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/22-production-verification-and-delivery.md"
+    },
+    {
+      "id": "M22.03",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/22-production-verification-and-delivery.md"
+    },
+    {
+      "id": "M22.04",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/22-production-verification-and-delivery.md"
+    },
+    {
+      "id": "M22.05",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/22-production-verification-and-delivery.md"
+    },
+    {
+      "id": "M22.06",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/22-production-verification-and-delivery.md"
+    },
+    {
+      "id": "M22.07",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/22-production-verification-and-delivery.md"
+    },
+    {
+      "id": "M22.08",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/22-production-verification-and-delivery.md"
+    },
+    {
+      "id": "M22.09",
+      "kind": "CONCEPT",
+      "path": "knowledge/domains/22-production-verification-and-delivery.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "M01.01",
+      "target": "M01",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M01.02",
+      "target": "M01",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M01.03",
+      "target": "M01",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M01.04",
+      "target": "M01",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M01.05",
+      "target": "M01",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M01.06",
+      "target": "M01",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M01.07",
+      "target": "M01",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M01.08",
+      "target": "M01",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M01.09",
+      "target": "M01",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M02.01",
+      "target": "M02",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M02.02",
+      "target": "M02",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M02.03",
+      "target": "M02",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M02.04",
+      "target": "M02",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M02.05",
+      "target": "M02",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M02.06",
+      "target": "M02",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M02.07",
+      "target": "M02",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M02.08",
+      "target": "M02",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M02.09",
+      "target": "M02",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M03.01",
+      "target": "M03",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M03.02",
+      "target": "M03",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M03.03",
+      "target": "M03",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M03.04",
+      "target": "M03",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M03.05",
+      "target": "M03",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M03.06",
+      "target": "M03",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M03.07",
+      "target": "M03",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M03.08",
+      "target": "M03",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M03.09",
+      "target": "M03",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M04.01",
+      "target": "M04",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M04.02",
+      "target": "M04",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M04.03",
+      "target": "M04",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M04.04",
+      "target": "M04",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M04.05",
+      "target": "M04",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M04.06",
+      "target": "M04",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M04.07",
+      "target": "M04",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M04.08",
+      "target": "M04",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M04.09",
+      "target": "M04",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M05.01",
+      "target": "M05",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M05.02",
+      "target": "M05",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M05.03",
+      "target": "M05",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M05.04",
+      "target": "M05",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M05.05",
+      "target": "M05",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M05.06",
+      "target": "M05",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M05.07",
+      "target": "M05",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M05.08",
+      "target": "M05",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M05.09",
+      "target": "M05",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M06.01",
+      "target": "M06",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M06.02",
+      "target": "M06",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M06.03",
+      "target": "M06",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M06.04",
+      "target": "M06",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M06.05",
+      "target": "M06",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M06.06",
+      "target": "M06",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M06.07",
+      "target": "M06",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M06.08",
+      "target": "M06",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M06.09",
+      "target": "M06",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M07.01",
+      "target": "M07",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M07.02",
+      "target": "M07",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M07.03",
+      "target": "M07",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M07.04",
+      "target": "M07",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M07.05",
+      "target": "M07",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M07.06",
+      "target": "M07",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M07.07",
+      "target": "M07",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M07.08",
+      "target": "M07",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M07.09",
+      "target": "M07",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M08.01",
+      "target": "M08",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M08.02",
+      "target": "M08",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M08.03",
+      "target": "M08",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M08.04",
+      "target": "M08",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M08.05",
+      "target": "M08",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M08.06",
+      "target": "M08",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M08.07",
+      "target": "M08",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M08.08",
+      "target": "M08",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M08.09",
+      "target": "M08",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M09.01",
+      "target": "M09",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M09.02",
+      "target": "M09",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M09.03",
+      "target": "M09",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M09.04",
+      "target": "M09",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M09.05",
+      "target": "M09",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M09.06",
+      "target": "M09",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M09.07",
+      "target": "M09",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M09.08",
+      "target": "M09",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M09.09",
+      "target": "M09",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M10.01",
+      "target": "M10",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M10.02",
+      "target": "M10",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M10.03",
+      "target": "M10",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M10.04",
+      "target": "M10",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M10.05",
+      "target": "M10",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M10.06",
+      "target": "M10",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M10.07",
+      "target": "M10",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M10.08",
+      "target": "M10",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M10.09",
+      "target": "M10",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M11.01",
+      "target": "M11",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M11.02",
+      "target": "M11",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M11.03",
+      "target": "M11",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M11.04",
+      "target": "M11",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M11.05",
+      "target": "M11",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M11.06",
+      "target": "M11",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M11.07",
+      "target": "M11",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M11.08",
+      "target": "M11",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M11.09",
+      "target": "M11",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M12.01",
+      "target": "M12",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M12.02",
+      "target": "M12",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M12.03",
+      "target": "M12",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M12.04",
+      "target": "M12",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M12.05",
+      "target": "M12",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M12.06",
+      "target": "M12",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M12.07",
+      "target": "M12",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M12.08",
+      "target": "M12",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M12.09",
+      "target": "M12",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M13.01",
+      "target": "M13",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M13.02",
+      "target": "M13",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M13.03",
+      "target": "M13",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M13.04",
+      "target": "M13",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M13.05",
+      "target": "M13",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M13.06",
+      "target": "M13",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M13.07",
+      "target": "M13",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M13.08",
+      "target": "M13",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M13.09",
+      "target": "M13",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M14.01",
+      "target": "M14",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M14.02",
+      "target": "M14",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M14.03",
+      "target": "M14",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M14.04",
+      "target": "M14",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M14.05",
+      "target": "M14",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M14.06",
+      "target": "M14",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M14.07",
+      "target": "M14",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M14.08",
+      "target": "M14",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M14.09",
+      "target": "M14",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M15.01",
+      "target": "M15",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M15.02",
+      "target": "M15",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M15.03",
+      "target": "M15",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M15.04",
+      "target": "M15",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M15.05",
+      "target": "M15",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M15.06",
+      "target": "M15",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M15.07",
+      "target": "M15",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M15.08",
+      "target": "M15",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M15.09",
+      "target": "M15",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M16.01",
+      "target": "M16",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M16.02",
+      "target": "M16",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M16.03",
+      "target": "M16",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M16.04",
+      "target": "M16",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M16.05",
+      "target": "M16",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M16.06",
+      "target": "M16",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M16.07",
+      "target": "M16",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M16.08",
+      "target": "M16",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M16.09",
+      "target": "M16",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M17.01",
+      "target": "M17",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M17.02",
+      "target": "M17",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M17.03",
+      "target": "M17",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M17.04",
+      "target": "M17",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M17.05",
+      "target": "M17",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M17.06",
+      "target": "M17",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M17.07",
+      "target": "M17",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M17.08",
+      "target": "M17",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M17.09",
+      "target": "M17",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M18.01",
+      "target": "M18",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M18.02",
+      "target": "M18",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M18.03",
+      "target": "M18",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M18.04",
+      "target": "M18",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M18.05",
+      "target": "M18",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M18.06",
+      "target": "M18",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M18.07",
+      "target": "M18",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M18.08",
+      "target": "M18",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M18.09",
+      "target": "M18",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M19.01",
+      "target": "M19",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M19.02",
+      "target": "M19",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M19.03",
+      "target": "M19",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M19.04",
+      "target": "M19",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M19.05",
+      "target": "M19",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M19.06",
+      "target": "M19",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M19.07",
+      "target": "M19",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M19.08",
+      "target": "M19",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M19.09",
+      "target": "M19",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M20.01",
+      "target": "M20",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M20.02",
+      "target": "M20",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M20.03",
+      "target": "M20",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M20.04",
+      "target": "M20",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M20.05",
+      "target": "M20",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M20.06",
+      "target": "M20",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M20.07",
+      "target": "M20",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M20.08",
+      "target": "M20",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M20.09",
+      "target": "M20",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M21.01",
+      "target": "M21",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M21.02",
+      "target": "M21",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M21.03",
+      "target": "M21",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M21.04",
+      "target": "M21",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M21.05",
+      "target": "M21",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M21.06",
+      "target": "M21",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M21.07",
+      "target": "M21",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M21.08",
+      "target": "M21",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M21.09",
+      "target": "M21",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M22.01",
+      "target": "M22",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M22.02",
+      "target": "M22",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M22.03",
+      "target": "M22",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M22.04",
+      "target": "M22",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M22.05",
+      "target": "M22",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M22.06",
+      "target": "M22",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M22.07",
+      "target": "M22",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M22.08",
+      "target": "M22",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M22.09",
+      "target": "M22",
+      "relation": "IN_DOMAIN",
+      "reason": "Konsep ini mempunyai bagian tertulis di chapter domain tersebut."
+    },
+    {
+      "source": "M01.02",
+      "target": "M04.01",
+      "relation": "GUIDES",
+      "reason": "Message hierarchy menentukan role informasi yang direncanakan."
+    },
+    {
+      "source": "M01.06",
+      "target": "M19.05",
+      "relation": "CONSTRAINS",
+      "reason": "Script dan spoken phrases mengatur voiceover information windows."
+    },
+    {
+      "source": "M01.08",
+      "target": "M15.02",
+      "relation": "CONSTRAINS",
+      "reason": "Identity/action meaning perlu dipertahankan ketika match action dipilih."
+    },
+    {
+      "source": "M02.03",
+      "target": "M05.01",
+      "relation": "GUIDES",
+      "reason": "Visual vocabulary menentukan shape family yang digunakan."
+    },
+    {
+      "source": "M02.04",
+      "target": "M10.03",
+      "relation": "GUIDES",
+      "reason": "Motion identity membatasi pilihan easing yang konsisten dengan role."
+    },
+    {
+      "source": "M02.08",
+      "target": "M03.07",
+      "relation": "REQUIRES",
+      "reason": "Identity lintas format membutuhkan keputusan recomposition."
+    },
+    {
+      "source": "M03.01",
+      "target": "M14.01",
+      "relation": "CONSTRAINS",
+      "reason": "Safe screen regions membatasi camera framing."
+    },
+    {
+      "source": "M03.05",
+      "target": "M13.01",
+      "relation": "SHARES_MODEL",
+      "reason": "Anchor layout dan pivot affine memakai pemetaan local/world yang dinyatakan."
+    },
+    {
+      "source": "M03.06",
+      "target": "M20.01",
+      "relation": "AFFECTS",
+      "reason": "Bounds/overlap sepanjang waktu menentukan apakah reading region tetap tersedia."
+    },
+    {
+      "source": "M03.08",
+      "target": "M18.07",
+      "relation": "IMPLEMENTED_WITH",
+      "reason": "Depth/auxiliary passes dapat mendukung occlusion compositing."
+    },
+    {
+      "source": "M04.04",
+      "target": "M12.02",
+      "relation": "CONSTRAINS",
+      "reason": "Planned onset competition memengaruhi sequence schedule."
+    },
+    {
+      "source": "M04.05",
+      "target": "M12.07",
+      "relation": "SHARES_INTENT",
+      "reason": "Dua domain membahas attention handoff dari roles dan choreography."
+    },
+    {
+      "source": "M04.09",
+      "target": "M20.09",
+      "relation": "REQUIRES",
+      "reason": "Mengklaim hasil perhatian membutuhkan kelas evaluasi yang cocok."
+    },
+    {
+      "source": "M05.02",
+      "target": "M10.05",
+      "relation": "PROVIDES_MODEL",
+      "reason": "Path geometry menyediakan trajectory untuk parameter travel."
+    },
+    {
+      "source": "M05.04",
+      "target": "M13.09",
+      "relation": "CONSTRAINS",
+      "reason": "Topology menentukan apakah fixed correspondence morph memadai."
+    },
+    {
+      "source": "M05.07",
+      "target": "M14.01",
+      "relation": "DEPENDS_ON",
+      "reason": "Silhouette projected bergantung camera framing/projection."
+    },
+    {
+      "source": "M06.01",
+      "target": "M06.05",
+      "relation": "CONSTRAINS",
+      "reason": "Unit karakter/cluster/glyph menentukan grouping reveal yang aman."
+    },
+    {
+      "source": "M06.02",
+      "target": "M03.06",
+      "relation": "AFFECTS",
+      "reason": "Font metrics/fallback dapat mengubah moving bounds."
+    },
+    {
+      "source": "M06.03",
+      "target": "M11.05",
+      "relation": "REQUIRES",
+      "reason": "Text reading memerlukan hold yang ditempatkan setelah readable reveal."
+    },
+    {
+      "source": "M06.08",
+      "target": "M19.05",
+      "relation": "SYNCHRONIZES_WITH",
+      "reason": "Caption/spoken cues terikat voice information intervals."
+    },
+    {
+      "source": "M06.09",
+      "target": "M22.05",
+      "relation": "DEPENDS_ON",
+      "reason": "Encoded thin glyph edges bergantung chroma/pixel format."
+    },
+    {
+      "source": "M07.02",
+      "target": "M18.04",
+      "relation": "CONSTRAINS",
+      "reason": "Blend formula perlu menyatakan linear atau encoded operation space."
+    },
+    {
+      "source": "M07.02",
+      "target": "M21.08",
+      "relation": "REQUIRES_MODEL",
+      "reason": "Temporal/color accumulation membutuhkan transfer convention."
+    },
+    {
+      "source": "M07.09",
+      "target": "M22.06",
+      "relation": "DEPENDS_ON",
+      "reason": "Output appearance bergantung color interpretation dan matching tags."
+    },
+    {
+      "source": "M08.01",
+      "target": "M09.07",
+      "relation": "SHARES_MODEL",
+      "reason": "Normal transform/direction adalah spatial data dengan convention yang sama."
+    },
+    {
+      "source": "M08.05",
+      "target": "M08.02",
+      "relation": "AFFECTS",
+      "reason": "Light direction/distribution mengubah response material yang terlihat."
+    },
+    {
+      "source": "M08.07",
+      "target": "M18.06",
+      "relation": "CONSTRAINS",
+      "reason": "Exposure/tone-mapping boundaries harus cocok grading workflow."
+    },
+    {
+      "source": "M09.02",
+      "target": "M13.01",
+      "relation": "SHARES_MODEL",
+      "reason": "Transform order menentukan pivot/affine effect."
+    },
+    {
+      "source": "M09.03",
+      "target": "M14.02",
+      "relation": "PROVIDES_MODEL",
+      "reason": "Perspective equations menghubungkan lens choice dengan appearance."
+    },
+    {
+      "source": "M09.03",
+      "target": "M21.01",
+      "relation": "REQUIRED_BY",
+      "reason": "Renderer projection stage memakai model spatial ini."
+    },
+    {
+      "source": "M10.01",
+      "target": "M10.08",
+      "relation": "REQUIRED_BY",
+      "reason": "Continuous retargeting membutuhkan current velocity selain position."
+    },
+    {
+      "source": "M10.04",
+      "target": "M16.01",
+      "relation": "SHARES_MODEL",
+      "reason": "Spring response memakai oscillator parameters dan initial conditions."
+    },
+    {
+      "source": "M10.05",
+      "target": "M11.04",
+      "relation": "MODULATED_BY",
+      "reason": "Travel speed/timing memodulasi trajectory geometry."
+    },
+    {
+      "source": "M11.03",
+      "target": "M22.04",
+      "relation": "VERIFIED_THROUGH",
+      "reason": "Rational sample clock diuji melalui decoded count/PTS."
+    },
+    {
+      "source": "M11.07",
+      "target": "M16.09",
+      "relation": "REQUIRES",
+      "reason": "Seeking stateful simulations membutuhkan cache/replay policy."
+    },
+    {
+      "source": "M11.08",
+      "target": "M19.01",
+      "relation": "SHARES_CLOCK",
+      "reason": "Cue synchronization memakai audio/video time mapping."
+    },
+    {
+      "source": "M11.09",
+      "target": "M21.03",
+      "relation": "PROVIDES_MODEL",
+      "reason": "Exposure interval membentuk temporal samples."
+    },
+    {
+      "source": "M12.05",
+      "target": "M18.04",
+      "relation": "DEPENDS_ON",
+      "reason": "Track/image blends membutuhkan spaces dan operator yang sesuai."
+    },
+    {
+      "source": "M12.08",
+      "target": "M10.08",
+      "relation": "REQUIRES",
+      "reason": "Retarget on interruption membutuhkan continuity model."
+    },
+    {
+      "source": "M13.05",
+      "target": "M08.01",
+      "relation": "AFFECTS",
+      "reason": "Deformation mengubah normals dan shading directions."
+    },
+    {
+      "source": "M14.04",
+      "target": "M09.05",
+      "relation": "CAUSES_IN_MODEL",
+      "reason": "Translasi camera menghasilkan parallax pada varying depth."
+    },
+    {
+      "source": "M14.08",
+      "target": "M09.03",
+      "relation": "DERIVED_FROM",
+      "reason": "Dolly zoom scale constraint berasal fH/Z."
+    },
+    {
+      "source": "M15.04",
+      "target": "M18.02",
+      "relation": "IMPLEMENTED_WITH",
+      "reason": "Dissolve memakai compositing/weights dengan alpha convention."
+    },
+    {
+      "source": "M15.07",
+      "target": "M11.06",
+      "relation": "SHARES_MODEL",
+      "reason": "Edit speed ramps memakai source-output time remapping."
+    },
+    {
+      "source": "M15.09",
+      "target": "M19.02",
+      "relation": "CONSTRAINS",
+      "reason": "Loop seam juga membutuhkan audio waveform/envelope treatment."
+    },
+    {
+      "source": "M16.06",
+      "target": "M17.02",
+      "relation": "PROVIDES_MODEL",
+      "reason": "Continuous fields menyediakan procedural appearance variation."
+    },
+    {
+      "source": "M16.08",
+      "target": "M11.03",
+      "relation": "SEPARATE_CLOCK_FROM",
+      "reason": "Physics timestep tidak disamakan dengan output cadence."
+    },
+    {
+      "source": "M17.03",
+      "target": "M18.05",
+      "relation": "IMPLEMENTED_WITH",
+      "reason": "Glow halo memakai spatial filtering dalam convention yang dinyatakan."
+    },
+    {
+      "source": "M17.04",
+      "target": "M18.01",
+      "relation": "DEPENDS_ON",
+      "reason": "Trail accumulation memerlukan alpha/color convention."
+    },
+    {
+      "source": "M18.07",
+      "target": "M21.05",
+      "relation": "PROVIDES_DATA",
+      "reason": "Motion/depth passes membantu reprojection methods dengan validity rules."
+    },
+    {
+      "source": "M19.08",
+      "target": "M11.08",
+      "relation": "REQUIRES",
+      "reason": "Feature window timestamp harus dipetakan ke visual clock."
+    },
+    {
+      "source": "M20.03",
+      "target": "M07.04",
+      "relation": "SHARES_CONCERN",
+      "reason": "Background/text contrast dibahas sebagai color property serta viewing task."
+    },
+    {
+      "source": "M20.05",
+      "target": "M22.07",
+      "relation": "REQUIRES_GATE",
+      "reason": "Flash/pattern criteria memerlukan pemeriksaan khusus yang berlaku."
+    },
+    {
+      "source": "M21.02",
+      "target": "M06.09",
+      "relation": "AFFECTS",
+      "reason": "Spatial sampling mengubah detail glyph yang kemudian di-encode."
+    },
+    {
+      "source": "M21.09",
+      "target": "M22.03",
+      "relation": "CONSTRAINS",
+      "reason": "Runtime precision/version membatasi reproducibility policy."
+    },
+    {
+      "source": "M22.08",
+      "target": "M03.07",
+      "relation": "REQUIRES",
+      "reason": "Delivery aspect variants membutuhkan layout adaptation."
+    }
+  ],
+  "scope": "Declared relationships with typed meanings. Membership is not causal evidence; tests do not prove human response."
+}

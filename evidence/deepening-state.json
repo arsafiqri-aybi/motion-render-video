@@ -1,0 +1,20 @@
+{
+  "stage": "DEEPENING",
+  "architecture_domains": 22,
+  "core_concepts": 198,
+  "additional_domain_deep_dives": 22,
+  "executed_examples": [
+    "2D6s30fpswithaudio",
+    "CPUopaque3D4s24fpssilent"
+  ],
+  "numeric_tests_current": 24,
+  "unexecuted_specialists": [
+    "GPU shader runtime",
+    "PBR/GI/shadows",
+    "Cloth/fluid simulations",
+    "Complex script rendering",
+    "HDR mastering",
+    "Human studies"
+  ],
+  "scope": "Current completion is scoped to authored materials and executed examples; no universal knowledge-completeness claim."
+}

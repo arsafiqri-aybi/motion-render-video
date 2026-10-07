@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "video_sha256": "e8f8cfee2b730a45cffc18c078eeb4900f32ada1f46fd1aa44555276d0e1b065",
+  "frames": 96,
+  "duration_seconds": 4.0,
+  "max_pts_error_seconds": 3.33333333379926e-07,
+  "decoded_rgb_bytes": 66355200,
+  "first_last_mean_absolute_difference": 10.610959201388889,
+  "audio_streams": 0,
+  "scope": "Actual decoded 3D example: framecount/cadence/duration, SDR tags/range/format, full RGB decode and observable content change. Silent by contract. No GPU/PBR, human comfort or semantic effectiveness certification."
+}

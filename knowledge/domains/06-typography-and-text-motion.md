@@ -155,3 +155,7 @@ OpenType shaping, variable fonts, bidirectional text, complex scripts, animated 
 [R12](../../evidence/sources.md#r12), [R13](../../evidence/sources.md#r13), [R14](../../evidence/sources.md#r14).
 
 Setiap sumber memiliki scope/status sendiri. Technical synthesis dan authored design choices tidak otomatis menjadi empirical human findings. Contoh hitungan memiliki assumptions yang dinyatakan; daftar cabang spesialis bukan klaim seluruh literaturnya telah diaudit.
+
+## Pendalaman produksi
+
+[Shaped text dan unit animasi](../deep-dives/06-shaped-text-and-animation-units.md) — decision/model/counterexample yang melengkapi chapter ini.
