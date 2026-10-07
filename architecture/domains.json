@@ -1,0 +1,454 @@
+[
+  {
+    "id": "M01",
+    "title": "Communication and Narrative",
+    "slug": "01-communication-and-narrative",
+    "manifestation": "Urutan visual dan suara membuat penonton mengetahui apa yang berubah, mengapa perubahan penting, dan apa hubungan antarbagian. Manifestasinya adalah cerita, penjelasan, demonstrasi, atau argumen yang dapat diikuti.",
+    "related": [
+      "M02",
+      "M04",
+      "M11",
+      "M12",
+      "M15",
+      "M19",
+      "M20"
+    ],
+    "sources": [
+      "R01",
+      "R02",
+      "R03"
+    ]
+  },
+  {
+    "id": "M02",
+    "title": "Art Direction and Visual Identity",
+    "slug": "02-art-direction-and-visual-identity",
+    "manifestation": "Video dikenali melalui coherent shapes, typography, color, materials, camera dan motion vocabulary. Identitas muncul sepanjang sequence, bukan hanya logo pada frame awal.",
+    "related": [
+      "M01",
+      "M03",
+      "M05",
+      "M06",
+      "M07",
+      "M08",
+      "M10",
+      "M12",
+      "M19"
+    ],
+    "sources": [
+      "R02",
+      "R04",
+      "R05"
+    ]
+  },
+  {
+    "id": "M03",
+    "title": "Composition and Layout",
+    "slug": "03-composition-and-layout",
+    "manifestation": "Posisi, ukuran, alignment dan empty space membentuk susunan frame yang terasa terarah selama objek, teks dan kamera bergerak.",
+    "related": [
+      "M04",
+      "M05",
+      "M06",
+      "M09",
+      "M12",
+      "M14",
+      "M15",
+      "M20"
+    ],
+    "sources": [
+      "R06",
+      "R07",
+      "R08"
+    ]
+  },
+  {
+    "id": "M04",
+    "title": "Visual Hierarchy and Attention",
+    "slug": "04-visual-hierarchy-and-attention",
+    "manifestation": "Penekanan dan perpindahan focus membuat penonton tahu bagian apa yang perlu dilihat ketika informasi muncul, bergerak atau berubah.",
+    "related": [
+      "M01",
+      "M03",
+      "M06",
+      "M07",
+      "M10",
+      "M11",
+      "M12",
+      "M19",
+      "M20"
+    ],
+    "sources": [
+      "R03",
+      "R09",
+      "R10"
+    ]
+  },
+  {
+    "id": "M05",
+    "title": "Forms Geometry and Visual Objects",
+    "slug": "05-forms-geometry-and-visual-objects",
+    "manifestation": "Garis, shapes, icons, diagrams dan objek3D memberi tubuh pada motion. Geometry menentukan silhouette, paths, deformation dan relation yang dapat dilihat.",
+    "related": [
+      "M03",
+      "M09",
+      "M10",
+      "M13",
+      "M16",
+      "M17",
+      "M18",
+      "M21"
+    ],
+    "sources": [
+      "R06",
+      "R07",
+      "R11"
+    ]
+  },
+  {
+    "id": "M06",
+    "title": "Typography and Text Motion",
+    "slug": "06-typography-and-text-motion",
+    "manifestation": "Titles, captions, labels, counters dan kinetic typography menyampaikan informasi melalui bentuk huruf, grouping dan perubahan sepanjang waktu.",
+    "related": [
+      "M01",
+      "M03",
+      "M04",
+      "M07",
+      "M10",
+      "M11",
+      "M12",
+      "M18",
+      "M20"
+    ],
+    "sources": [
+      "R12",
+      "R13",
+      "R14"
+    ]
+  },
+  {
+    "id": "M07",
+    "title": "Color and Color Relationships",
+    "slug": "07-color-and-color-relationships",
+    "manifestation": "Palette, contrast, gradients dan color transitions memperlihatkan roles, relationships dan continuity sepanjang video.",
+    "related": [
+      "M02",
+      "M04",
+      "M08",
+      "M17",
+      "M18",
+      "M20",
+      "M21",
+      "M22"
+    ],
+    "sources": [
+      "R15",
+      "R16",
+      "R17"
+    ]
+  },
+  {
+    "id": "M08",
+    "title": "Light Materials and Surface Appearance",
+    "slug": "08-light-materials-and-surface-appearance",
+    "manifestation": "Surfaces terasa matte, glossy, textured, emissive, translucent atau atmospheric karena geometry, light dan material interaction.",
+    "related": [
+      "M02",
+      "M05",
+      "M07",
+      "M09",
+      "M14",
+      "M17",
+      "M18",
+      "M21"
+    ],
+    "sources": [
+      "R11",
+      "R18",
+      "R19"
+    ]
+  },
+  {
+    "id": "M09",
+    "title": "Space Depth and Perspective",
+    "slug": "09-space-depth-and-perspective",
+    "manifestation": "Objek terasa berlapis, dekat/jauh, besar/kecil atau berada dalam ruang tertentu melalui projection, occlusion, parallax dan transformations.",
+    "related": [
+      "M03",
+      "M05",
+      "M08",
+      "M10",
+      "M13",
+      "M14",
+      "M18",
+      "M21"
+    ],
+    "sources": [
+      "R06",
+      "R11",
+      "R20"
+    ]
+  },
+  {
+    "id": "M10",
+    "title": "Motion Behavior and Movement Models",
+    "slug": "10-motion-behavior-and-movement-models",
+    "manifestation": "Objek bergerak dengan character tertentu: decisive, elastic, floating, heavy-looking, mechanical, organic atau continuous. Trajectory adalah manifestation dari chosen motion model.",
+    "related": [
+      "M05",
+      "M09",
+      "M11",
+      "M12",
+      "M13",
+      "M14",
+      "M16",
+      "M20",
+      "M21"
+    ],
+    "sources": [
+      "R06",
+      "R21",
+      "R22"
+    ]
+  },
+  {
+    "id": "M11",
+    "title": "Time Timing and Rhythm",
+    "slug": "11-time-timing-and-rhythm",
+    "manifestation": "Entry, action, pause, hold, repetition dan exit membentuk pace video. Timing membuat perubahan terlihat pada saat yang meaningful terhadap scene dan audio.",
+    "related": [
+      "M01",
+      "M06",
+      "M10",
+      "M12",
+      "M15",
+      "M19",
+      "M20",
+      "M21",
+      "M22"
+    ],
+    "sources": [
+      "R21",
+      "R23",
+      "R24"
+    ]
+  },
+  {
+    "id": "M12",
+    "title": "Choreography and Motion Composition",
+    "slug": "12-choreography-and-motion-composition",
+    "manifestation": "Gerakan beberapa objek, teks, kamera dan suara menjadi satu rangkaian yang terarah, dengan hierarchy, overlap, contrast dan continuity.",
+    "related": [
+      "M01",
+      "M03",
+      "M04",
+      "M06",
+      "M10",
+      "M11",
+      "M14",
+      "M15",
+      "M19"
+    ],
+    "sources": [
+      "R02",
+      "R21",
+      "R25"
+    ]
+  },
+  {
+    "id": "M13",
+    "title": "Transformation and Deformation",
+    "slug": "13-transformation-and-deformation",
+    "manifestation": "Objek dapat berubah ukuran, orientasi, siluet, volume yang terasa, atau identitas bentuk. Transformasi adalah perubahan pemetaan; deformasi mengubah hubungan internal titik. Penonton menilai kesinambungan bentuk, berat, serta apakah perubahan terasa seperti benda yang sama.",
+    "related": [
+      "M05",
+      "M09",
+      "M10",
+      "M16",
+      "M21"
+    ],
+    "sources": [
+      "R06",
+      "R07",
+      "R11",
+      "R26"
+    ]
+  },
+  {
+    "id": "M14",
+    "title": "Camera Framing and Shot Design",
+    "slug": "14-camera-framing-and-shot-design",
+    "manifestation": "Kamera menentukan apa yang terlihat, seberapa besar, dari arah mana, dan bagaimana perhatian berpindah. Dolly, pan, tilt, orbit dan perubahan focal length mempunyai hubungan perspektif berbeda walaupun seluruhnya membuat gambar bergerak.",
+    "related": [
+      "M03",
+      "M09",
+      "M11",
+      "M15",
+      "M21"
+    ],
+    "sources": [
+      "R11",
+      "R20",
+      "R27"
+    ]
+  },
+  {
+    "id": "M15",
+    "title": "Transitions Editing and Continuity",
+    "slug": "15-transitions-editing-and-continuity",
+    "manifestation": "Editing mengatur hubungan antar waktu dan shot. Cut, dissolve, wipe, match move dan reveal dapat menyambung informasi, mengubah konteks, atau menandai lompatan. Efek transisi harus dibaca bersama gambar sebelum dan sesudahnya.",
+    "related": [
+      "M01",
+      "M11",
+      "M12",
+      "M14",
+      "M18",
+      "M19"
+    ],
+    "sources": [
+      "R23",
+      "R28",
+      "R29"
+    ]
+  },
+  {
+    "id": "M16",
+    "title": "Physical Procedural and Secondary Motion",
+    "slug": "16-physical-procedural-and-secondary-motion",
+    "manifestation": "Gerak sekunder memberi respons: rambut mengikuti kepala, kain tertinggal, partikel menyebar, kartu bergetar setelah impact. Simulasi atau prosedur menyediakan dinamika yang kemudian dipilih dan diarahkan untuk kebutuhan video.",
+    "related": [
+      "M10",
+      "M11",
+      "M13",
+      "M17",
+      "M21",
+      "M22"
+    ],
+    "sources": [
+      "R22",
+      "R26",
+      "R30"
+    ]
+  },
+  {
+    "id": "M17",
+    "title": "Visual Effects and Procedural Appearance",
+    "slug": "17-visual-effects-and-procedural-appearance",
+    "manifestation": "Efek membentuk hal yang terlihat: glow, sparks, smoke, trails, texture flow, glitch atau stylized energy. Tujuannya bukan menumpuk filter, melainkan mengatur bentuk, lokasi, intensitas dan timing supaya mendukung identitas serta informasi.",
+    "related": [
+      "M05",
+      "M07",
+      "M08",
+      "M16",
+      "M18",
+      "M21"
+    ],
+    "sources": [
+      "R11",
+      "R18",
+      "R31"
+    ]
+  },
+  {
+    "id": "M18",
+    "title": "Compositing and Image Processing",
+    "slug": "18-compositing-and-image-processing",
+    "manifestation": "Compositing menyusun gambar menjadi hasil akhir: foreground, background, mask, shadow, glow dan footage. Kesalahan pada alpha, color space, filter atau urutan operasi sering tampak sebagai halo, tepi gelap, double exposure dan detail yang hilang.",
+    "related": [
+      "M07",
+      "M08",
+      "M15",
+      "M17",
+      "M21",
+      "M22"
+    ],
+    "sources": [
+      "R15",
+      "R16",
+      "R32"
+    ]
+  },
+  {
+    "id": "M19",
+    "title": "Sound Design Music and Audiovisual Synchronization",
+    "slug": "19-sound-design-music-and-audiovisual-synchronization",
+    "manifestation": "Audio memberi aksen, tekstur, emosi, spatial cue dan temporal struktur. Whoosh, impact, musik, voice-over dan keheningan dapat memperjelas gerak; hubungan audiovisual ditentukan oleh onset, envelope, frequency content serta fungsi pesan.",
+    "related": [
+      "M01",
+      "M11",
+      "M12",
+      "M15",
+      "M20",
+      "M22"
+    ],
+    "sources": [
+      "R24",
+      "R33",
+      "R34"
+    ]
+  },
+  {
+    "id": "M20",
+    "title": "Perception Readability and Viewing Comfort",
+    "slug": "20-perception-readability-and-viewing-comfort",
+    "manifestation": "Video berhasil ketika informasi dapat dilihat, diikuti, dipahami dan ditonton dalam kondisi nyata. Ukuran layar, compression, visual complexity, motion amplitude, dwell time dan sensitivitas penonton mengubah pengalaman.",
+    "related": [
+      "M01",
+      "M04",
+      "M06",
+      "M07",
+      "M11",
+      "M19",
+      "M22"
+    ],
+    "sources": [
+      "R03",
+      "R09",
+      "R10",
+      "R35"
+    ]
+  },
+  {
+    "id": "M21",
+    "title": "Rendering and Temporal Image Formation",
+    "slug": "21-rendering-and-temporal-image-formation",
+    "manifestation": "Video terbentuk dari sequence images yang masing-masing mewakili hasil sampling ruang dan waktu. Sharpness, blur, aliasing, noise, detail, exposure dan artifacts adalah konsekuensi pilihan renderer serta sampling; bukan sekadar pilihan ekspor.",
+    "related": [
+      "M07",
+      "M08",
+      "M10",
+      "M11",
+      "M18",
+      "M22"
+    ],
+    "sources": [
+      "R11",
+      "R19",
+      "R20",
+      "R23",
+      "R31"
+    ]
+  },
+  {
+    "id": "M22",
+    "title": "Production Verification and Delivery",
+    "slug": "22-production-verification-and-delivery",
+    "manifestation": "Penonton menerima file, stream atau image sequence. Produksi mengubah scene dan aset menjadi keluaran dengan durasi, resolusi, aspect ratio, color, audio, metadata dan kualitas yang sesuai. Error produksi dapat merusak karya walau scene tampak benar di preview.",
+    "related": [
+      "M01",
+      "M06",
+      "M07",
+      "M19",
+      "M20",
+      "M21"
+    ],
+    "sources": [
+      "R23",
+      "R16",
+      "R34",
+      "R35",
+      "R36"
+    ]
+  }
+]

@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "M01.01",
+    "term": "Purpose dan audience",
+    "definition": "Purpose menyatakan apa yang ingin diketahui/dirasakan/dilakukan penonton dalam konteks tertentu. Audience menentukan prior knowledge dan vocabulary, bukan stereotipe taste.",
+    "mechanism": "Brief: audience, context, claim, desired understanding, constraints.",
+    "domain": "M01"
+  },
+  {
+    "id": "M01.02",
+    "term": "Message hierarchy",
+    "definition": "Satu video dapat membawa beberapa informasi dengan priority berbeda. Memilah primary/supporting facts membantu menentukan durasi dan focal point.",
+    "mechanism": "Message graph memuat claim, evidence, example, implication dan dependencies.",
+    "domain": "M01"
+  },
+  {
+    "id": "M01.03",
+    "term": "Narrative progression",
+    "definition": "Setup, development dan resolution adalah pola kerja, bukan formula wajib semua video. Explain, compare, transform atau reveal dapat menjadi organizing logic.",
+    "mechanism": "Susun perubahan state/information yang bisa diamati antarbeats.",
+    "domain": "M01"
+  },
+  {
+    "id": "M01.04",
+    "term": "Causality dan explanation",
+    "definition": "Diagram bergerak dapat menunjukkan relation; spatial proximity/temporal succession tidak membuktikan causality ilmiah.",
+    "mechanism": "Bedakan causal claim, association dan illustrative metaphor.",
+    "domain": "M01"
+  },
+  {
+    "id": "M01.05",
+    "term": "Story beats dan pacing",
+    "definition": "Beat adalah unit perubahan informasi/aksi. Durasi bergantung content/readability dan distribution platform.",
+    "mechanism": "Budget entry, action, hold, exit tiapbeat; overlaps sengaja.",
+    "domain": "M01"
+  },
+  {
+    "id": "M01.06",
+    "term": "Voiceover dan script",
+    "definition": "Spoken language memiliki tempo, breaths, emphasis dan silence. Visual tidak perlu menggambarkan setiap kata literal.",
+    "mechanism": "Script alignment map phrase→visual cue; editorial flexibility eksplisit.",
+    "domain": "M01"
+  },
+  {
+    "id": "M01.07",
+    "term": "Evidence dan examples",
+    "definition": "Contoh membuat abstraksi konkret; examples harus sesuai claim dan tidak menyamar sebagai data real jika illustrative.",
+    "mechanism": "Classify measured, simulated, synthetic, fictional, explanatory.",
+    "domain": "M01"
+  },
+  {
+    "id": "M01.08",
+    "term": "Semantic continuity",
+    "definition": "Orientation penonton mencakup subject, scale, time dan relationship. Cut dapat melompat, tetapi kebutuhan konteks harus dipenuhi.",
+    "mechanism": "Track what persists/changes between scenes.",
+    "domain": "M01"
+  },
+  {
+    "id": "M01.09",
+    "term": "Narrative evaluation",
+    "definition": "Story quality diukur terhadap intended communication. Editorial review berbeda dari actual audience results.",
+    "mechanism": "Define comprehension questions atau task sebelum testing.",
+    "domain": "M01"
+  },
+  {
+    "id": "M02.01",
+    "term": "Concept dan organizing idea",
+    "definition": "Identitas kuat memiliki organizing idea terkait subject. Memilih palette saja belum membentuk konsep.",
+    "mechanism": "Concept→visual rules→motion rules→exceptions.",
+    "domain": "M02"
+  },
+  {
+    "id": "M02.02",
+    "term": "Reference analysis",
+    "definition": "Referensi dibaca untuk prinsip: hierarchy, material, rhythm, composition. Mengambil protected assets/susunan mentah membutuhkan rights yang sesuai.",
+    "mechanism": "Distinguish inspiration, licensed asset, original creation and factual reference.",
+    "domain": "M02"
+  },
+  {
+    "id": "M02.03",
+    "term": "Visual vocabulary",
+    "definition": "Shape families, line weights, corners, textures dan icon construction menentukan language yang konsisten.",
+    "mechanism": "Define primitives, scale relationships dan allowed deformation.",
+    "domain": "M02"
+  },
+  {
+    "id": "M02.04",
+    "term": "Motion vocabulary",
+    "definition": "Cara masuk, bergerak, berubah dan berhenti dapat menjadi signature. Signature tetap harus cocok fungsi shot.",
+    "mechanism": "Define response families, trajectory rules, duration ranges and exceptions.",
+    "domain": "M02"
+  },
+  {
+    "id": "M02.05",
+    "term": "Color material typography system",
+    "definition": "Colors, surfaces dan text families saling berinteraksi. Surface/specular changes dapat alter perceived palette.",
+    "mechanism": "Link role tokens to color/material/font values and fallbacks.",
+    "domain": "M02"
+  },
+  {
+    "id": "M02.06",
+    "term": "Constraints dan variation",
+    "definition": "Constraints menjaga family resemblance; variation mencegah monotony. Consistency bukan identical frames.",
+    "mechanism": "Define invariants versus variable properties per scene role.",
+    "domain": "M02"
+  },
+  {
+    "id": "M02.07",
+    "term": "Tone dan emotional intent",
+    "definition": "Intended mood berasal kombinasi content, pacing, contrast, sound dan context. Tidak ada palette yang menjamin emotion sama pada semua audience.",
+    "mechanism": "State hypothesis dan intended tone; preserve uncertainty.",
+    "domain": "M02"
+  },
+  {
+    "id": "M02.08",
+    "term": "Identity across formats",
+    "definition": "Landscape/portrait, captions dan thumbnails memberi constraints berbeda. Cropping automatic dapat menghilangkan signature atau message.",
+    "mechanism": "Preserve priority and identity while recompose format.",
+    "domain": "M02"
+  },
+  {
+    "id": "M02.09",
+    "term": "Direction review dan iteration",
+    "definition": "Art direction diputuskan dari full sequence, assets dan deviations. Revising root concept berbeda dari adding decoration.",
+    "mechanism": "Review intent→rule→manifestation→issue→change.",
+    "domain": "M02"
+  },
+  {
+    "id": "M03.01",
+    "term": "Frame coordinates dan safe regions",
+    "definition": "Frame, action-safe/title-safe/project-specific overlays berbeda. Safe margin adalah production constraint sesuai target, bukan satu persentase universal.",
+    "mechanism": "Bounds normalized or pixels; declare origin/y direction and crop.",
+    "domain": "M03"
+  },
+  {
+    "id": "M03.02",
+    "term": "Alignment grids dan rhythm",
+    "definition": "Alignment menciptakan hubungan yang dapat dilihat. Grid membantu consistency tetapi optical alignment dapat membutuhkan offsets.",
+    "mechanism": "Baselines, columns, spacing units and anchor constraints.",
+    "domain": "M03"
+  },
+  {
+    "id": "M03.03",
+    "term": "Balance weight dan negative space",
+    "definition": "Visual weight depends size/contrast/detail/motion, bukan mass fisik. Empty space memberi separation dan room for path.",
+    "mechanism": "Define focal area and surrounding clearance; measure occupancy descriptively.",
+    "domain": "M03"
+  },
+  {
+    "id": "M03.04",
+    "term": "Scale proportion dan relationships",
+    "definition": "Relative size can express category or importance. Data-driven sizes perlu truthful mappings.",
+    "mechanism": "Explicit scale ratios/normalization and data encoding.",
+    "domain": "M03"
+  },
+  {
+    "id": "M03.05",
+    "term": "Anchors pivots dan transforms",
+    "definition": "Pivot determines perceived attachment saat rotating/scaling. Translation/rotation/scale order changes result.",
+    "mechanism": "p_world=T_parent T_local p; store pivot in local space.",
+    "domain": "M03"
+  },
+  {
+    "id": "M03.06",
+    "term": "Moving bounds dan occupancy",
+    "definition": "Layout valid at endpoints dapat collide di tengah animation. Effect bounds include glow/shadow beyond object geometry.",
+    "mechanism": "Swept/projected bounds over relevant intervals.",
+    "domain": "M03"
+  },
+  {
+    "id": "M03.07",
+    "term": "Recomposition across aspect ratios",
+    "definition": "Portrait needs reordered relationships, not only crop. Preserve semantic priority with alternative layout.",
+    "mechanism": "Constraint-based layout with format-specific groups/anchors.",
+    "domain": "M03"
+  },
+  {
+    "id": "M03.08",
+    "term": "Depth layering dan occlusion",
+    "definition": "Foreground/background ordering can group or hide content. Transparency and perspective affect projected readability.",
+    "mechanism": "Z-order/visibility rules and depth cue policy.",
+    "domain": "M03"
+  },
+  {
+    "id": "M03.09",
+    "term": "Layout transitions",
+    "definition": "Before/after layouts require coherent handoff. Layout motion can use rect transforms but typography wrapping changes semantics.",
+    "mechanism": "Map source/target anchors/bounds; distinguish scale image from reflow text.",
+    "domain": "M03"
+  },
+  {
+    "id": "M04.01",
+    "term": "Priority roles",
+    "definition": "Primary, supporting dan contextual information menentukan what should stand out. Priority bisa berubah antarbeats.",
+    "mechanism": "Time-dependent priority map authored by message needs.",
+    "domain": "M04"
+  },
+  {
+    "id": "M04.02",
+    "term": "Contrast cues",
+    "definition": "Size, luminance, color, detail dan position can emphasize. Combined cues may conflict.",
+    "mechanism": "Compare relative contrast locally, with color/transfer assumptions.",
+    "domain": "M04"
+  },
+  {
+    "id": "M04.03",
+    "term": "Grouping dan separation",
+    "definition": "Proximity, similarity, alignment dan shared movement help organize information, context-dependent.",
+    "mechanism": "Group relations linked to content semantics.",
+    "domain": "M04"
+  },
+  {
+    "id": "M04.04",
+    "term": "Motion onset dan competition",
+    "definition": "New movement can draw attention but ongoing scene/activity affects response. More motion can distract rather than clarify.",
+    "mechanism": "Schedule onset and hold of primary/supporting actions.",
+    "domain": "M04"
+  },
+  {
+    "id": "M04.05",
+    "term": "Attention handoff",
+    "definition": "Viewer needs locate next relevant object before relation lost. Handoff can use movement, continuity, gaze/camera/sound cues.",
+    "mechanism": "Record source focus, target focus, cue and overlap interval.",
+    "domain": "M04"
+  },
+  {
+    "id": "M04.06",
+    "term": "Reveal dan information availability",
+    "definition": "Information can be present but not yet readable due opacity, crop or unfinished text animation.",
+    "mechanism": "Availability window differs object lifetime.",
+    "domain": "M04"
+  },
+  {
+    "id": "M04.07",
+    "term": "Clutter dan competing channels",
+    "definition": "Dense detail, sound and motion can exceed task capacity. Density metrics are diagnostics, not direct cognition measurement.",
+    "mechanism": "Inventory simultaneous relevant/irrelevant cues by beat.",
+    "domain": "M04"
+  },
+  {
+    "id": "M04.08",
+    "term": "Camera dan viewpoint emphasis",
+    "definition": "Framing/perspective changes can emphasize object while moving entire field. Large camera motion has comfort/legibility implications.",
+    "mechanism": "Target framing and projected priority regions over time.",
+    "domain": "M04"
+  },
+  {
+    "id": "M04.09",
+    "term": "Measurement dan interpretation",
+    "definition": "Technical visibility, AI review, eye-tracking and human comprehension are different evidence types.",
+    "mechanism": "Predefine task/method/population/device and limitations.",
+    "domain": "M04"
+  },
+  {
+    "id": "M05.01",
+    "term": "Primitives dan visual vocabulary",
+    "definition": "Primitive choice membantu recognition dan meaning. Geometry parameters harus konsisten unit dan origin.",
+    "mechanism": "Circle/rect/line/polygon/mesh ditentukan size, orientation, stroke dan ID.",
+    "domain": "M05"
+  },
+  {
+    "id": "M05.02",
+    "term": "Paths dan curves",
+    "definition": "Curve parameter berbeda dari jarak. Smooth curve juga dapat mempunyai cusp atau derivative nol.",
+    "mechanism": "Cubic Bézier B(u)=(1−u)³P0+3(1−u)²uP1+3(1−u)u²P2+u³P3.",
+    "domain": "M05"
+  },
+  {
+    "id": "M05.03",
+    "term": "Strokes fills outlines",
+    "definition": "Caps/joins/width/fill rules alter apparent shape. Stroke extends geometry bounds.",
+    "mechanism": "Define line join/cap, winding rule dan alpha.",
+    "domain": "M05"
+  },
+  {
+    "id": "M05.04",
+    "term": "Topology connectivity",
+    "definition": "Connectivity menentukan deformasi dan morph possibilities. Positions dan topology merupakan data terpisah.",
+    "mechanism": "Vertex/edge/face IDs and correspondence.",
+    "domain": "M05"
+  },
+  {
+    "id": "M05.05",
+    "term": "Parametric objects",
+    "definition": "Generators expose meaningful state while retaining object identity. Ranges dan relationships need validation.",
+    "mechanism": "Object=f(parameters), invariants define allowed family.",
+    "domain": "M05"
+  },
+  {
+    "id": "M05.06",
+    "term": "Representation choice",
+    "definition": "Vector is geometric, raster sampled appearance, mesh spatial surface. All can animate.",
+    "mechanism": "Content→representation→renderer/cost contract.",
+    "domain": "M05"
+  },
+  {
+    "id": "M05.07",
+    "term": "Silhouette projection",
+    "definition": "Recognition depends projected shape and context, not mesh detail alone.",
+    "mechanism": "Projected outline/size over camera path.",
+    "domain": "M05"
+  },
+  {
+    "id": "M05.08",
+    "term": "Geometric queries",
+    "definition": "Distance/intersection/bounds help diagnose scene collisions and crop.",
+    "mechanism": "Broad-phase candidates then appropriate exact test.",
+    "domain": "M05"
+  },
+  {
+    "id": "M05.09",
+    "term": "Persistence correspondence",
+    "definition": "Same appearance does not guarantee same object across scene.",
+    "mechanism": "Stable semantic IDs, anchors and explicit split/merge.",
+    "domain": "M05"
+  },
+  {
+    "id": "M06.01",
+    "term": "Characters clusters glyphs",
+    "definition": "Satu grapheme dapat berisi beberapa code points, satu glyph dapat mewakili ligature.",
+    "mechanism": "Preserve string/language/direction; use relevant segmentation/shaping engine.",
+    "domain": "M06"
+  },
+  {
+    "id": "M06.02",
+    "term": "Fonts metrics fallback",
+    "definition": "Font metrics dan glyph coverage menentukan layout. Name availability bukan full glyph coverage.",
+    "mechanism": "Font path/hash, metrics, coverage and fallback policy.",
+    "domain": "M06"
+  },
+  {
+    "id": "M06.03",
+    "term": "Hierarchy readability",
+    "definition": "Text size/weight/contrast/placement define roles. Availability begins ketika informasi readable.",
+    "mechanism": "Title/caption/label role and readable window.",
+    "domain": "M06"
+  },
+  {
+    "id": "M06.04",
+    "term": "Wrapping alignment",
+    "definition": "Line break dan baseline grouping affect meaning/geometry.",
+    "mechanism": "Width constraint, break opportunities, direction and anchor.",
+    "domain": "M06"
+  },
+  {
+    "id": "M06.05",
+    "term": "Reveal granularity",
+    "definition": "Per-letter/word/line affects rhythm and total duration.",
+    "mechanism": "Completion=(n−1)stagger+unit_duration from first start.",
+    "domain": "M06"
+  },
+  {
+    "id": "M06.06",
+    "term": "Kinetic transforms",
+    "definition": "Expressive transforms must retain intended letter identity. Layout and deformation separate.",
+    "mechanism": "Group/pivot/path model with allowed changes.",
+    "domain": "M06"
+  },
+  {
+    "id": "M06.07",
+    "term": "Counters and numerical text",
+    "definition": "Formatting precision/units/localization determine truthful data presentation.",
+    "mechanism": "Value evaluator→formatter→layout.",
+    "domain": "M06"
+  },
+  {
+    "id": "M06.08",
+    "term": "Captions and spoken cues",
+    "definition": "Caption content and timing must match actual intended speech/context.",
+    "mechanism": "Cue intervals/text/accuracy with safe region.",
+    "domain": "M06"
+  },
+  {
+    "id": "M06.09",
+    "term": "Sampling and encoding",
+    "definition": "Thin moving strokes can shimmer or soften under output compression.",
+    "mechanism": "Spatial/temporal sampling, color/chroma and codec contract.",
+    "domain": "M06"
+  },
+  {
+    "id": "M07.01",
+    "term": "Representations",
+    "definition": "Same triples can mean different colors under different spaces.",
+    "mechanism": "Declare primaries/white point/transfer/range.",
+    "domain": "M07"
+  },
+  {
+    "id": "M07.02",
+    "term": "Linear versus encoded",
+    "definition": "sRGB encoding is nonlinear; physical light arithmetic differs from encoded-value arithmetic.",
+    "mechanism": "Decode low c as c/12.92, otherwise((c+.055)/1.055)^2.4.",
+    "domain": "M07"
+  },
+  {
+    "id": "M07.03",
+    "term": "Palette roles",
+    "definition": "Color can denote category/state/emphasis, with stable meanings.",
+    "mechanism": "Role→token→color/material value.",
+    "domain": "M07"
+  },
+  {
+    "id": "M07.04",
+    "term": "Contrast legibility",
+    "definition": "Foreground/background variation can change text visibility during motion.",
+    "mechanism": "Evaluate actual composited pixels with stated space/context.",
+    "domain": "M07"
+  },
+  {
+    "id": "M07.05",
+    "term": "Gradients",
+    "definition": "Stop/interpolation/gamut choices affect midpoint and banding.",
+    "mechanism": "Spatial interpolation in chosen space.",
+    "domain": "M07"
+  },
+  {
+    "id": "M07.06",
+    "term": "Temporal interpolation",
+    "definition": "A color transition is path through color space, not always linear-energy mixing.",
+    "mechanism": "Define endpoint space and route.",
+    "domain": "M07"
+  },
+  {
+    "id": "M07.07",
+    "term": "Gamut mapping",
+    "definition": "Destination may not reproduce all source colors.",
+    "mechanism": "Detect out-of-gamut; choose clamp/compression/mapping intentionally.",
+    "domain": "M07"
+  },
+  {
+    "id": "M07.08",
+    "term": "Grading",
+    "definition": "Technical normalization and creative look have distinct purposes.",
+    "mechanism": "Separate correction, look and output transform.",
+    "domain": "M07"
+  },
+  {
+    "id": "M07.09",
+    "term": "Delivery perception",
+    "definition": "Player/display interpretation affects appearance.",
+    "mechanism": "Record actual decode metadata and viewing setup.",
+    "domain": "M07"
+  },
+  {
+    "id": "M08.01",
+    "term": "Normals orientation",
+    "definition": "Lighting needs surface direction in correct frame.",
+    "mechanism": "Nonuniform transform normal uses inverse transpose then normalization.",
+    "domain": "M08"
+  },
+  {
+    "id": "M08.02",
+    "term": "Diffuse specular roughness",
+    "definition": "Reflection lobes and roughness change surface response.",
+    "mechanism": "Renderer-defined BRDF and parameter ranges.",
+    "domain": "M08"
+  },
+  {
+    "id": "M08.03",
+    "term": "Metal dielectric transmission",
+    "definition": "Reflective/transmissive models require appropriate assumptions.",
+    "mechanism": "IOR, thickness, scattering and reflectance contract.",
+    "domain": "M08"
+  },
+  {
+    "id": "M08.04",
+    "term": "Textures UVs",
+    "definition": "Surface detail must follow chosen coordinate system.",
+    "mechanism": "UV/object/world mapping with scale/filtering.",
+    "domain": "M08"
+  },
+  {
+    "id": "M08.05",
+    "term": "Lighting placement",
+    "definition": "Light type/size/falloff affects form and shadows.",
+    "mechanism": "Directional/point/area/environment with documented intensity units.",
+    "domain": "M08"
+  },
+  {
+    "id": "M08.06",
+    "term": "Shadows contact",
+    "definition": "Shadows relate surface/object and depth.",
+    "mechanism": "Shadow algorithm/bias/blur/contact policy.",
+    "domain": "M08"
+  },
+  {
+    "id": "M08.07",
+    "term": "Exposure tone mapping",
+    "definition": "High dynamic radiance needs output-range treatment.",
+    "mechanism": "Separate exposure, tone mapping and grading.",
+    "domain": "M08"
+  },
+  {
+    "id": "M08.08",
+    "term": "Material animation",
+    "definition": "Property change can express state but parameter-linear isn't necessarily appearance-linear.",
+    "mechanism": "Time/state→material evaluator.",
+    "domain": "M08"
+  },
+  {
+    "id": "M08.09",
+    "term": "Volumes atmosphere",
+    "definition": "Density/lighting/transport affect visibility and depth.",
+    "mechanism": "State volume integration or labeled 2D approximation.",
+    "domain": "M08"
+  },
+  {
+    "id": "M09.01",
+    "term": "Reference frames",
+    "definition": "Same vector meaningful only in declared basis/unit.",
+    "mechanism": "p_world=T_world_local p_local.",
+    "domain": "M09"
+  },
+  {
+    "id": "M09.02",
+    "term": "Transform order",
+    "definition": "Translation/rotation/scale do not generally commute. Parent transforms alter child motion.",
+    "mechanism": "Column convention composition applied right-to-left.",
+    "domain": "M09"
+  },
+  {
+    "id": "M09.03",
+    "term": "Projection",
+    "definition": "Orthographic/perspective map space differently. Near/far, aspect and FOV determine appearance.",
+    "mechanism": "Perspective divide by w after clip transform.",
+    "domain": "M09"
+  },
+  {
+    "id": "M09.04",
+    "term": "Depth cues",
+    "definition": "Occlusion, scale, shadows and parallax can reinforce/invalidate spatial relation.",
+    "mechanism": "Planned cues should agree or deliberate ambiguity.",
+    "domain": "M09"
+  },
+  {
+    "id": "M09.05",
+    "term": "Parallax",
+    "definition": "Different depths show different projected displacement under camera translation.",
+    "mechanism": "For simplified pinhole x_screen=fX/Z; translation changes X/Z.",
+    "domain": "M09"
+  },
+  {
+    "id": "M09.06",
+    "term": "Scale perception",
+    "definition": "Physical size, projection size and authoring scale separate.",
+    "mechanism": "Screen extent depends geometry/camera depth/projection.",
+    "domain": "M09"
+  },
+  {
+    "id": "M09.07",
+    "term": "Normals and directions",
+    "definition": "Directions don't translate; normals need inverse transpose under nonuniform scale.",
+    "mechanism": "Homogeneous point w=1, direction w=0.",
+    "domain": "M09"
+  },
+  {
+    "id": "M09.08",
+    "term": "Spatial continuity",
+    "definition": "Cross-shot orientation can persist through anchors, axes or identifiers.",
+    "mechanism": "Map world/scene changes explicitly.",
+    "domain": "M09"
+  },
+  {
+    "id": "M09.09",
+    "term": "Spatial constraints",
+    "definition": "Distance/attachment/occlusion limits keep scene meaningful.",
+    "mechanism": "Constraints C(state)=0 or inequalities with residual.",
+    "domain": "M09"
+  },
+  {
+    "id": "M10.01",
+    "term": "Kinematic quantities",
+    "definition": "Position determines where; velocity/acceleration/jerk describe changes. Angular quantities need frame/convention.",
+    "mechanism": "v=xprime, a=vprime, jerk=aprime.",
+    "domain": "M10"
+  },
+  {
+    "id": "M10.02",
+    "term": "Interpolation",
+    "definition": "Lerp bridges values in chosen space, extrapolates outside range if allowed.",
+    "mechanism": "x=a+(b−a)u.",
+    "domain": "M10"
+  },
+  {
+    "id": "M10.03",
+    "term": "Easing models",
+    "definition": "Easing maps progress; Bézier x inversion required for CSS-style mapping.",
+    "mechanism": "Solve x(s)=u, evaluate y(s).",
+    "domain": "M10"
+  },
+  {
+    "id": "M10.04",
+    "term": "Spring dynamics",
+    "definition": "Linear spring has state x,v and parameters mass/stiffness/damping.",
+    "mechanism": "m xdoubleprime+c xprime+k(x−r)=0; ω=√(k/m), ζ=c/(2√km).",
+    "domain": "M10"
+  },
+  {
+    "id": "M10.05",
+    "term": "Trajectory geometry",
+    "definition": "Time law and path define different behavior. Curve shape alone does not define speed.",
+    "mechanism": "x(t)=p(u(t)); derivative chain rule.",
+    "domain": "M10"
+  },
+  {
+    "id": "M10.06",
+    "term": "Angular motion",
+    "definition": "Quaternion/orientation interpolation respects rotation geometry.",
+    "mechanism": "Unit quaternion, q/−q equivalence; shortest-path hemisphere.",
+    "domain": "M10"
+  },
+  {
+    "id": "M10.07",
+    "term": "Constraints and bounds",
+    "definition": "Hard bounds must remain respected throughout trajectory. Soft settling may cross boundary.",
+    "mechanism": "Limit state/target/solver depending intended semantics.",
+    "domain": "M10"
+  },
+  {
+    "id": "M10.08",
+    "term": "Retargeting continuity",
+    "definition": "New goal during motion needs current pose/velocity initialization.",
+    "mechanism": "C0 preserves position; C1 derivative continuity under parameterization.",
+    "domain": "M10"
+  },
+  {
+    "id": "M10.09",
+    "term": "Organic procedural variation",
+    "definition": "Noise/oscillators add variation with scale/correlation.",
+    "mechanism": "Signal/time-based variation, reproducible seed.",
+    "domain": "M10"
+  },
+  {
+    "id": "M11.01",
+    "term": "Clock and origin",
+    "definition": "Time requires clock origin/unit; audio/video/scene clocks may differ.",
+    "mechanism": "Local=(global−start)rate under simple single-clip assumptions.",
+    "domain": "M11"
+  },
+  {
+    "id": "M11.02",
+    "term": "Duration phase iteration",
+    "definition": "Delay/active/hold/exit regions need exact boundary semantics.",
+    "mechanism": "Progress definition includes loops/direction/fill policy.",
+    "domain": "M11"
+  },
+  {
+    "id": "M11.03",
+    "term": "Cadence rational sampling",
+    "definition": "Frame timestamps should derive from index, not repeated addition.",
+    "mechanism": "t_n=n q/p for fps=p/q.",
+    "domain": "M11"
+  },
+  {
+    "id": "M11.04",
+    "term": "Spacing and rhythm",
+    "definition": "Timing controls event positions; spacing controls displacement samples. Repeats and rests create rhythm.",
+    "mechanism": "Beat map with accents, holds and contrast.",
+    "domain": "M11"
+  },
+  {
+    "id": "M11.05",
+    "term": "Readable holds",
+    "definition": "Information may appear gradually; completed-readable interval differs total beat.",
+    "mechanism": "Available hold=end_readable−start_readable.",
+    "domain": "M11"
+  },
+  {
+    "id": "M11.06",
+    "term": "Time remapping",
+    "definition": "u(t) changes velocity/acceleration through chain rule.",
+    "mechanism": "xprime=pprime uprime; xdoubleprime=pdoubleprime uprime²+pprime udoubleprime.",
+    "domain": "M11"
+  },
+  {
+    "id": "M11.07",
+    "term": "Seeking stateful simulations",
+    "definition": "Stateless animation can evaluate arbitrary t; simulation needs replay/checkpoint/analytic propagation.",
+    "mechanism": "evaluate(t) distinct advance(dt).",
+    "domain": "M11"
+  },
+  {
+    "id": "M11.08",
+    "term": "Synchronization cues",
+    "definition": "Audio accents, subtitles and visual events need time mapping.",
+    "mechanism": "Marker/clock alignment and output delay policy.",
+    "domain": "M11"
+  },
+  {
+    "id": "M11.09",
+    "term": "Cadence versus exposure",
+    "definition": "Exposure integrates scene interval; frame interval schedules outputs.",
+    "mechanism": "Blur distance≈speed×exposure for ideal translation.",
+    "domain": "M11"
+  },
+  {
+    "id": "M12.01",
+    "term": "Tracks clips channels",
+    "definition": "Track updates property; clip groups tracks/time domain. Missing channels need base/default semantics.",
+    "mechanism": "Value evaluator per channel with defined interpolation.",
+    "domain": "M12"
+  },
+  {
+    "id": "M12.02",
+    "term": "Sequencing dependencies",
+    "definition": "Relative starts and overlaps express relations. Depends-on meaning must explicit.",
+    "mechanism": "Timeline graph with interval/dependency types.",
+    "domain": "M12"
+  },
+  {
+    "id": "M12.03",
+    "term": "Staggering",
+    "definition": "Stagger based index, position, relation or data yields different pattern.",
+    "mechanism": "start_i=start0+offset(i).",
+    "domain": "M12"
+  },
+  {
+    "id": "M12.04",
+    "term": "Layering masks",
+    "definition": "Multiple layers affect channels/regions. Order and influence determine result.",
+    "mechanism": "Base pose then explicit replace/additive/mask operations.",
+    "domain": "M12"
+  },
+  {
+    "id": "M12.05",
+    "term": "Blending spaces",
+    "definition": "Translation/color/rotation require appropriate space semantics.",
+    "mechanism": "Weighted sums only when representation supports; quaternion-aware rotation.",
+    "domain": "M12"
+  },
+  {
+    "id": "M12.06",
+    "term": "Anticipation follow-through",
+    "definition": "Prepare/overlap/settle can make action legible, but context governs usefulness.",
+    "mechanism": "Primary/secondary phases and delayed response.",
+    "domain": "M12"
+  },
+  {
+    "id": "M12.07",
+    "term": "Attention handoff",
+    "definition": "Group motion changes focal location/information.",
+    "mechanism": "Source/target focus and handoff cue timeline.",
+    "domain": "M12"
+  },
+  {
+    "id": "M12.08",
+    "term": "Interruption and final state",
+    "definition": "Even offline authors can seek/change parameters; preview/live controls need cancellation ownership.",
+    "mechanism": "Desired state separate evaluated presentation.",
+    "domain": "M12"
+  },
+  {
+    "id": "M12.09",
+    "term": "Orchestration and readability",
+    "definition": "Coordinating channels must leave content available. Busy complexity isn't evidence sophistication.",
+    "mechanism": "Beat-level resource/information schedule.",
+    "domain": "M12"
+  },
+  {
+    "id": "M13.01",
+    "term": "Pivot and affine transformation",
+    "definition": "Pivot mengatur titik yang tampak menetap ketika objek berputar atau membesar.",
+    "mechanism": "Pemetaan p'=T(c) R S T(-c)p; nonuniform scale dapat mengubah sudut.",
+    "domain": "M13"
+  },
+  {
+    "id": "M13.02",
+    "term": "Shape correspondence",
+    "definition": "Morph terlihat kontinu jika fitur semantik mempunyai pasangan yang konsisten.",
+    "mechanism": "Dua kontur perlu orientasi, titik awal, jumlah titik, dan urutan korespondensi yang sesuai.",
+    "domain": "M13"
+  },
+  {
+    "id": "M13.03",
+    "term": "Path morphing",
+    "definition": "Kurva berubah melalui control points dan struktur segmen.",
+    "mechanism": "P(u,t) memakai basis kurva tetap dengan control points yang bergantung t.",
+    "domain": "M13"
+  },
+  {
+    "id": "M13.04",
+    "term": "Squash and stretch",
+    "definition": "Perubahan proporsi menampilkan elastisitas, impact dan berat.",
+    "mechanism": "Dalam pendekatan 2D luas konstan, sx*sy=1; dalam 3D volume memakai sx*sy*sz=1.",
+    "domain": "M13"
+  },
+  {
+    "id": "M13.05",
+    "term": "Mesh and lattice deformation",
+    "definition": "Medan perpindahan mengubah banyak titik secara koheren.",
+    "mechanism": "x'=x+d(x,t); determinant Jacobian nol menunjukkan local collapse.",
+    "domain": "M13"
+  },
+  {
+    "id": "M13.06",
+    "term": "Rigging and skinning",
+    "definition": "Gerak kontrol diterjemahkan menjadi pose permukaan.",
+    "mechanism": "Linear blend skinning menjumlahkan weighted bone transforms; bobot berjumlah satu.",
+    "domain": "M13"
+  },
+  {
+    "id": "M13.07",
+    "term": "Rotation interpolation",
+    "definition": "Rotasi interpolasi perlu jalur yang jelas tanpa lompatan representasi.",
+    "mechanism": "Quaternion q dan -q merepresentasikan orientasi sama; pilih hemisphere sebelum slerp.",
+    "domain": "M13"
+  },
+  {
+    "id": "M13.08",
+    "term": "Warp and displacement",
+    "definition": "Gambar berpindah mengikuti medan koordinat, berbeda dari mengganti nilai warna.",
+    "mechanism": "Sampling output sering memakai inverse mapping agar tidak meninggalkan holes.",
+    "domain": "M13"
+  },
+  {
+    "id": "M13.09",
+    "term": "Topology change and staged morph",
+    "definition": "Perubahan jumlah komponen tidak selalu dapat diwakili interpolasi titik sederhana.",
+    "mechanism": "Birth, split, merge dan hole closure membutuhkan transisi representasi.",
+    "domain": "M13"
+  },
+  {
+    "id": "M14.01",
+    "term": "Framing and subject scale",
+    "definition": "Ukuran subjek pada layar memengaruhi informasi dan konteks yang tersedia.",
+    "mechanism": "Projected bounding box berubah terhadap jarak, focal length dan pose.",
+    "domain": "M14"
+  },
+  {
+    "id": "M14.02",
+    "term": "Perspective and lens choice",
+    "definition": "Perspektif berasal dari posisi kamera; focal length mengatur sudut pandang pada posisi itu.",
+    "mechanism": "Model pinhole memetakan x=fX/Z.",
+    "domain": "M14"
+  },
+  {
+    "id": "M14.03",
+    "term": "Pan tilt roll and orbit",
+    "definition": "Orientasi kamera mengubah framing dengan karakter gerak berbeda.",
+    "mechanism": "Orbit mengubah posisi sekaligus orientasi menuju target; pan/tilt dapat menjaga posisi.",
+    "domain": "M14"
+  },
+  {
+    "id": "M14.04",
+    "term": "Dolly truck pedestal",
+    "definition": "Translasi kamera menghasilkan parallax sesuai kedalaman.",
+    "mechanism": "Image velocity tergantung relative transform objek terhadap kamera.",
+    "domain": "M14"
+  },
+  {
+    "id": "M14.05",
+    "term": "Focus and depth of field",
+    "definition": "Distribusi ketajaman membantu penekanan tetapi dapat mengurangi informasi.",
+    "mechanism": "Lens model memetakan point menjadi blur footprint di luar focus plane.",
+    "domain": "M14"
+  },
+  {
+    "id": "M14.06",
+    "term": "Camera easing and stabilization",
+    "definition": "Gerak kamera mengubah seluruh visual field, sehingga jerk mudah terasa.",
+    "mechanism": "Continuity velocity dan acceleration menentukan start/stop.",
+    "domain": "M14"
+  },
+  {
+    "id": "M14.07",
+    "term": "Shot coverage and scale progression",
+    "definition": "Rangkaian wide-medium-detail memberi struktur pengungkapan.",
+    "mechanism": "Shot graph menghubungkan fungsi informasi dengan ukuran dan arah view.",
+    "domain": "M14"
+  },
+  {
+    "id": "M14.08",
+    "term": "Dolly zoom and coupled parameters",
+    "definition": "Perubahan jarak dan focal length dapat mempertahankan skala subjek sambil mengubah ruang.",
+    "mechanism": "Untuk subject tetap, f/Z dijaga konstan.",
+    "domain": "M14"
+  },
+  {
+    "id": "M14.09",
+    "term": "Screen direction and axis",
+    "definition": "Arah layar membentuk orientasi tindakan dan hubungan antar subjek.",
+    "mechanism": "Projected movement sign dapat berubah ketika camera melintasi axis.",
+    "domain": "M14"
+  },
+  {
+    "id": "M15.01",
+    "term": "Cut and information change",
+    "definition": "Cut mengubah image state secara diskrit dan dapat langsung mengubah pusat perhatian.",
+    "mechanism": "Cut boundary terletak di antara dua output frames; tidak perlu intermediate.",
+    "domain": "M15"
+  },
+  {
+    "id": "M15.02",
+    "term": "Match action and motion continuity",
+    "definition": "Gerak dapat menjembatani shot bila phase dan arah terasa berlanjut.",
+    "mechanism": "Cocokkan pose, screen direction serta action time pada overlap coverage.",
+    "domain": "M15"
+  },
+  {
+    "id": "M15.03",
+    "term": "Graphic and shape matching",
+    "definition": "Kesamaan bentuk/lokasi membimbing mata saat konteks berubah.",
+    "mechanism": "Landmark layar sebelum/sesudah berada dalam jarak dan skala yang dirancang.",
+    "domain": "M15"
+  },
+  {
+    "id": "M15.04",
+    "term": "Dissolve and alpha blending",
+    "definition": "Dissolve menampilkan dua image layers bersamaan selama interval.",
+    "mechanism": "C=(1-u)A+uB dalam working space yang didefinisikan.",
+    "domain": "M15"
+  },
+  {
+    "id": "M15.05",
+    "term": "Wipe mask and occlusion",
+    "definition": "Batas spasial menentukan wilayah yang menjadi shot baru.",
+    "mechanism": "Mask m(x,t) mengatur coverage dengan edge antialiasing.",
+    "domain": "M15"
+  },
+  {
+    "id": "M15.06",
+    "term": "Object-mediated transitions",
+    "definition": "Objek atau kamera menutup frame sehingga perpindahan memiliki motivasi.",
+    "mechanism": "Occlusion interval menyembunyikan perubahan scene state.",
+    "domain": "M15"
+  },
+  {
+    "id": "M15.07",
+    "term": "Retiming speed ramps and freeze",
+    "definition": "Mapping waktu mengubah speed peristiwa sumber.",
+    "mechanism": "t_source=g(t_output); derivative g' adalah speed ratio.",
+    "domain": "M15"
+  },
+  {
+    "id": "M15.08",
+    "term": "Editorial pacing and holds",
+    "definition": "Ritme editorial mengatur waktu pengungkapan dan integrasi pesan.",
+    "mechanism": "Shot duration dan information density adalah variabel berbeda.",
+    "domain": "M15"
+  },
+  {
+    "id": "M15.09",
+    "term": "Loop closure and temporal seams",
+    "definition": "Loop memerlukan hubungan akhir-awal dalam tampilan dan gerak.",
+    "mechanism": "Periodic function menjaga value; derivative continuity menjaga velocity.",
+    "domain": "M15"
+  },
+  {
+    "id": "M16.01",
+    "term": "Springs and damped response",
+    "definition": "Gaya pemulih dan damping membentuk oscillation atau settling.",
+    "mechanism": "m x''+c x'+k(x-target)=0 dengan damping ratio c/(2 sqrt(mk)).",
+    "domain": "M16"
+  },
+  {
+    "id": "M16.02",
+    "term": "Rigid bodies and contact",
+    "definition": "Benda padat menampilkan trajectory serta perubahan gerak akibat kontak.",
+    "mechanism": "Momentum, angular momentum dan contact impulses tergantung mass/inertia.",
+    "domain": "M16"
+  },
+  {
+    "id": "M16.03",
+    "term": "Cloth and flexible surfaces",
+    "definition": "Permukaan fleksibel dipengaruhi bending, stretch, gravity dan contact.",
+    "mechanism": "Constraint lengths/angles atau energy gradients mengatur deformation.",
+    "domain": "M16"
+  },
+  {
+    "id": "M16.04",
+    "term": "Fluids smoke and volume motion",
+    "definition": "Aliran membentuk coherent transport, vortices dan diffusion.",
+    "mechanism": "Advection memindahkan quantity mengikuti velocity field; pressure solve mengatur divergence.",
+    "domain": "M16"
+  },
+  {
+    "id": "M16.05",
+    "term": "Particles emitters and lifetime",
+    "definition": "Banyak elemen membentuk jejak, ledakan atau atmosfer.",
+    "mechanism": "Particle identity mempunyai birth time, lifetime dan state.",
+    "domain": "M16"
+  },
+  {
+    "id": "M16.06",
+    "term": "Noise fields and procedural oscillation",
+    "definition": "Variasi terstruktur menghasilkan irregularity dengan skala yang dapat dikontrol.",
+    "mechanism": "Band-limited fields berbeda dari independent random per frame.",
+    "domain": "M16"
+  },
+  {
+    "id": "M16.07",
+    "term": "Secondary follow-through",
+    "definition": "Bagian mengikuti perubahan utama dengan lag dan settling.",
+    "mechanism": "Filter atau spring driven target membentuk response bergantung history.",
+    "domain": "M16"
+  },
+  {
+    "id": "M16.08",
+    "term": "Constraint and timestep management",
+    "definition": "Solver menentukan stabilitas visual dan pemenuhan constraint.",
+    "mechanism": "Integrator error serta solver iterations bergantung h dan stiffness.",
+    "domain": "M16"
+  },
+  {
+    "id": "M16.09",
+    "term": "Art direction caching and reproducibility",
+    "definition": "Hasil fisik menjadi asset yang perlu dapat diulang dan dikoreksi.",
+    "mechanism": "Cache identity mencakup inputs, solver version, seed dan timestep.",
+    "domain": "M16"
+  },
+  {
+    "id": "M17.01",
+    "term": "Signed distance shapes",
+    "definition": "Field jarak memberi batas bentuk yang dapat dimodulasi secara kontinu.",
+    "mechanism": "f(x)<0 berada di dalam bentuk; coverage memakai filter di sekitar zero crossing.",
+    "domain": "M17"
+  },
+  {
+    "id": "M17.02",
+    "term": "Noise textures and flow",
+    "definition": "Coherent noise menghubungkan detail antar ruang dan waktu.",
+    "mechanism": "Spatial frequency dan temporal frequency menentukan scale serta speed.",
+    "domain": "M17"
+  },
+  {
+    "id": "M17.03",
+    "term": "Glow bloom and halos",
+    "definition": "Cahaya terang tampak menyebar di sekitar sumber.",
+    "mechanism": "Thresholded radiance atau mask dikonvolusi, lalu ditambahkan menurut working space.",
+    "domain": "M17"
+  },
+  {
+    "id": "M17.04",
+    "term": "Trails echoes and motion marks",
+    "definition": "Jejak menyimpan informasi posisi lampau.",
+    "mechanism": "Trail dapat berupa sampled trajectory atau temporal accumulation.",
+    "domain": "M17"
+  },
+  {
+    "id": "M17.05",
+    "term": "Displacement distortion and refraction",
+    "definition": "Koordinat sampling membelok sehingga image memberi kesan medium lain.",
+    "mechanism": "UV'=UV+d(UV,t), dengan offset units dan edge handling eksplisit.",
+    "domain": "M17"
+  },
+  {
+    "id": "M17.06",
+    "term": "Glitch and digital stylization",
+    "definition": "Gangguan sengaja memakai discontinuity spasial/temporal yang terarah.",
+    "mechanism": "Block offset, channel offsets dan hold frames adalah operators berbeda.",
+    "domain": "M17"
+  },
+  {
+    "id": "M17.07",
+    "term": "Particle appearance and sprite shading",
+    "definition": "Partikel memperoleh identitas dari shape, size, opacity, color dan depth.",
+    "mechanism": "Life-normalized curves mengatur appearance selain trajectory.",
+    "domain": "M17"
+  },
+  {
+    "id": "M17.08",
+    "term": "Volumetric effects and atmospheric depth",
+    "definition": "Volume mengubah visibility melalui absorption dan scattering.",
+    "mechanism": "Beer-Lambert transmittance T=exp(-integral sigma_t ds) dalam model yang sesuai.",
+    "domain": "M17"
+  },
+  {
+    "id": "M17.09",
+    "term": "Effect stacks and parameter exposure",
+    "definition": "Beberapa efek membutuhkan urutan serta shared controls yang dapat dijelaskan.",
+    "mechanism": "Nonlinear operators biasanya tidak commute.",
+    "domain": "M17"
+  },
+  {
+    "id": "M18.01",
+    "term": "Straight and premultiplied alpha",
+    "definition": "Convention alpha menentukan arti RGB pada pixel transparan.",
+    "mechanism": "Premultiplied color c=alpha*C; RGB straight menyimpan C secara terpisah.",
+    "domain": "M18"
+  },
+  {
+    "id": "M18.02",
+    "term": "Source over and layer order",
+    "definition": "Foreground coverage menentukan bagian background yang tersisa.",
+    "mechanism": "Premultiplied co=cs+cb(1-as); ao=as+ab(1-as).",
+    "domain": "M18"
+  },
+  {
+    "id": "M18.03",
+    "term": "Masks mattes and keying",
+    "definition": "Mask mengatur coverage berdasarkan geometry, channel atau selection.",
+    "mechanism": "Coverage mask berbeda dari RGB luminosity dan key confidence.",
+    "domain": "M18"
+  },
+  {
+    "id": "M18.04",
+    "term": "Blend modes and operation space",
+    "definition": "Multiply, screen dan add membentuk hubungan tonal yang berbeda.",
+    "mechanism": "Formula bergantung normalized range dan working space; modes nonlinear.",
+    "domain": "M18"
+  },
+  {
+    "id": "M18.05",
+    "term": "Convolution blur and sharpening",
+    "definition": "Filter menggabungkan spatial samples untuk mengubah bandwidth.",
+    "mechanism": "Kernel normalized mempertahankan flat-field intensity; boundary modes memengaruhi tepi.",
+    "domain": "M18"
+  },
+  {
+    "id": "M18.06",
+    "term": "Color correction and grading",
+    "definition": "Correction menjaga kesesuaian; grading mengarahkan hubungan tampilan.",
+    "mechanism": "Transfer functions, matrices, curves dan LUT mempunyai domain input.",
+    "domain": "M18"
+  },
+  {
+    "id": "M18.07",
+    "term": "Depth motion and auxiliary passes",
+    "definition": "Data passes memungkinkan efek mengikuti scene relationships.",
+    "mechanism": "Depth units dan motion-vector direction/timebase harus jelas.",
+    "domain": "M18"
+  },
+  {
+    "id": "M18.08",
+    "term": "Resolution resampling and crop",
+    "definition": "Resize membentuk pixel baru dari footprint sumber.",
+    "mechanism": "Downsampling memerlukan low-pass filtering; crop mengubah framing.",
+    "domain": "M18"
+  },
+  {
+    "id": "M18.09",
+    "term": "Precision ranges and pipeline checkpoints",
+    "definition": "Intermediate precision menjaga headroom serta repeatability.",
+    "mechanism": "Repeated quantization menambah rounding error dan dapat membentuk banding.",
+    "domain": "M18"
+  },
+  {
+    "id": "M19.01",
+    "term": "Audio timebase and event alignment",
+    "definition": "Audio dan video memakai grid waktu berbeda.",
+    "mechanism": "Audio sample n pada t=n/Fs; video frame m pada t=m/fps dengan timestamps.",
+    "domain": "M19"
+  },
+  {
+    "id": "M19.02",
+    "term": "Transient and envelope design",
+    "definition": "Envelope membentuk attack, sustain dan decay yang terasa mengikuti aksi.",
+    "mechanism": "a(t) mengalikan oscillator/noise; smooth endpoints menghindari discontinuity.",
+    "domain": "M19"
+  },
+  {
+    "id": "M19.03",
+    "term": "Whoosh impact and texture",
+    "definition": "Spectral evolution membantu menampilkan speed, material dan skala.",
+    "mechanism": "Filtered noise, pitched components dan transients membentuk kelas suara.",
+    "domain": "M19"
+  },
+  {
+    "id": "M19.04",
+    "term": "Music pulse meter and phrasing",
+    "definition": "Beat menyediakan struktur tetapi frasa musikal lebih panjang dari beat tunggal.",
+    "mechanism": "Beat interval 60/BPM; bar length tergantung meter.",
+    "domain": "M19"
+  },
+  {
+    "id": "M19.05",
+    "term": "Voiceover and information space",
+    "definition": "Ucapan membawa informasi yang bersaing dengan teks serta effects.",
+    "mechanism": "Speech intervals dan pauses membentuk windows untuk visual emphasis.",
+    "domain": "M19"
+  },
+  {
+    "id": "M19.06",
+    "term": "Mixing gain and headroom",
+    "definition": "Penjumlahan sinyal dapat clip walau masing-masing layer aman.",
+    "mechanism": "Linear gain g=10^(dB/20); peaks dan loudness mengukur hal berbeda.",
+    "domain": "M19"
+  },
+  {
+    "id": "M19.07",
+    "term": "Stereo spatial placement and mono",
+    "definition": "Posisi suara dapat membantu arah tetapi harus survive channel reduction.",
+    "mechanism": "Pan law dan phase relationships memengaruhi perceived level.",
+    "domain": "M19"
+  },
+  {
+    "id": "M19.08",
+    "term": "Audio reactive visuals",
+    "definition": "Visual dapat mengikuti envelope, band energy atau beat estimates.",
+    "mechanism": "FFT magnitude memberi spectral representation bergantung window/hop.",
+    "domain": "M19"
+  },
+  {
+    "id": "M19.09",
+    "term": "Silence accessibility and licensed assets",
+    "definition": "Keheningan dan captions memberi struktur serta akses informasi.",
+    "mechanism": "Visual-only path harus tetap membawa pesan utama bila audio tidak tersedia.",
+    "domain": "M19"
+  },
+  {
+    "id": "M20.01",
+    "term": "Text legibility during motion",
+    "definition": "Teks yang bergerak atau kabur dapat sulit dibaca walau ukurannya cukup.",
+    "mechanism": "Relative motion, exposure blur, contrast dan glyph shape berinteraksi.",
+    "domain": "M20"
+  },
+  {
+    "id": "M20.02",
+    "term": "Attention load and competing motion",
+    "definition": "Beberapa perubahan simultan dapat menimbulkan competing signals.",
+    "mechanism": "Priority graph menentukan perubahan mana yang diharapkan menjadi focus.",
+    "domain": "M20"
+  },
+  {
+    "id": "M20.03",
+    "term": "Contrast and background variation",
+    "definition": "Readability berubah sepanjang footage bergerak, bukan hanya satu warna statis.",
+    "mechanism": "Luminance relationship bergantung transfer conversion dan patch sampling.",
+    "domain": "M20"
+  },
+  {
+    "id": "M20.04",
+    "term": "Motion amplitude and visual field",
+    "definition": "Gerak besar pada seluruh layar mempunyai pengalaman berbeda dari ikon kecil.",
+    "mechanism": "Screen-space displacement, angular size dan covered area adalah parameter berbeda.",
+    "domain": "M20"
+  },
+  {
+    "id": "M20.05",
+    "term": "Flashes repetitive patterns and thresholds",
+    "definition": "Flash serta pattern berulang memerlukan pemeriksaan khusus.",
+    "mechanism": "Definisi flash/red flash dan threshold bukan sekadar jumlah cut per detik.",
+    "domain": "M20"
+  },
+  {
+    "id": "M20.06",
+    "term": "Occlusion continuity and object identity",
+    "definition": "Penonton menghubungkan objek sebelum dan sesudah tersembunyi melalui cues.",
+    "mechanism": "Position, appearance dan timing menjaga correspondence.",
+    "domain": "M20"
+  },
+  {
+    "id": "M20.07",
+    "term": "Viewing size compression and environment",
+    "definition": "Detail yang terlihat di workstation dapat hilang di ponsel atau encoded output.",
+    "mechanism": "Spatial/temporal compression mengubah fine detail serta gradients.",
+    "domain": "M20"
+  },
+  {
+    "id": "M20.08",
+    "term": "Multimodal access and comprehension",
+    "definition": "Informasi dapat disampaikan melalui visual, audio dan teks pendukung.",
+    "mechanism": "Redundant routes membantu ketika salah satu channel tidak tersedia.",
+    "domain": "M20"
+  },
+  {
+    "id": "M20.09",
+    "term": "Evaluation uncertainty and audience testing",
+    "definition": "Klaim pengalaman membutuhkan evidence yang sesuai klaim.",
+    "mechanism": "Checklist engineering, expert review dan user study mengukur hal berbeda.",
+    "domain": "M20"
+  },
+  {
+    "id": "M21.01",
+    "term": "Raster vector and ray-based rendering",
+    "definition": "Renderer memakai representasi dan visibility algorithms berbeda.",
+    "mechanism": "Raster projects primitives; vector rasterizes paths; ray tracing samples visibility/light transport.",
+    "domain": "M21"
+  },
+  {
+    "id": "M21.02",
+    "term": "Spatial sampling and antialiasing",
+    "definition": "Pixel mewakili footprint, bukan titik geometry dengan ukuran nol.",
+    "mechanism": "Supersampling dan filtering memperkirakan coverage/integral.",
+    "domain": "M21"
+  },
+  {
+    "id": "M21.03",
+    "term": "Temporal sampling and shutter",
+    "definition": "Blur terbentuk dari integrasi scene berubah selama exposure.",
+    "mechanism": "I_n≈sum w_k R(scene(t_n+offset_k)); weights berjumlah satu.",
+    "domain": "M21"
+  },
+  {
+    "id": "M21.04",
+    "term": "Frame rate cadence and time evaluation",
+    "definition": "Output fps menentukan sample cadence, bukan otomatis animation speed.",
+    "mechanism": "t_n=n*q/p untuk fps=p/q; sequence interval biasanya half-open.",
+    "domain": "M21"
+  },
+  {
+    "id": "M21.05",
+    "term": "Motion vectors and temporal reprojection",
+    "definition": "History pixels dapat digunakan untuk temporal filtering dengan mapping gerak.",
+    "mechanism": "Vectors memetakan previous/current positions dengan direction convention.",
+    "domain": "M21"
+  },
+  {
+    "id": "M21.06",
+    "term": "Noise convergence and denoising",
+    "definition": "Monte Carlo noise berbeda dari deterministic texture.",
+    "mechanism": "Ideal independent sample averaging menurunkan variance sekitar 1/N.",
+    "domain": "M21"
+  },
+  {
+    "id": "M21.07",
+    "term": "Render passes and dependency scheduling",
+    "definition": "Passes menyediakan intermediate data untuk compositing atau diagnostics.",
+    "mechanism": "Dependency graph menentukan valid execution order serta resource lifetime.",
+    "domain": "M21"
+  },
+  {
+    "id": "M21.08",
+    "term": "Precision color and accumulation",
+    "definition": "Arithmetic/encoding menentukan apakah averaging mencerminkan light atau code values.",
+    "mechanism": "Linear-light accumulation berbeda dari averaging nonlinear encoded channels.",
+    "domain": "M21"
+  },
+  {
+    "id": "M21.09",
+    "term": "CPU GPU resource and deterministic execution",
+    "definition": "Hardware/pipeline menentukan feasibility dan repeatability.",
+    "mechanism": "Parallel reduction order dan floating precision dapat menghasilkan small differences.",
+    "domain": "M21"
+  },
+  {
+    "id": "M22.01",
+    "term": "Brief output contract and acceptance",
+    "definition": "Target output perlu dinyatakan sebelum produksi.",
+    "mechanism": "Contract berisi duration/aspect/fps/color/audio/caption/content constraints.",
+    "domain": "M22"
+  },
+  {
+    "id": "M22.02",
+    "term": "Asset font and rights inventory",
+    "definition": "Asset dependency menentukan tampilan serta portability.",
+    "mechanism": "Inventory mencatat file/hash/license/version/fallback dan usage.",
+    "domain": "M22"
+  },
+  {
+    "id": "M22.03",
+    "term": "Determinism versions and provenance",
+    "definition": "Reproducing output memerlukan inputs serta environment yang cukup.",
+    "mechanism": "Provenance mencakup code/config/seeds/tool versions/hashes.",
+    "domain": "M22"
+  },
+  {
+    "id": "M22.04",
+    "term": "Sequence completeness and timestamps",
+    "definition": "File sequence harus lengkap dan timestamps sesuai clock.",
+    "mechanism": "N frames at fps p/q cover N*q/p seconds for CFR intervals.",
+    "domain": "M22"
+  },
+  {
+    "id": "M22.05",
+    "term": "Codec container and pixel format",
+    "definition": "Codec mengompresi streams; container menyimpan timing dan metadata.",
+    "mechanism": "H264 dalam MP4 berbeda dari lossless master; yuv420p tidak membawa alpha.",
+    "domain": "M22"
+  },
+  {
+    "id": "M22.06",
+    "term": "Color audio and metadata integrity",
+    "definition": "Tags, levels dan channels memengaruhi interpretation output.",
+    "mechanism": "Correct metadata perlu cocok conversion yang benar-benar dilakukan.",
+    "domain": "M22"
+  },
+  {
+    "id": "M22.07",
+    "term": "Visual audio and semantic quality gates",
+    "definition": "Engineering success tidak sama dengan content success.",
+    "mechanism": "Gates berbeda mengukur decode integrity, visual artifacts, sync dan message.",
+    "domain": "M22"
+  },
+  {
+    "id": "M22.08",
+    "term": "Variants adaptation and accessibility",
+    "definition": "Different aspect/resolution/caption needs require intentional re-layout.",
+    "mechanism": "Crop, fit dan recompose have different information costs.",
+    "domain": "M22"
+  },
+  {
+    "id": "M22.09",
+    "term": "Packaging indexing and maintenance",
+    "definition": "Repo perlu dapat dicari, digunakan dan diperluas tanpa drift.",
+    "mechanism": "Stable IDs, local links, structured indexes and source status form a knowledge graph.",
+    "domain": "M22"
+  }
+]

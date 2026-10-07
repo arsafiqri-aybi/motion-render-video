@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "domains": 22,
+  "concepts": 198,
+  "source_records": 37,
+  "relationship_edges": 160,
+  "local_links_checked": 403,
+  "checks": 1410,
+  "markdown_files": 66,
+  "markdown_words": 31806,
+  "tracked_candidate_files": 86,
+  "errors": [],
+  "scope": "Architecture/content sections, indexes, internal paths/anchors, connected domain relationships, JSON, demo/input/report hashes and absence of legacy active paths. Not scientific peer review of every sentence."
+}

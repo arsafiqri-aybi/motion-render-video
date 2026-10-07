@@ -1,0 +1,15 @@
+{
+  "width": 640,
+  "height": 360,
+  "duration": 6,
+  "fps_num": 30,
+  "fps_den": 1,
+  "shutter_angle": 180,
+  "temporal_samples": 4,
+  "sample_rate": 48000,
+  "cues": [0.5, 2.0, 3.5, 5.0],
+  "font_family": "DejaVu Sans",
+  "working_space": "sRGB encoded source images, linear-sRGB temporal accumulation",
+  "delivery_space": "BT.709 primaries/transfer/matrix, limited YUV, 8-bit 4:2:0",
+  "message": "Gerak menjadi gambar, waktu, dan suara."
+}

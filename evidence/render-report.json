@@ -1,0 +1,50 @@
+{
+  "config": {
+    "width": 640,
+    "height": 360,
+    "duration": 6,
+    "fps_num": 30,
+    "fps_den": 1,
+    "shutter_angle": 180,
+    "temporal_samples": 4,
+    "sample_rate": 48000,
+    "cues": [
+      0.5,
+      2.0,
+      3.5,
+      5.0
+    ],
+    "font_family": "DejaVu Sans",
+    "working_space": "sRGB encoded source images, linear-sRGB temporal accumulation",
+    "delivery_space": "BT.709 primaries/transfer/matrix, limited YUV, 8-bit 4:2:0",
+    "message": "Gerak menjadi gambar, waktu, dan suara."
+  },
+  "frame_count": 180,
+  "audio_source": {
+    "samples": 288000,
+    "sample_peak": 0.08940145771170707,
+    "cues_seconds": [
+      0.5,
+      2.0,
+      3.5,
+      5.0
+    ]
+  },
+  "font": {
+    "name": "DejaVuSans.ttf",
+    "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280"
+  },
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pillow": "12.3.0",
+    "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers"
+  },
+  "config_sha256": "7a4d78ac08a35fb5afe3c07a8df7bd204f0d67a63e50f65b1e09dec879cab460",
+  "code_sha256": {
+    "motion.py": "cb63d07e58ea456ba87887a770d7fb8d145578db481cab3b347a6e7da3bbaee9",
+    "render_demo.py": "536e21a93b4cb9188f07e08062fbf10b0400185463ec22b9617c9f01d5c3e0d4"
+  },
+  "mp4_sha256": "8464f3295c7ec284b0f9470a8bf9051a4b7b4f2e81779353a1469f4df1722c31",
+  "scope": "Executed flat 2D demo; not a GPU/3D, HDR, complex script shaping, human comprehension or accessibility certification."
+}

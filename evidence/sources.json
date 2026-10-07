@@ -1,0 +1,298 @@
+[
+  {
+    "id": "R01",
+    "title": "Pixar in a Box",
+    "url": "https://www.khanacademy.org/computing/pixar",
+    "status": "CANDIDATE",
+    "scope": "Jalur craft/story/animation; tidak dipakai sebagai bukti aturan narasi universal.",
+    "inspected_on": null
+  },
+  {
+    "id": "R02",
+    "title": "Walt Disney Animation process",
+    "url": "https://www.disneyanimation.com/process/",
+    "status": "CANDIDATE",
+    "scope": "Jalur proses art/animation; penilaian desain repo merupakan authored synthesis.",
+    "inspected_on": null
+  },
+  {
+    "id": "R03",
+    "title": "An escape from crowding, Freeman and Pelli",
+    "url": "https://doi.org/10.1167/7.2.22",
+    "status": "SEARCH_EXCERPT_INSPECTED",
+    "scope": "Abstract/task context; tidak diekstrapolasi menjadi aturan semua video.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R04",
+    "title": "Pixar official studio resources",
+    "url": "https://www.pixar.com/",
+    "status": "DISCOVERY_ONLY",
+    "scope": "Situs studio ditemukan; bukan bukti effectiveness visual identity.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R05",
+    "title": "Blender Manual",
+    "url": "https://docs.blender.org/manual/en/latest/",
+    "status": "CANDIDATE",
+    "scope": "Jalur implementation; versi terbaru bukan environment yang telah diuji.",
+    "inspected_on": null
+  },
+  {
+    "id": "R06",
+    "title": "PBRT Geometry and Transformations",
+    "url": "https://www.pbr-book.org/4ed/Geometry_and_Transformations",
+    "status": "CANDIDATE",
+    "scope": "Jalur geometry; perhitungan repo diturunkan tersendiri.",
+    "inspected_on": null
+  },
+  {
+    "id": "R07",
+    "title": "SVG 2 specification",
+    "url": "https://www.w3.org/TR/SVG2/",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Abstract dan index coordinate/path/text; tiap detail normative membutuhkan section follow-up.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R08",
+    "title": "CSS Grid Layout Level 2",
+    "url": "https://www.w3.org/TR/css-grid-2/",
+    "status": "CANDIDATE",
+    "scope": "Jalur constraint/layout implementation, bukan standar komposisi video.",
+    "inspected_on": null
+  },
+  {
+    "id": "R09",
+    "title": "On the contrast dependence of crowding",
+    "url": "https://doi.org/10.1167/jov.21.1.4",
+    "status": "SEARCH_EXCERPT_INSPECTED",
+    "scope": "Abstract: crowding/contrast model; bukan blanket readability guarantee.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R10",
+    "title": "Acuity and crowding limits to letter identification",
+    "url": "https://doi.org/10.1167/14.5.3",
+    "status": "SEARCH_EXCERPT_INSPECTED",
+    "scope": "Abstract: task-specific size/spacing; tidak menetapkan ukuran glyph universal.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R11",
+    "title": "Physically Based Rendering, fourth edition",
+    "url": "https://www.pbr-book.org/4ed/",
+    "status": "CANDIDATE",
+    "scope": "Jalur geometry/light/rendering; seluruh textbook belum diaudit.",
+    "inspected_on": null
+  },
+  {
+    "id": "R12",
+    "title": "Unicode UAX29 text segmentation",
+    "url": "https://www.unicode.org/reports/tr29/",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Grapheme cluster dan perbedaannya dengan glyph/ligature.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R13",
+    "title": "HarfBuzz shaping concepts",
+    "url": "https://harfbuzz.github.io/shaping-concepts.html",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Shaping mengubah Unicode codepoints menjadi glyph layout sesuai font/script.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R14",
+    "title": "Pillow text drawing",
+    "url": "https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html",
+    "status": "CANDIDATE",
+    "scope": "Jalur API text/metrics; demo tidak menguji semua shaping scripts.",
+    "inspected_on": null
+  },
+  {
+    "id": "R15",
+    "title": "CSS Color 4",
+    "url": "https://www.w3.org/TR/css-color-4/",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Color-space index dan transfer/conversion reference; tidak seluruh spec diimplementasikan.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R16",
+    "title": "OpenColorIO documentation",
+    "url": "https://opencolorio.readthedocs.io/en/latest/",
+    "status": "CANDIDATE",
+    "scope": "Jalur managed color pipeline; OCIO tidak dijalankan demo.",
+    "inspected_on": null
+  },
+  {
+    "id": "R17",
+    "title": "ACES official documentation",
+    "url": "https://docs.acescentral.com/",
+    "status": "CANDIDATE",
+    "scope": "Jalur color management/HDR; bukan settings demo SDR.",
+    "inspected_on": null
+  },
+  {
+    "id": "R18",
+    "title": "PBRT reflection models",
+    "url": "https://www.pbr-book.org/4ed/Reflection_Models",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Reflection Models introduction: representation of scattering; no transport implementation audit.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R19",
+    "title": "Blender rendering manual",
+    "url": "https://docs.blender.org/manual/en/latest/render/index.html",
+    "status": "CANDIDATE",
+    "scope": "Jalur renderer implementation; Blender tidak dieksekusi build.",
+    "inspected_on": null
+  },
+  {
+    "id": "R20",
+    "title": "PBRT Camera Interface",
+    "url": "https://www.pbr-book.org/4ed/Cameras_and_Film/Camera_Interface",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Shutter open interval dan time sampling; coordinate-space introduction.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R21",
+    "title": "Web Animations",
+    "url": "https://www.w3.org/TR/web-animations-1/",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Document/index dibaca sebagai jalur timing; specific normative claims perlu section follow-up.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R22",
+    "title": "SciPy integrate documentation",
+    "url": "https://docs.scipy.org/doc/scipy/reference/integrate.html",
+    "status": "CANDIDATE",
+    "scope": "Jalur ODE/integrators; analytic/symplectic contoh repo berasal dari derivasi stated model.",
+    "inspected_on": null
+  },
+  {
+    "id": "R23",
+    "title": "FFmpeg documentation",
+    "url": "https://ffmpeg.org/ffmpeg.html",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Filter/encoder/muxer model; actual invocation divalidasi di environment run.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R24",
+    "title": "Web Audio API",
+    "url": "https://www.w3.org/TR/webaudio/",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Document/index untuk API audio; demo memakai Python PCM synthesis, bukan browser API.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R25",
+    "title": "Blender animation manual",
+    "url": "https://docs.blender.org/manual/en/latest/animation/index.html",
+    "status": "CANDIDATE",
+    "scope": "Jalur tracks/animation controls; bukan implementation demo.",
+    "inspected_on": null
+  },
+  {
+    "id": "R26",
+    "title": "Blender physics manual",
+    "url": "https://docs.blender.org/manual/en/latest/physics/index.html",
+    "status": "CANDIDATE",
+    "scope": "Jalur rig/physics; solver tidak diberi PASS oleh demo.",
+    "inspected_on": null
+  },
+  {
+    "id": "R27",
+    "title": "PBRT perspective camera",
+    "url": "https://www.pbr-book.org/4ed/Cameras_and_Film/Perspective_Camera",
+    "status": "CANDIDATE",
+    "scope": "Jalur lens/projection; pinhole derivation repo punya assumptions sendiri.",
+    "inspected_on": null
+  },
+  {
+    "id": "R28",
+    "title": "OpenTimelineIO time ranges",
+    "url": "https://opentimelineio.readthedocs.io/en/latest/tutorials/time-ranges.html",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Document/index untuk temporal ranges; library tidak dijalankan demo.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R29",
+    "title": "OpenTimelineIO official docs",
+    "url": "https://opentimelineio.readthedocs.io/",
+    "status": "CANDIDATE",
+    "scope": "Jalur edit/timeline interchange; overlap calculation repo berasal dari interval arithmetic.",
+    "inspected_on": null
+  },
+  {
+    "id": "R30",
+    "title": "Position Based Dynamics project",
+    "url": "https://github.com/InteractiveComputerGraphics/PositionBasedDynamics",
+    "status": "CANDIDATE",
+    "scope": "Primary implementation for specialist simulation; belum dijalankan.",
+    "inspected_on": null
+  },
+  {
+    "id": "R31",
+    "title": "Khronos Vulkan specification",
+    "url": "https://registry.khronos.org/vulkan/",
+    "status": "CANDIDATE",
+    "scope": "Jalur GPU rendering; tidak ada GPU claim execution.",
+    "inspected_on": null
+  },
+  {
+    "id": "R32",
+    "title": "W3C Compositing and Blending",
+    "url": "https://www.w3.org/TR/compositing-1/",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Simple alpha source-over formula untuk matched conventions.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R33",
+    "title": "FFmpeg filters documentation",
+    "url": "https://ffmpeg.org/ffmpeg-filters.html",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Filter document dibuka; zscale support dan output diuji secara lokal.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R34",
+    "title": "FFprobe documentation",
+    "url": "https://ffmpeg.org/ffprobe.html",
+    "status": "CANDIDATE",
+    "scope": "Jalur probing API; command actual dieksekusi sebagai evidence terpisah.",
+    "inspected_on": null
+  },
+  {
+    "id": "R35",
+    "title": "WCAG 2.2",
+    "url": "https://www.w3.org/TR/WCAG22/",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "2.3.1/2.3.2/2.3.3 scope; flash threshold bukan framecount sederhana; bukan certification demo.",
+    "inspected_on": "2026-10-07"
+  },
+  {
+    "id": "R36",
+    "title": "GitHub REST Git Database",
+    "url": "https://docs.github.com/en/rest/git",
+    "status": "CANDIDATE",
+    "scope": "Maintenance/interchange route; knowledge material tidak bergantung GitHub implementation.",
+    "inspected_on": null
+  },
+  {
+    "id": "R37",
+    "title": "WebGPU Shading Language",
+    "url": "https://www.w3.org/TR/WGSL/",
+    "status": "PASSAGE_INSPECTED",
+    "scope": "Document and type/resource index; implementation needs normative section inspection.",
+    "inspected_on": "2026-10-07"
+  }
+]

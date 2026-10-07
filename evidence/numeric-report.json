@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "tests_run": 12,
+  "failures": 0,
+  "errors": 0,
+  "test_code_sha256": "721dafa5fa81a39ac6e045923aafe86f10641c4b12a97bf3cef5f24bb8d9e08e",
+  "executed_at": "2026-10-07T20:42:48.639422+00:00",
+  "scope": "Twelve numeric tests: spring initial/known values/ODE residual, exact curve length/arc inversion, pivot, source-over, transfer roundtrip/midpoint, clocks, shutter, phase/degeneracy",
+  "output": "test_arc_inversion_equal_distances (test_motion.MotionChecks.test_arc_inversion_equal_distances) ... ok\ntest_arc_length_exact_reference (test_motion.MotionChecks.test_arc_length_exact_reference) ... ok\ntest_exact_clock (test_motion.MotionChecks.test_exact_clock) ... ok\ntest_forward_shutter_footprint (test_motion.MotionChecks.test_forward_shutter_footprint) ... ok\ntest_invalid_degenerate_path (test_motion.MotionChecks.test_invalid_degenerate_path) ... ok\ntest_linear_light_midpoint (test_motion.MotionChecks.test_linear_light_midpoint) ... ok\ntest_phase_boundaries (test_motion.MotionChecks.test_phase_boundaries) ... ok\ntest_pivot_invariant (test_motion.MotionChecks.test_pivot_invariant) ... ok\ntest_source_over_oracle_and_noncommutativity (test_motion.MotionChecks.test_source_over_oracle_and_noncommutativity) ... ok\ntest_spring_independent_ode_residual (test_motion.MotionChecks.test_spring_independent_ode_residual) ... ok\ntest_spring_initial_conditions (test_motion.MotionChecks.test_spring_initial_conditions) ... ok\ntest_spring_known_value (test_motion.MotionChecks.test_spring_known_value) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.078s\n\nOK\n"
+}

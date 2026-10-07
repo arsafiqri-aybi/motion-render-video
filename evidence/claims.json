@@ -1,0 +1,44 @@
+[
+  {
+    "id": "E01",
+    "claim": "Premultiplied source-over matches numeric oracle",
+    "basis": "R32 + tests",
+    "scope": "One matched-space RGBA model",
+    "status": "PASS_SCOPED_DEMO"
+  },
+  {
+    "id": "E02",
+    "claim": "Grapheme clusters are not identical to glyphs",
+    "basis": "R12 R13",
+    "scope": "Text representation/shaping distinction",
+    "status": "PASSAGE_INSPECTED"
+  },
+  {
+    "id": "E03",
+    "claim": "Shutter time sampling yields motion blur",
+    "basis": "R20 + demo",
+    "scope": "Flat demo quadrature; not complete camera optics",
+    "status": "PASS_SCOPED_DEMO"
+  },
+  {
+    "id": "E04",
+    "claim": "Critical spring formula satisfies initial conditions and zero-target ODE",
+    "basis": "Authored derivation + independent numeric residual",
+    "scope": "constant target critically damped oscillator",
+    "status": "PASS_SCOPED_DEMO"
+  },
+  {
+    "id": "E05",
+    "claim": "180 frames at 30fps cover six seconds",
+    "basis": "Rational arithmetic + ffprobe actual output",
+    "scope": "CFR interval convention",
+    "status": "PASS_SCOPED_DEMO"
+  },
+  {
+    "id": "E06",
+    "claim": "Video comfort/understanding is proven for all audiences",
+    "basis": null,
+    "scope": "Not claimed; no human study performed",
+    "status": "NOT_CLAIMED"
+  }
+]

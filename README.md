@@ -1,34 +1,47 @@
 # Motion Render Video
 
-Sistem pengetahuan dan alur kerja untuk merancang, membuat, merender, memeriksa dan memperbaiki motion/video. Tujuan lengkapnya tetap mencakup 27 lobe, 174 module dan 1.740 neuron beserta graph, bukti, diagnosis, adapter, runtime dan pengembangan yang terkendali.
+Knowledge base berbahasa Indonesia tentang pengetahuan yang membentuk **manifestasi motion dalam video**: bentuk, teks, ruang, gerak, waktu, kamera, editing, efek, suara, dan gambar hasil render.
 
-Checkpoint Work menyediakan proyek yang konsisten dan runtime eksperimental yang benar-benar dapat menjalankan render 2D, inspeksi video, analisis sinyal audio, inventaris aset, konteks platform/data spasial yang diberikan, rencana perhatian dan kalkulasi gerak bersyarat dan retrieval berbukti. Kini tersedia adapter memori deklaratif dan render 3D primitive CPU Cycles dengan pemeriksaan hasil nyata; batas subsetnya dijelaskan dalam kontrak runtime. Bukti3D mengacu pada eksekusi historis yang tercatat; executable perlu dipulihkan dan diperiksa sebelum render3D baru. **Sistem pengetahuan lengkap belum selesai:** 67 module mempunyai review lokal; 107 masih belum dipopulasi. Status ini dibaca dari berkas, bukan percakapan.
+Titik masuknya adalah apa yang ditampilkan dan dialami penonton. Matematika, kode, simulasi, GPU, state dan pipeline dibahas ketika menjelaskan atau menghasilkan tampilan tersebut. Library/software menjadi lapisan implementasi, bukan induk pengetahuan.
 
-Prioritas aktif: **FAST_RELEASE_COMPLETE** melalui coverage seluruh174module, functional completeness, integration, critical verification dan usable release, lalu **DEEPENING_IN_PROGRESS**. Arsitektur/scope tetap; pendalaman non-kritis tercatat di `00_CONTROL/DEEPENING_BACKLOG.json`. Milestone fast release belum tercapai.
+## Mulai membaca
 
-Baca `PROJECT_REPORT_ID.md` untuk hasil dan batasnya. Untuk melanjutkan: `00_CONTROL/CURRENT_STATE.md` → `03_MANIFEST.yaml` → `EXECUTION_CONTRACT.json` → `WORK_HANDOFF.yaml` → packet dan scope yang dituju. Riwayat versi lama tetap merupakan riwayat, bukan status terbaru.
+- [Master map: 22 induk](architecture/master-map.md)
+- [Navigasi berdasarkan tampilan dan masalah](architecture/manifestations.md)
+- [198 konsep terstruktur](architecture/concepts.json)
+- [Fondasi lintas domain](knowledge/foundations.md)
+- [Penurunan dan algoritma](knowledge/algorithms/README.md)
+- [Delapan cabang spesialis](knowledge/specialists/README.md)
+- [Playbooks produksi](playbooks/README.md)
+- [Diagnosis kegagalan](diagnostics/README.md)
+- [Sumber, scope, dan bukti](evidence/README.md)
+- [Jalur belajar dan penguasaan](learning/README.md)
+- [Contoh video yang benar-benar dirender](examples/README.md)
 
-## Pemakaian lokal
+## Cara materi disusun
 
-Butuh Python, NumPy, Pillow, PyYAML dan fontTools untuk inspeksi font dan FFmpeg/FFprobe. Lihat `05_TOOLS/README_TOOLS.md` untuk perintah dan versi yang benar-benar diuji.
+Setiap induk memuat manifestasi, batas, fondasi, sembilan konsep utama, prinsip/model, implementasi, failure mode, metode pemeriksaan, contoh terhitung, kasus produksi, trade-offs, workflow, kriteria penguasaan dan cabang spesialis. Indeks konsep dapat dipakai software tanpa perlu menebak judul folder.
+
+Hubungan antardomain bersifat many-to-many. Typography yang bergerak, misalnya, menghubungkan text shaping, layout, temporal choreography, compositing dan readability. Tidak setiap efek perlu dibuat menjadi induk baru.
+
+## Menjalankan contoh
+
+Python 3.10+; FFmpeg/ffprobe dengan libx264 dan zscale; Fontconfig dan DejaVu Sans. Dependencies Python berada di [requirements.txt](requirements.txt).
 
 ```bash
-python 05_TOOLS/media_runtime.py doctor
-python 05_TOOLS/project_runtime.py . status
-python 05_TOOLS/project_runtime.py . query "brief atau gejala" --limit 6
-python 05_TOOLS/media_runtime.py render 06_EVALUATION/BENCHMARKS/demo_motion.json hasil.mp4
+python3 -m pip install -r requirements.txt
+python3 -m unittest discover -s tests -v
+python3 runtime/render_demo.py --out .local-output
+python3 tools/verify_media.py .local-output
+python3 tools/validate_knowledge.py
 ```
 
-Bila index usang, bangun dari bytes saat ini dengan `python 05_TOOLS/project_runtime.py . build`. Perintah retrieval tidak mengubah status modul atau graph. File sumber dilindungi; gunakan nama output baru untuk iterasi.
+Render contoh menghasilkan 640×360, 30 fps, 180 frame, enam detik dan audio mono 48 kHz. Kode melakukan sampling temporal, transform color yang dinyatakan dan encoding nyata. [Laporan run yang disertakan](evidence/render-report.json) dan [pemeriksaan media](evidence/media-report.json) mengacu pada binary demo yang disertakan.
 
-## Hasil dan pemeriksaan
+## Kedalaman dan status
 
-- `06_EVALUATION/BENCHMARKS/demo_motion.mp4`: render nyata 6 detik, 960×540, 30 fps, tanpa audio.
-- `06_EVALUATION/BENCHMARKS/attention_staged_demo.mp4`: variasi timing nyata dengan rencana perhatian dan laporan teknis; efek penonton belum diuji.
-- `06_EVALUATION/`: hasil uji integritas, media, retrieval, numerik/pengukuran, audio, review lokal dan pemakaian skill.
-- `01_RESEARCH/`: sumber, klaim, evidence, contradiction dan scope per modul.
-- `02_KNOWLEDGE/`: canonical, operational, QA dan neuron cards yang sudah tersedia.
-- `03_GRAPH/`: graph aktif dan representasinya; usulan provisional berada terpisah dalam modul.
-- `07_RUNTIME_SKILL/`: index yang dapat dibangun ulang dan panduan runtime proyek. Skill yang terpasang dikelola sebagai skill pribadi tersendiri.
+Seluruh 22 induk memiliki materi yang tertulis; ini bukan folder kosong atau daftar link saja. Keberadaan cabang spesialis tidak berarti seluruh literaturnya sudah dijabarkan atau diaudit. Klaim universal “seluruh ilmu motion sudah selesai 100%” tidak dipakai.
 
-PASS berlaku hanya bagi properti yang diperiksa. Decode sukses, metadata benar, jumlah ID lengkap atau output yang menarik tidak menggantikan validasi pengetahuan, kualitas temporal, respons manusia atau penerimaan seluruh proyek.
+**AUTHORED** berarti penjelasan tersedia. **PASS untuk demo** hanya berarti pemeriksaan yang disebut dalam laporan sudah dijalankan. Sumber yang baru menjadi jalur riset diberi **CANDIDATE**; passage yang dibaca diberi scope tersendiri. [Batas cakupan](architecture/scope.md) menjaga perbedaan ini.
+
+Struktur ini adalah isi baru repository. Materi lama tidak disalin sebagai backup, archive atau release mirror.

@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "scope": "Decoded dimensions, CFR cadence/count, video/container duration, BT709 tags/range/pixel format, audio rate/channels, full decode, finite audio/headroom and four threshold-defined cue onsets. Not a comprehension, accessibility, loudness compliance or color calibration certification.",
+  "sha256": "8464f3295c7ec284b0f9470a8bf9051a4b7b4f2e81779353a1469f4df1722c31",
+  "frames": 180,
+  "duration_seconds": 6.0,
+  "max_pts_error_seconds": 3.33333333379926e-07,
+  "audio_decoded_samples": 288768,
+  "audio_decoded_peak": 0.08955749869346619,
+  "cue_measurement": {
+    "method": "5ms RMS windows; first RMS >0.001 within cue -30ms/+80ms",
+    "tolerance_seconds": [
+      -0.015,
+      0.035
+    ],
+    "events": [
+      {
+        "cue_seconds": 0.5,
+        "detected_window_start_seconds": 0.505,
+        "offset_seconds": 0.005
+      },
+      {
+        "cue_seconds": 2.0,
+        "detected_window_start_seconds": 2.005,
+        "offset_seconds": 0.005
+      },
+      {
+        "cue_seconds": 3.5,
+        "detected_window_start_seconds": 3.505,
+        "offset_seconds": 0.005
+      },
+      {
+        "cue_seconds": 5.0,
+        "detected_window_start_seconds": 5.005,
+        "offset_seconds": 0.005
+      }
+    ]
+  },
+  "video_stream": {
+    "codec_name": "h264",
+    "width": 640,
+    "height": 360,
+    "pix_fmt": "yuv420p",
+    "avg_frame_rate": "30/1",
+    "color_range": "tv",
+    "color_space": "bt709",
+    "color_transfer": "bt709",
+    "color_primaries": "bt709"
+  }
+}

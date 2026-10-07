@@ -1,0 +1,1122 @@
+{
+  "nodes": [
+    "M01",
+    "M02",
+    "M03",
+    "M04",
+    "M05",
+    "M06",
+    "M07",
+    "M08",
+    "M09",
+    "M10",
+    "M11",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M16",
+    "M17",
+    "M18",
+    "M19",
+    "M20",
+    "M21",
+    "M22"
+  ],
+  "edges": [
+    {
+      "from": "M01",
+      "to": "M02",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M01",
+      "to": "M04",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M01",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M01",
+      "to": "M12",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M01",
+      "to": "M15",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M01",
+      "to": "M19",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M01",
+      "to": "M20",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M02",
+      "to": "M01",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M02",
+      "to": "M03",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M02",
+      "to": "M05",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M02",
+      "to": "M06",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M02",
+      "to": "M07",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M02",
+      "to": "M08",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M02",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M02",
+      "to": "M12",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M02",
+      "to": "M19",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M03",
+      "to": "M04",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M03",
+      "to": "M05",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M03",
+      "to": "M06",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M03",
+      "to": "M09",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M03",
+      "to": "M12",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M03",
+      "to": "M14",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M03",
+      "to": "M15",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M03",
+      "to": "M20",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M04",
+      "to": "M01",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M04",
+      "to": "M03",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M04",
+      "to": "M06",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M04",
+      "to": "M07",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M04",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M04",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M04",
+      "to": "M12",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M04",
+      "to": "M19",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M04",
+      "to": "M20",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M05",
+      "to": "M03",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M05",
+      "to": "M09",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M05",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M05",
+      "to": "M13",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M05",
+      "to": "M16",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M05",
+      "to": "M17",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M05",
+      "to": "M18",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M05",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M06",
+      "to": "M01",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M06",
+      "to": "M03",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M06",
+      "to": "M04",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M06",
+      "to": "M07",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M06",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M06",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M06",
+      "to": "M12",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M06",
+      "to": "M18",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M06",
+      "to": "M20",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M07",
+      "to": "M02",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M07",
+      "to": "M04",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M07",
+      "to": "M08",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M07",
+      "to": "M17",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M07",
+      "to": "M18",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M07",
+      "to": "M20",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M07",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M07",
+      "to": "M22",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M08",
+      "to": "M02",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M08",
+      "to": "M05",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M08",
+      "to": "M07",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M08",
+      "to": "M09",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M08",
+      "to": "M14",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M08",
+      "to": "M17",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M08",
+      "to": "M18",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M08",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M09",
+      "to": "M03",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M09",
+      "to": "M05",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M09",
+      "to": "M08",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M09",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M09",
+      "to": "M13",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M09",
+      "to": "M14",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M09",
+      "to": "M18",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M09",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M10",
+      "to": "M05",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M10",
+      "to": "M09",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M10",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M10",
+      "to": "M12",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M10",
+      "to": "M13",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M10",
+      "to": "M14",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M10",
+      "to": "M16",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M10",
+      "to": "M20",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M10",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M11",
+      "to": "M01",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M11",
+      "to": "M06",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M11",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M11",
+      "to": "M12",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M11",
+      "to": "M15",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M11",
+      "to": "M19",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M11",
+      "to": "M20",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M11",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M11",
+      "to": "M22",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M12",
+      "to": "M01",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M12",
+      "to": "M03",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M12",
+      "to": "M04",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M12",
+      "to": "M06",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M12",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M12",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M12",
+      "to": "M14",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M12",
+      "to": "M15",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M12",
+      "to": "M19",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M13",
+      "to": "M05",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M13",
+      "to": "M09",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M13",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M13",
+      "to": "M16",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M13",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M14",
+      "to": "M03",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M14",
+      "to": "M09",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M14",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M14",
+      "to": "M15",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M14",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M15",
+      "to": "M01",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M15",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M15",
+      "to": "M12",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M15",
+      "to": "M14",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M15",
+      "to": "M18",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M15",
+      "to": "M19",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M16",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M16",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M16",
+      "to": "M13",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M16",
+      "to": "M17",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M16",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M16",
+      "to": "M22",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M17",
+      "to": "M05",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M17",
+      "to": "M07",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M17",
+      "to": "M08",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M17",
+      "to": "M16",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M17",
+      "to": "M18",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M17",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M18",
+      "to": "M07",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M18",
+      "to": "M08",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M18",
+      "to": "M15",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M18",
+      "to": "M17",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M18",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M18",
+      "to": "M22",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M19",
+      "to": "M01",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M19",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M19",
+      "to": "M12",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M19",
+      "to": "M15",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M19",
+      "to": "M20",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M19",
+      "to": "M22",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M20",
+      "to": "M01",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M20",
+      "to": "M04",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M20",
+      "to": "M06",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M20",
+      "to": "M07",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M20",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M20",
+      "to": "M19",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M20",
+      "to": "M22",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M21",
+      "to": "M07",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M21",
+      "to": "M08",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M21",
+      "to": "M10",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M21",
+      "to": "M11",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M21",
+      "to": "M18",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M21",
+      "to": "M22",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M22",
+      "to": "M01",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M22",
+      "to": "M06",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M22",
+      "to": "M07",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M22",
+      "to": "M19",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M22",
+      "to": "M20",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    },
+    {
+      "from": "M22",
+      "to": "M21",
+      "relationship": "CONNECTED",
+      "rationale": "Shared output concern; see source chapter boundaries and mechanisms."
+    }
+  ],
+  "manifestations": [
+    {
+      "name": "Pesan tidak tersampaikan",
+      "domains": [
+        "M01",
+        "M04",
+        "M15",
+        "M20"
+      ],
+      "entry_method": "Tulis message contract; periksa urutan informasi, hold, edit dan viewer comprehension."
+    },
+    {
+      "name": "Identitas terasa generik",
+      "domains": [
+        "M02",
+        "M05",
+        "M06",
+        "M07",
+        "M08",
+        "M12"
+      ],
+      "entry_method": "Bangun visual grammar serta motion grammar dari tujuan; nilai consistency dan distinction."
+    },
+    {
+      "name": "Teks bergerak tetapi sulit dibaca",
+      "domains": [
+        "M03",
+        "M06",
+        "M11",
+        "M12",
+        "M20",
+        "M21"
+      ],
+      "entry_method": "Pisahkan reveal dari reading window; inspect shaping, size, contrast dan exposure."
+    },
+    {
+      "name": "Gerak terasa mekanis atau tanpa berat",
+      "domains": [
+        "M10",
+        "M11",
+        "M12",
+        "M13",
+        "M16"
+      ],
+      "entry_method": "Periksa velocity/acceleration, pivot, deformation, response lag serta contact."
+    },
+    {
+      "name": "Ruang tidak terasa dalam",
+      "domains": [
+        "M03",
+        "M08",
+        "M09",
+        "M14",
+        "M18"
+      ],
+      "entry_method": "Uji projection, occlusion, parallax, light/shadow dan compositing cues."
+    },
+    {
+      "name": "Morph robek atau twist",
+      "domains": [
+        "M05",
+        "M10",
+        "M13",
+        "M21"
+      ],
+      "entry_method": "Periksa correspondence, winding, topology dan edge sampling."
+    },
+    {
+      "name": "Transisi terasa ditempel",
+      "domains": [
+        "M01",
+        "M12",
+        "M14",
+        "M15",
+        "M18"
+      ],
+      "entry_method": "Nyatakan fungsi perubahan konteks; compare match, cut dan motivated occlusion."
+    },
+    {
+      "name": "Efek flicker atau terlalu ramai",
+      "domains": [
+        "M04",
+        "M16",
+        "M17",
+        "M20",
+        "M21"
+      ],
+      "entry_method": "Pisahkan signal variation dari aliasing; batasi frequencies, hierarchy dan history."
+    },
+    {
+      "name": "Tepi transparan gelap",
+      "domains": [
+        "M07",
+        "M17",
+        "M18",
+        "M21",
+        "M22"
+      ],
+      "entry_method": "Uji premultiplication, filtering space dan output alpha support."
+    },
+    {
+      "name": "Suara tidak mengikuti impact",
+      "domains": [
+        "M11",
+        "M12",
+        "M19",
+        "M22"
+      ],
+      "entry_method": "Gunakan single cue timebase; decode dan ukur onset/duration serta listening."
+    },
+    {
+      "name": "Video bagus di preview tapi rusak setelah ekspor",
+      "domains": [
+        "M06",
+        "M07",
+        "M18",
+        "M21",
+        "M22"
+      ],
+      "entry_method": "Check actual codec, chroma, color transform/tags, timebase serta decoded pixels."
+    },
+    {
+      "name": "Video tidak nyaman ditonton",
+      "domains": [
+        "M04",
+        "M11",
+        "M14",
+        "M17",
+        "M19",
+        "M20"
+      ],
+      "entry_method": "Nilai whole-field movement, flash patterns, information load dan viewing conditions."
+    }
+  ]
+}
